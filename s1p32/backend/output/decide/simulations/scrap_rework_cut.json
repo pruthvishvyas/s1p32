@@ -1,0 +1,206 @@
+{
+  "id": "scrap_rework_cut",
+  "title": "Reduce scrap and rework cost",
+  "description": "Direct saving from cutting scrap and rework cost by the chosen share.",
+  "variable": {
+    "key": "cut",
+    "label": "Scrap and rework cost reduction",
+    "unit": "%",
+    "min": 0,
+    "max": 50,
+    "step": 2.5,
+    "default": 10,
+    "format": "percent"
+  },
+  "outputs": [
+    {
+      "key": "copq_pct",
+      "label": "COPQ as % of revenue",
+      "format": "percent"
+    },
+    {
+      "key": "saving",
+      "label": "Quality cost saved",
+      "format": "currency"
+    },
+    {
+      "key": "margin_pct",
+      "label": "Margin after quality %",
+      "format": "percent"
+    }
+  ],
+  "table": [
+    {
+      "x": 0.0,
+      "values": {
+        "copq_pct": 2.3957,
+        "saving": 0.0,
+        "margin_pct": 19.509
+      }
+    },
+    {
+      "x": 2.5,
+      "values": {
+        "copq_pct": 2.3891,
+        "saving": 9546.1975,
+        "margin_pct": 19.5155
+      }
+    },
+    {
+      "x": 5.0,
+      "values": {
+        "copq_pct": 2.3825,
+        "saving": 19092.395,
+        "margin_pct": 19.5221
+      }
+    },
+    {
+      "x": 7.5,
+      "values": {
+        "copq_pct": 2.3759,
+        "saving": 28638.5925,
+        "margin_pct": 19.5287
+      }
+    },
+    {
+      "x": 10.0,
+      "values": {
+        "copq_pct": 2.3693,
+        "saving": 38184.79,
+        "margin_pct": 19.5353
+      }
+    },
+    {
+      "x": 12.5,
+      "values": {
+        "copq_pct": 2.3627,
+        "saving": 47730.9875,
+        "margin_pct": 19.5419
+      }
+    },
+    {
+      "x": 15.0,
+      "values": {
+        "copq_pct": 2.3562,
+        "saving": 57277.185,
+        "margin_pct": 19.5485
+      }
+    },
+    {
+      "x": 17.5,
+      "values": {
+        "copq_pct": 2.3496,
+        "saving": 66823.3825,
+        "margin_pct": 19.5551
+      }
+    },
+    {
+      "x": 20.0,
+      "values": {
+        "copq_pct": 2.343,
+        "saving": 76369.58,
+        "margin_pct": 19.5616
+      }
+    },
+    {
+      "x": 22.5,
+      "values": {
+        "copq_pct": 2.3364,
+        "saving": 85915.7775,
+        "margin_pct": 19.5682
+      }
+    },
+    {
+      "x": 25.0,
+      "values": {
+        "copq_pct": 2.3298,
+        "saving": 95461.975,
+        "margin_pct": 19.5748
+      }
+    },
+    {
+      "x": 27.5,
+      "values": {
+        "copq_pct": 2.3232,
+        "saving": 105008.1725,
+        "margin_pct": 19.5814
+      }
+    },
+    {
+      "x": 30.0,
+      "values": {
+        "copq_pct": 2.3166,
+        "saving": 114554.37,
+        "margin_pct": 19.588
+      }
+    },
+    {
+      "x": 32.5,
+      "values": {
+        "copq_pct": 2.3101,
+        "saving": 124100.5675,
+        "margin_pct": 19.5946
+      }
+    },
+    {
+      "x": 35.0,
+      "values": {
+        "copq_pct": 2.3035,
+        "saving": 133646.765,
+        "margin_pct": 19.6012
+      }
+    },
+    {
+      "x": 37.5,
+      "values": {
+        "copq_pct": 2.2969,
+        "saving": 143192.9625,
+        "margin_pct": 19.6077
+      }
+    },
+    {
+      "x": 40.0,
+      "values": {
+        "copq_pct": 2.2903,
+        "saving": 152739.16,
+        "margin_pct": 19.6143
+      }
+    },
+    {
+      "x": 42.5,
+      "values": {
+        "copq_pct": 2.2837,
+        "saving": 162285.3575,
+        "margin_pct": 19.6209
+      }
+    },
+    {
+      "x": 45.0,
+      "values": {
+        "copq_pct": 2.2771,
+        "saving": 171831.555,
+        "margin_pct": 19.6275
+      }
+    },
+    {
+      "x": 47.5,
+      "values": {
+        "copq_pct": 2.2705,
+        "saving": 181377.7525,
+        "margin_pct": 19.6341
+      }
+    },
+    {
+      "x": 50.0,
+      "values": {
+        "copq_pct": 2.264,
+        "saving": 190923.95,
+        "margin_pct": 19.6407
+      }
+    }
+  ],
+  "assumptions": [
+    "Straight arithmetic on booked scrap and rework cost.",
+    "No change to shipped volume or price."
+  ]
+}

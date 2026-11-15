@@ -1,0 +1,5 @@
+{
+  "primary_model.joblib": "8c5fe117c5b83d352624e0219a545562e72c5584f1697ac88a432e11cda55b11",
+  "segment_model.joblib": "0a96447555a031a7df2dd812ce0ca7c710356cdf3c004ad04c4b773a469a2b9f",
+  "anomaly_model.joblib": "536de93a5f3217db61bcb06d300894dea6ba2c35e8be1385ecb12f26c533fccf"
+}

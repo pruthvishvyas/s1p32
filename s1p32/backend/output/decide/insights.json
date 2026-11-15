@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "severity": "HIGH",
+      "category": "Cost Concentration",
+      "finding": "The worst quarter of batches by COPQ share of revenue carries most of the quality bill.",
+      "evidence": "256 of 1,000 batches hold 49.9% of total COPQ (1,733,355 of 3,472,487).",
+      "action": "Review the high cost batch list with plant quality leads this week.",
+      "outcome": "decide"
+    },
+    {
+      "severity": "HIGH",
+      "category": "Process Capability",
+      "finding": "Batches below the Cpk target cost more to correct.",
+      "evidence": "COPQ is 2.96% of revenue for 119 batches below Cpk 1.33 against 2.32% for 881 batches at or above it.",
+      "action": "Prioritise capability work on the lines producing the low Cpk batches.",
+      "outcome": "decide"
+    },
+    {
+      "severity": "HIGH",
+      "category": "Plant Performance",
+      "finding": "Plants differ clearly in cost of poor quality.",
+      "evidence": "Plant B (Texas) runs at 2.51% of revenue (358 batches) against 2.28% at Plant C (Monterrey) (350 batches).",
+      "action": "Share the practices of the best plant with the worst plant this month.",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Product Performance",
+      "finding": "One product family is the costliest to get right.",
+      "evidence": "Injection Molded Housings carries COPQ of 3.46% of revenue (190 batches) against 1.81% for Precision Shafts.",
+      "action": "Review the process plan and inspection points for the costliest family.",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Supplier Quality",
+      "finding": "Material suppliers show a gap in downstream cost.",
+      "evidence": "Batches on S2 show COPQ of 3.18% of revenue (305 batches) against 2.06% on S1.",
+      "action": "Raise the gap in the next supplier review and request corrective actions.",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Process Stability",
+      "finding": "Special cause events are followed by higher quality cost.",
+      "evidence": "47 special cause batches carry COPQ of 4.20% of revenue against 2.30% for 953 others.",
+      "action": "Hold a short cause review for every special cause event.",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Failure Mix",
+      "finding": "Failures reaching the customer are a measurable part of the quality bill.",
+      "evidence": "External failure cost is 70.4% of total COPQ (2,445,416 of 3,472,487).",
+      "action": "Check final inspection coverage for the product families with most external failure cost.",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Anomalies",
+      "finding": "A small set of batches is statistically unusual.",
+      "evidence": "50 batches (5.0% of the dataset) are flagged; 98.0% of them are high cost batches against 21.8% elsewhere.",
+      "action": "Walk through the flagged batches with the shift supervisors.",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Alert Load",
+      "finding": "Urgent alerts need immediate ownership.",
+      "evidence": "10 batches are P1 urgent and 990 are P2 high out of 1,000.",
+      "action": "Assign an owner to every P1 batch today.",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Early Warning",
+      "finding": "Process inputs known during production give an early warning of costly batches.",
+      "evidence": "Held-out test AUC 0.91 (naive baseline 0.50) with Product_Family as the leading input.",
+      "action": "Use the score to select batches for extra inspection before shipping.",
+      "outcome": "decide"
+    },
+    {
+      "severity": "LOW",
+      "category": "Risk Segments",
+      "finding": "The high risk segment holds a disproportionate share of cost.",
+      "evidence": "29 high risk batches (2.9%) hold 6.2% of COPQ.",
+      "action": "Start improvement projects on the process patterns in this segment.",
+      "outcome": "decide"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "revenue_target": {
+    "value": null,
+    "unit": "monthly",
+    "client_sets": true
+  },
+  "copq_ceiling_pct": {
+    "value": null,
+    "unit": "percent",
+    "client_sets": true,
+    "description": "Highest acceptable cost of poor quality as a percent of revenue"
+  },
+  "alert_drop_pct": {
+    "value": 20,
+    "unit": "percent",
+    "description": "Alert if monthly revenue drops by this share"
+  },
+  "forecast_horizon": {
+    "value": 30,
+    "unit": "days"
+  }
+}

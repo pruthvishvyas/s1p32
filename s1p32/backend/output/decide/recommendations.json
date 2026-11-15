@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "priority": "P1_URGENT",
+      "title": "Defects escaped to customers",
+      "action": "Add containment inspection at shipping",
+      "evidence": "1000 batches flagged; COPQ is 2.40% of their revenue against 2.40% overall.",
+      "impact": "3,472,487 COPQ in flagged batches, 100.0% of the total.",
+      "when": "Today",
+      "count": 1000
+    },
+    {
+      "priority": "P1_URGENT",
+      "title": "High cost of poor quality",
+      "action": "Review scrap, rework and warranty drivers for the batch",
+      "evidence": "256 batches flagged; COPQ is 4.63% of their revenue against 2.40% overall.",
+      "impact": "1,733,355 COPQ in flagged batches, 49.9% of the total.",
+      "when": "Today",
+      "count": 256
+    },
+    {
+      "priority": "P1_URGENT",
+      "title": "Process Cpk below target",
+      "action": "Review process capability and tooling this week",
+      "evidence": "119 batches flagged; COPQ is 2.96% of their revenue against 2.40% overall.",
+      "impact": "492,098 COPQ in flagged batches, 14.2% of the total.",
+      "when": "Today",
+      "count": 119
+    },
+    {
+      "priority": "P1_URGENT",
+      "title": "Recall cost booked",
+      "action": "Open a recall review with the plant quality lead",
+      "evidence": "10 batches flagged; COPQ is 40.90% of their revenue against 2.40% overall.",
+      "impact": "580,311 COPQ in flagged batches, 16.7% of the total.",
+      "when": "Today",
+      "count": 10
+    },
+    {
+      "priority": "P1_URGENT",
+      "title": "Negative margin after quality",
+      "action": "Reprice or pause this product family at this plant",
+      "evidence": "10 batches flagged; COPQ is 40.90% of their revenue against 2.40% overall.",
+      "impact": "580,311 COPQ in flagged batches, 16.7% of the total.",
+      "when": "Today",
+      "count": 10
+    },
+    {
+      "priority": "P2_HIGH",
+      "title": "Special cause event",
+      "action": "Investigate the special cause before release",
+      "evidence": "47 batches flagged; COPQ is 4.20% of their revenue against 2.40% overall.",
+      "impact": "301,740 COPQ in flagged batches, 8.7% of the total.",
+      "when": "This week",
+      "count": 47
+    }
+  ]
+}

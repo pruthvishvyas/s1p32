@@ -1,0 +1,23 @@
+{
+  "id": "segment_sizes",
+  "title": "Batches by risk segment",
+  "type": "bar",
+  "question": "How many batches sit in each risk segment?",
+  "x_label": "Segment",
+  "y_label": "Batches",
+  "data": [
+    {
+      "label": "Low risk",
+      "value": 822
+    },
+    {
+      "label": "Medium risk",
+      "value": 149
+    },
+    {
+      "label": "High risk",
+      "value": 29
+    }
+  ],
+  "outcome": "understand"
+}

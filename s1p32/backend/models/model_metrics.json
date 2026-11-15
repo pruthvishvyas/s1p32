@@ -1,0 +1,84 @@
+{
+  "task": "classification",
+  "target": "high_copq_flag",
+  "n_train": 750,
+  "n_test": 250,
+  "positive_rate_pct": 25.6,
+  "low_sample": false,
+  "models": {
+    "Logistic Regression": {
+      "cv_auc_mean": 0.8879,
+      "cv_auc_std": 0.0301,
+      "test_auc": 0.912,
+      "test_acc": 0.872
+    },
+    "Random Forest": {
+      "cv_auc_mean": 0.8683,
+      "cv_auc_std": 0.0304,
+      "test_auc": 0.896,
+      "test_acc": 0.844
+    },
+    "Gradient Boosting": {
+      "cv_auc_mean": 0.8654,
+      "cv_auc_std": 0.0255,
+      "test_auc": 0.9041,
+      "test_acc": 0.848
+    }
+  },
+  "best": "Logistic Regression",
+  "baseline": {
+    "majority_acc": 0.744,
+    "rule_acc": 0.732,
+    "auc": 0.5
+  },
+  "beats_baseline": true,
+  "recall_high": 0.7031,
+  "importances": [
+    {
+      "feature": "Product_Family",
+      "importance": 0.3232
+    },
+    {
+      "feature": "Special_Cause_Event",
+      "importance": 0.0976
+    },
+    {
+      "feature": "Operator_Experience",
+      "importance": 0.0174
+    },
+    {
+      "feature": "Batch_Size",
+      "importance": 0.0128
+    },
+    {
+      "feature": "Material_Supplier",
+      "importance": 0.0098
+    },
+    {
+      "feature": "New_Product_Ramp_Flag",
+      "importance": 0.0038
+    },
+    {
+      "feature": "Process_Cpk",
+      "importance": 0.0024
+    },
+    {
+      "feature": "month_num",
+      "importance": 0.0006
+    },
+    {
+      "feature": "Plant",
+      "importance": -0.0015
+    },
+    {
+      "feature": "Shift",
+      "importance": -0.0017
+    },
+    {
+      "feature": "Machine_Age_Years",
+      "importance": -0.0026
+    }
+  ],
+  "leakage_dropped": [],
+  "cv_folds": 5
+}

@@ -1,0 +1,23 @@
+{
+  "id": "anomaly_rate_by_plant",
+  "title": "Anomaly rate by plant",
+  "type": "bar",
+  "question": "Which plants produce the most unusual batches?",
+  "x_label": "Plant",
+  "y_label": "Anomalous batches (%)",
+  "data": [
+    {
+      "label": "Plant A (Ohio)",
+      "value": 5.48
+    },
+    {
+      "label": "Plant B (Texas)",
+      "value": 5.59
+    },
+    {
+      "label": "Plant C (Monterrey)",
+      "value": 4.0
+    }
+  ],
+  "outcome": "understand"
+}

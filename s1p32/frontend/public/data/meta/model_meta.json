@@ -1,0 +1,19 @@
+{
+  "model_name": "Logistic Regression",
+  "algorithm": "Logistic Regression",
+  "feature_count": 11,
+  "feature_cols": [
+    "Machine_Age_Years",
+    "Batch_Size",
+    "Process_Cpk",
+    "New_Product_Ramp_Flag",
+    "Special_Cause_Event",
+    "month_num",
+    "Plant",
+    "Product_Family",
+    "Shift",
+    "Operator_Experience",
+    "Material_Supplier"
+  ],
+  "models_ready": true
+}

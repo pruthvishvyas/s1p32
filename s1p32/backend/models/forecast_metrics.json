@@ -1,0 +1,26 @@
+{
+  "metric": "COPQ as a percent of revenue, weekly",
+  "unit": "percent",
+  "horizon": "4 weeks",
+  "method": "last value",
+  "mae": 0.2811,
+  "mape": 11.6034,
+  "baseline_mae": 0.2811,
+  "period": "2026-07-27 to 2026-09-28",
+  "holdout_weeks": 10,
+  "weeks_of_history": 53,
+  "all_methods": {
+    "last value": {
+      "mae": 0.2811,
+      "mape": 11.6034
+    },
+    "mean of last four weeks": {
+      "mae": 0.3104,
+      "mape": 13.5416
+    },
+    "linear trend": {
+      "mae": 0.309,
+      "mape": 12.436
+    }
+  }
+}

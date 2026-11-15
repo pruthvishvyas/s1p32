@@ -1,0 +1,16 @@
+{
+  "schema_version": "1",
+  "project": "S1P32 quality analysis",
+  "domain": "Manufacturing quality",
+  "client_id": "s1p32",
+  "description": "Cost of poor quality, defects and margin by production batch",
+  "last_run": "2026-11-14T20:23:38",
+  "rows": 1000,
+  "date_range": {
+    "start": "2025-10-01",
+    "end": "2026-09-30"
+  },
+  "currency": null,
+  "locale": "en-US",
+  "source": "csv"
+}

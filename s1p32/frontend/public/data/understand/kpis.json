@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "key": "batches",
+      "label": "Batches",
+      "value": 1000,
+      "format": "integer",
+      "trend": 28.169,
+      "note": ""
+    },
+    {
+      "key": "revenue",
+      "label": "Batch revenue",
+      "value": 144948332.98,
+      "format": "currency",
+      "trend": 11.8517,
+      "note": ""
+    },
+    {
+      "key": "copq",
+      "label": "Total cost of poor quality",
+      "value": 3472487.34,
+      "format": "currency",
+      "trend": -1.1102,
+      "note": ""
+    },
+    {
+      "key": "copq_pct",
+      "label": "COPQ as % of revenue",
+      "value": 2.3957,
+      "format": "percent",
+      "trend": -11.5885,
+      "note": "Lower is better"
+    },
+    {
+      "key": "margin",
+      "label": "Margin after quality",
+      "value": 19.509,
+      "format": "percent",
+      "trend": 2.5786,
+      "note": ""
+    },
+    {
+      "key": "high_rate",
+      "label": "High cost batches",
+      "value": 25.6,
+      "format": "percent",
+      "trend": -7.3489,
+      "note": "Worst quarter by COPQ share"
+    },
+    {
+      "key": "cpk",
+      "label": "Average process Cpk",
+      "value": 1.5013,
+      "format": "decimal",
+      "trend": -0.7412,
+      "note": "1.33 is the usual target"
+    },
+    {
+      "key": "escaped",
+      "label": "Escaped defects",
+      "value": 48577.0,
+      "format": "integer",
+      "trend": 40.9076,
+      "note": ""
+    }
+  ]
+}

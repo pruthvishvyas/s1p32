@@ -1,0 +1,213 @@
+{
+  "target": {
+    "label": "Chance of a high cost batch",
+    "format": "percent",
+    "positive_label": "High cost batch"
+  },
+  "task": "classification",
+  "fields": [
+    {
+      "key": "Product_Family",
+      "label": "Product Family",
+      "type": "category",
+      "unit": "",
+      "options": [
+        "Hydraulic Valves",
+        "Automotive Brackets",
+        "Precision Shafts",
+        "Electrical Enclosures",
+        "Injection Molded Housings"
+      ],
+      "default": "Hydraulic Valves",
+      "help": ""
+    },
+    {
+      "key": "Special_Cause_Event",
+      "label": "Special Cause Event",
+      "type": "boolean",
+      "unit": "",
+      "min": 0,
+      "max": 1,
+      "step": 1,
+      "default": 0,
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "help": ""
+    },
+    {
+      "key": "Operator_Experience",
+      "label": "Operator Experience",
+      "type": "category",
+      "unit": "",
+      "options": [
+        "Mid",
+        "Senior",
+        "Junior"
+      ],
+      "default": "Mid",
+      "help": ""
+    },
+    {
+      "key": "Batch_Size",
+      "label": "Batch Size",
+      "type": "number",
+      "unit": "",
+      "min": 500.0,
+      "max": 22704.0,
+      "step": 1,
+      "default": 3500,
+      "help": ""
+    },
+    {
+      "key": "Material_Supplier",
+      "label": "Material Supplier",
+      "type": "category",
+      "unit": "",
+      "options": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "default": "S1",
+      "help": ""
+    },
+    {
+      "key": "New_Product_Ramp_Flag",
+      "label": "New Product Ramp Flag",
+      "type": "boolean",
+      "unit": "",
+      "min": 0,
+      "max": 1,
+      "step": 1,
+      "default": 0,
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "help": ""
+    },
+    {
+      "key": "Process_Cpk",
+      "label": "Process Cpk",
+      "type": "number",
+      "unit": "",
+      "min": 1.14,
+      "max": 1.81,
+      "step": 0.013,
+      "default": 1.51,
+      "help": ""
+    },
+    {
+      "key": "month_num",
+      "label": "month num",
+      "type": "number",
+      "unit": "",
+      "min": 1.0,
+      "max": 12.0,
+      "step": 1,
+      "default": 7,
+      "help": ""
+    }
+  ],
+  "risk_levels": [
+    {
+      "max": 5.7,
+      "label": "Low"
+    },
+    {
+      "max": 23.6,
+      "label": "Medium"
+    },
+    {
+      "max": 100,
+      "label": "High"
+    }
+  ],
+  "note": "Fields not shown use typical values.",
+  "type": "linear",
+  "linear": {
+    "intercept": -3.191,
+    "link": "logit",
+    "terms": [
+      {
+        "field": "Batch_Size",
+        "mean": 6517.2,
+        "scale": 6083.6182,
+        "coef": -0.4361
+      },
+      {
+        "field": "Process_Cpk",
+        "mean": 1.4993,
+        "scale": 0.1485,
+        "coef": -0.3247
+      },
+      {
+        "field": "New_Product_Ramp_Flag",
+        "mean": 0.0293,
+        "scale": 0.1687,
+        "coef": 0.1941
+      },
+      {
+        "field": "Special_Cause_Event",
+        "mean": 0.0467,
+        "scale": 0.2109,
+        "coef": 1.307
+      },
+      {
+        "field": "month_num",
+        "mean": 6.624,
+        "scale": 3.5365,
+        "coef": 0.0501
+      },
+      {
+        "field": "Product_Family",
+        "value": "Automotive Brackets",
+        "coef": 1.0329
+      },
+      {
+        "field": "Product_Family",
+        "value": "Electrical Enclosures",
+        "coef": -0.8958
+      },
+      {
+        "field": "Product_Family",
+        "value": "Injection Molded Housings",
+        "coef": 4.039
+      },
+      {
+        "field": "Product_Family",
+        "value": "Precision Shafts",
+        "coef": -0.4463
+      },
+      {
+        "field": "Operator_Experience",
+        "value": "Junior",
+        "coef": 0.6233
+      },
+      {
+        "field": "Operator_Experience",
+        "value": "Senior",
+        "coef": -0.2765
+      },
+      {
+        "field": "Material_Supplier",
+        "value": "S2",
+        "coef": 1.4262
+      },
+      {
+        "field": "Material_Supplier",
+        "value": "S3",
+        "coef": 0.176
+      }
+    ]
+  },
+  "fidelity": {
+    "metric": "exact linear form",
+    "value": 0,
+    "n": 1000,
+    "quality": "good",
+    "note": "Coefficients come straight from the fitted model."
+  }
+}

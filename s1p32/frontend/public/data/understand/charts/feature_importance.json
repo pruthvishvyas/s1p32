@@ -1,0 +1,51 @@
+{
+  "id": "feature_importance",
+  "title": "Top predictors of a high cost batch",
+  "type": "bar",
+  "question": "Which process inputs matter most for batch cost?",
+  "x_label": "Process input",
+  "y_label": "Importance",
+  "data": [
+    {
+      "label": "Product_Family",
+      "value": 0.3232
+    },
+    {
+      "label": "Special_Cause_Event",
+      "value": 0.0976
+    },
+    {
+      "label": "Operator_Experience",
+      "value": 0.0174
+    },
+    {
+      "label": "Batch_Size",
+      "value": 0.0128
+    },
+    {
+      "label": "Material_Supplier",
+      "value": 0.0098
+    },
+    {
+      "label": "New_Product_Ramp_Flag",
+      "value": 0.0038
+    },
+    {
+      "label": "Process_Cpk",
+      "value": 0.0024
+    },
+    {
+      "label": "month_num",
+      "value": 0.0006
+    },
+    {
+      "label": "Plant",
+      "value": -0.0015
+    },
+    {
+      "label": "Shift",
+      "value": -0.0017
+    }
+  ],
+  "outcome": "decide"
+}

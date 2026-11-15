@@ -1,0 +1,31 @@
+{
+  "id": "family_rate",
+  "title": "High cost share by product family",
+  "type": "bar",
+  "question": "Which product families concentrate high cost batches?",
+  "x_label": "Product family",
+  "y_label": "High cost batches (%)",
+  "data": [
+    {
+      "label": "Injection Molded Housings",
+      "value": 69.47
+    },
+    {
+      "label": "Automotive Brackets",
+      "value": 20.98
+    },
+    {
+      "label": "Hydraulic Valves",
+      "value": 18.1
+    },
+    {
+      "label": "Precision Shafts",
+      "value": 12.25
+    },
+    {
+      "label": "Electrical Enclosures",
+      "value": 9.42
+    }
+  ],
+  "outcome": "decide"
+}

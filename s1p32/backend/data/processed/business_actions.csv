@@ -1,0 +1,1001 @@
+Batch_ID,Production_Date,Plant,Product_Family,Process_Cpk,Total_COPQ,COPQ_pct_of_Revenue,high_copq_flag,quality_risk_score,alerts,priority,recommendations
+B-80001,2025-10-01,Plant A (Ohio),Hydraulic Valves,1.3,3946.74,3.65,1,86.405,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80002,2025-10-02,Plant C (Monterrey),Precision Shafts,1.7,629.89,0.66,0,11.575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80003,2025-10-02,Plant B (Texas),Hydraulic Valves,1.61,1847.16,1.61,0,56.095000000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80004,2025-10-02,Plant A (Ohio),Hydraulic Valves,1.48,913.83,1.86,0,61.435,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80005,2025-10-02,Plant B (Texas),Injection Molded Housings,1.37,5183.71,2.38,1,65.49249999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80006,2025-10-03,Plant A (Ohio),Hydraulic Valves,1.41,1235.03,3.06,1,61.8975,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80007,2025-10-06,Plant C (Monterrey),Automotive Brackets,1.76,2969.83,1.31,0,10.814999999999998,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80008,2025-10-06,Plant B (Texas),Automotive Brackets,1.4,4156.54,2.23,0,55.925,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80009,2025-10-06,Plant B (Texas),Electrical Enclosures,1.62,2982.55,2.97,1,70.515,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80010,2025-10-06,Plant A (Ohio),Electrical Enclosures,1.38,890.67,1.5,0,37.895,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80011,2025-10-06,Plant A (Ohio),Precision Shafts,1.6,1113.15,1.43,0,20.7125,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80012,2025-10-06,Plant A (Ohio),Hydraulic Valves,1.51,2772.71,1.49,0,46.337500000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80013,2025-10-07,Plant A (Ohio),Automotive Brackets,1.3,5901.53,2.74,1,68.28500000000001,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80014,2025-10-07,Plant C (Monterrey),Injection Molded Housings,1.54,6995.57,2.93,1,52.59,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80015,2025-10-07,Plant C (Monterrey),Automotive Brackets,1.67,1549.44,2.41,1,40.89,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80016,2025-10-07,Plant C (Monterrey),Precision Shafts,1.19,1962.36,3.8,1,81.71,CPK_BELOW_TARGET|SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80017,2025-10-07,Plant C (Monterrey),Automotive Brackets,1.55,1962.99,1.06,0,18.200000000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80018,2025-10-07,Plant C (Monterrey),Hydraulic Valves,1.55,2422.02,1.05,0,19.135,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80019,2025-10-08,Plant C (Monterrey),Injection Molded Housings,1.58,4075.42,2.28,0,32.095,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80020,2025-10-08,Plant A (Ohio),Injection Molded Housings,1.67,2138.18,2.29,0,29.995,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80021,2025-10-09,Plant A (Ohio),Automotive Brackets,1.53,4062.52,2.97,1,58.985,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80022,2025-10-09,Plant A (Ohio),Precision Shafts,1.55,917.97,1.62,0,41.3425,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80023,2025-10-09,Plant B (Texas),Hydraulic Valves,1.6,1684.62,1.36,0,35.6575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80024,2025-10-09,Plant C (Monterrey),Precision Shafts,1.83,3447.71,2.28,0,50.2575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80025,2025-10-09,Plant A (Ohio),Injection Molded Housings,1.1,12757.43,5.41,1,86.66999999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80026,2025-10-10,Plant C (Monterrey),Precision Shafts,1.57,3552.38,1.87,0,47.305,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80027,2025-10-10,Plant A (Ohio),Hydraulic Valves,1.56,907.73,1.6,0,31.6025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80028,2025-10-10,Plant C (Monterrey),Hydraulic Valves,1.69,1888.67,2.31,0,55.045,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80029,2025-10-10,Plant B (Texas),Hydraulic Valves,1.51,1057.71,2.68,1,54.53750000000001,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80030,2025-10-10,Plant B (Texas),Automotive Brackets,1.48,1820.81,1.98,0,31.025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80031,2025-10-13,Plant A (Ohio),Hydraulic Valves,1.44,2049.26,1.72,0,74.91750000000002,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80032,2025-10-13,Plant C (Monterrey),Precision Shafts,1.73,1493.68,0.85,0,10.5275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80033,2025-10-14,Plant A (Ohio),Electrical Enclosures,1.6,762.57,1.09,0,13.9675,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80034,2025-10-14,Plant C (Monterrey),Injection Molded Housings,1.64,6178.88,2.27,0,33.515,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80035,2025-10-14,Plant A (Ohio),Hydraulic Valves,1.32,3387.89,1.67,0,78.82000000000001,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80036,2025-10-14,Plant A (Ohio),Electrical Enclosures,1.25,2933.49,2.3,0,76.735,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80037,2025-10-14,Plant A (Ohio),Injection Molded Housings,1.25,6860.96,4.76,1,83.95499999999998,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80038,2025-10-15,Plant C (Monterrey),Injection Molded Housings,1.47,6632.64,2.27,0,46.25,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80039,2025-10-15,Plant B (Texas),Precision Shafts,1.59,2474.49,1.34,0,39.440000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80040,2025-10-15,Plant A (Ohio),Hydraulic Valves,1.46,4517.78,2.09,0,72.37750000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80041,2025-10-15,Plant A (Ohio),Hydraulic Valves,1.22,1152.81,2.4,1,68.80499999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80042,2025-10-15,Plant C (Monterrey),Automotive Brackets,1.52,4197.45,2.21,0,55.035,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80043,2025-10-15,Plant C (Monterrey),Hydraulic Valves,1.62,2271.94,1.73,0,55.17999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80044,2025-10-16,Plant C (Monterrey),Precision Shafts,1.28,3552.46,2.13,0,84.44500000000001,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80045,2025-10-16,Plant B (Texas),Injection Molded Housings,1.55,4953.5,2.25,0,34.190000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80046,2025-10-17,Plant B (Texas),Automotive Brackets,1.21,2026.77,2.8,1,71.54,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80047,2025-10-17,Plant B (Texas),Injection Molded Housings,1.47,4847.42,2.52,1,59.5,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80048,2025-10-17,Plant A (Ohio),Electrical Enclosures,1.35,1669.73,1.23,0,39.49999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80049,2025-10-17,Plant C (Monterrey),Automotive Brackets,1.62,4260.28,1.83,0,25.680000000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80050,2025-10-20,Plant C (Monterrey),Electrical Enclosures,1.64,1586.05,0.89,0,11.95,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80051,2025-10-20,Plant B (Texas),Injection Molded Housings,1.2,5355.29,2.28,0,65.28999999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80052,2025-10-20,Plant C (Monterrey),Hydraulic Valves,1.71,928.48,2.22,0,53.352500000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80053,2025-10-21,Plant C (Monterrey),Automotive Brackets,1.36,2349.09,1.86,0,49.48499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80054,2025-10-21,Plant C (Monterrey),Injection Molded Housings,1.69,2694.33,2.91,1,39.075,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80055,2025-10-21,Plant B (Texas),Electrical Enclosures,1.37,1525.81,1.38,0,47.14,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80056,2025-10-22,Plant C (Monterrey),Hydraulic Valves,1.81,3031.11,1.48,0,32.677499999999995,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80057,2025-10-23,Plant B (Texas),Injection Molded Housings,1.53,11008.25,5.18,1,65.625,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80058,2025-10-24,Plant C (Monterrey),Electrical Enclosures,1.64,641.32,0.66,0,8.725,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80059,2025-10-27,Plant C (Monterrey),Hydraulic Valves,1.39,2074.92,2.57,1,77.8425,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80060,2025-10-27,Plant A (Ohio),Precision Shafts,1.24,1600.59,2.67,1,68.88250000000001,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80061,2025-10-28,Plant B (Texas),Precision Shafts,1.55,2226.23,1.82,0,42.4125,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80062,2025-10-28,Plant B (Texas),Electrical Enclosures,1.59,1229.94,1.53,0,16.9475,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80063,2025-10-28,Plant C (Monterrey),Electrical Enclosures,1.29,1421.14,3.03,1,59.665,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80064,2025-10-28,Plant C (Monterrey),Automotive Brackets,1.32,3896.96,2.13,0,58.89,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80065,2025-10-28,Plant B (Texas),Precision Shafts,1.34,2208.79,1.62,0,80.15,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80066,2025-10-28,Plant A (Ohio),Electrical Enclosures,1.32,2078.04,1.98,0,62.16499999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80067,2025-10-28,Plant C (Monterrey),Hydraulic Valves,1.72,1659.13,1.02,0,14.445,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80068,2025-10-28,Plant B (Texas),Automotive Brackets,1.49,1880.82,1.77,0,43.97999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80069,2025-10-29,Plant B (Texas),Automotive Brackets,1.52,1867.83,1.54,0,17.085,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80070,2025-10-29,Plant A (Ohio),Precision Shafts,1.39,1709.33,2.79,1,78.6875,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80071,2025-10-29,Plant C (Monterrey),Hydraulic Valves,1.73,1308.72,0.83,0,10.825,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80072,2025-10-29,Plant B (Texas),Automotive Brackets,1.23,2125.73,2.97,1,76.605,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80073,2025-10-30,Plant B (Texas),Precision Shafts,1.47,2702.39,1.44,0,60.70749999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80074,2025-10-31,Plant A (Ohio),Electrical Enclosures,1.49,2533.74,1.39,0,43.87,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80075,2025-10-31,Plant B (Texas),Electrical Enclosures,1.34,2180.83,1.91,0,72.3275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80076,2025-10-31,Plant B (Texas),Precision Shafts,1.56,1590.94,1.12,0,32.067499999999995,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80077,2025-11-03,Plant C (Monterrey),Hydraulic Valves,1.57,1703.5,2.07,0,56.165000000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80078,2025-11-03,Plant C (Monterrey),Injection Molded Housings,1.7,2437.64,3.07,1,30.98,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80079,2025-11-04,Plant B (Texas),Precision Shafts,1.44,1100.4,0.85,0,31.110000000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80080,2025-11-04,Plant A (Ohio),Hydraulic Valves,1.53,11394.44,6.29,1,66.67999999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80081,2025-11-04,Plant C (Monterrey),Automotive Brackets,1.53,117321.93,47.41,1,34.51499999999999,ESCAPED_DEFECTS|RECALL_COST|NEGATIVE_MARGIN|HIGH_COPQ,P1_URGENT,"Add containment inspection at shipping; Open a recall review with the plant quality lead; Reprice or pause this product family at this plant; Review scrap, rework and warranty drivers for the batch"
+B-80082,2025-11-04,Plant C (Monterrey),Precision Shafts,1.75,1112.9,1.45,0,29.285,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80083,2025-11-05,Plant A (Ohio),Electrical Enclosures,1.33,1087.32,1.67,0,56.33250000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80084,2025-11-05,Plant A (Ohio),Electrical Enclosures,1.47,2151.84,1.3,0,35.415,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80085,2025-11-05,Plant A (Ohio),Precision Shafts,1.44,2231.99,1.59,0,56.9575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80086,2025-11-05,Plant B (Texas),Precision Shafts,1.67,844.75,1.27,0,14.027499999999998,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80087,2025-11-05,Plant B (Texas),Precision Shafts,1.36,835.24,1.37,0,37.705,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80088,2025-11-06,Plant B (Texas),Injection Molded Housings,1.36,6520.65,3.09,1,64.6675,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80089,2025-11-06,Plant A (Ohio),Precision Shafts,1.62,869.9,1.97,0,32.2975,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80090,2025-11-06,Plant A (Ohio),Injection Molded Housings,1.48,42130.53,63.17,1,67.07499999999999,ESCAPED_DEFECTS|RECALL_COST|NEGATIVE_MARGIN|HIGH_COPQ,P1_URGENT,"Add containment inspection at shipping; Open a recall review with the plant quality lead; Reprice or pause this product family at this plant; Review scrap, rework and warranty drivers for the batch"
+B-80091,2025-11-07,Plant A (Ohio),Injection Molded Housings,1.5,4763.63,2.76,1,52.62,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80092,2025-11-07,Plant B (Texas),Hydraulic Valves,1.37,1474.14,1.78,0,42.335,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80093,2025-11-07,Plant C (Monterrey),Precision Shafts,1.51,1107.05,2.44,1,40.8175,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80094,2025-11-07,Plant B (Texas),Electrical Enclosures,1.46,1621.79,1.47,0,33.642500000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80095,2025-11-10,Plant A (Ohio),Precision Shafts,1.23,9377.0,5.6,1,82.02999999999999,CPK_BELOW_TARGET|SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80096,2025-11-10,Plant B (Texas),Precision Shafts,1.69,1748.12,2.26,0,47.79,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80097,2025-11-10,Plant C (Monterrey),Hydraulic Valves,1.67,2276.09,1.15,0,12.355,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80098,2025-11-10,Plant B (Texas),Precision Shafts,1.55,2242.45,2.38,1,54.6775,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80099,2025-11-11,Plant A (Ohio),Injection Molded Housings,1.45,2107.71,2.71,1,55.010000000000005,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80100,2025-11-11,Plant A (Ohio),Automotive Brackets,1.55,5349.84,2.43,1,56.81499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80101,2025-11-11,Plant C (Monterrey),Precision Shafts,1.41,1927.97,1.21,0,44.01749999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80102,2025-11-11,Plant A (Ohio),Hydraulic Valves,1.12,2569.84,2.45,1,69.995,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80103,2025-11-12,Plant B (Texas),Injection Molded Housings,1.48,4442.01,2.82,1,53.645,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80104,2025-11-12,Plant C (Monterrey),Electrical Enclosures,1.55,2528.53,1.56,0,22.94,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80105,2025-11-12,Plant B (Texas),Hydraulic Valves,1.52,2218.34,1.68,0,65.60000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80106,2025-11-12,Plant B (Texas),Precision Shafts,1.45,1217.28,1.2,0,51.86249999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80107,2025-11-12,Plant C (Monterrey),Automotive Brackets,1.71,2285.42,2.26,0,32.455,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80108,2025-11-12,Plant B (Texas),Injection Molded Housings,1.68,2885.95,2.36,0,36.9225,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80109,2025-11-12,Plant B (Texas),Injection Molded Housings,1.41,3907.46,2.23,0,48.49999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80110,2025-11-13,Plant A (Ohio),Hydraulic Valves,1.51,2059.08,1.87,0,63.425,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80111,2025-11-13,Plant A (Ohio),Automotive Brackets,1.49,3054.49,1.9,0,42.98499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80112,2025-11-14,Plant C (Monterrey),Precision Shafts,1.77,1776.01,1.47,0,19.2725,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80113,2025-11-14,Plant B (Texas),Automotive Brackets,1.57,1649.32,2.49,1,52.35999999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80114,2025-11-14,Plant B (Texas),Electrical Enclosures,1.29,1447.0,0.98,0,34.715,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80115,2025-11-14,Plant C (Monterrey),Injection Molded Housings,1.51,4376.96,2.73,1,44.775,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80116,2025-11-14,Plant A (Ohio),Precision Shafts,1.39,3276.05,2.29,0,67.5,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80117,2025-11-17,Plant B (Texas),Injection Molded Housings,1.29,2600.61,3.03,1,80.94250000000001,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80118,2025-11-17,Plant A (Ohio),Automotive Brackets,1.44,6114.92,2.37,1,53.54500000000001,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80119,2025-11-17,Plant C (Monterrey),Injection Molded Housings,1.51,4971.28,2.55,1,53.16,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80120,2025-11-17,Plant B (Texas),Precision Shafts,1.46,962.28,2.07,0,41.575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80121,2025-11-17,Plant B (Texas),Precision Shafts,1.49,2242.54,1.72,0,50.245,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80122,2025-11-18,Plant B (Texas),Hydraulic Valves,1.32,1284.02,3.13,1,84.73,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80123,2025-11-18,Plant A (Ohio),Precision Shafts,1.46,1612.75,2.21,0,56.5125,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80124,2025-11-18,Plant A (Ohio),Precision Shafts,1.51,1379.86,2.3,0,41.165,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80125,2025-11-18,Plant B (Texas),Precision Shafts,1.36,3877.96,2.43,1,79.05499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80126,2025-11-18,Plant B (Texas),Hydraulic Valves,1.48,2231.28,1.69,0,58.995,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80127,2025-11-18,Plant C (Monterrey),Electrical Enclosures,1.37,2000.37,1.11,0,38.96000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80128,2025-11-18,Plant A (Ohio),Automotive Brackets,1.52,3662.96,1.63,0,37.665000000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80129,2025-11-19,Plant B (Texas),Electrical Enclosures,1.34,1426.15,1.72,0,67.02999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80130,2025-11-19,Plant B (Texas),Injection Molded Housings,1.44,5903.11,2.32,0,57.025000000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80131,2025-11-19,Plant B (Texas),Automotive Brackets,1.64,1553.26,1.49,0,20.645,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80132,2025-11-19,Plant C (Monterrey),Hydraulic Valves,1.52,2456.14,1.72,0,60.545,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80133,2025-11-19,Plant C (Monterrey),Precision Shafts,1.56,3756.97,3.41,1,62.97999999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80134,2025-11-20,Plant B (Texas),Injection Molded Housings,1.58,2846.62,1.85,0,29.98,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80135,2025-11-20,Plant B (Texas),Electrical Enclosures,1.52,597.16,1.24,0,18.045,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80136,2025-11-20,Plant B (Texas),Electrical Enclosures,1.56,1890.75,1.46,0,49.39,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80137,2025-11-20,Plant C (Monterrey),Automotive Brackets,1.65,3835.34,1.58,0,21.1275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80138,2025-11-20,Plant C (Monterrey),Injection Molded Housings,1.65,2047.43,3.47,1,39.0225,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80139,2025-11-21,Plant C (Monterrey),Automotive Brackets,1.5,1585.26,1.39,0,37.81,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80140,2025-11-21,Plant C (Monterrey),Precision Shafts,1.51,3026.38,1.99,0,66.985,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80141,2025-11-21,Plant C (Monterrey),Automotive Brackets,1.69,2546.89,1.77,0,20.790000000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80142,2025-11-24,Plant B (Texas),Injection Molded Housings,1.79,1761.7,1.77,0,14.325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80143,2025-11-24,Plant C (Monterrey),Automotive Brackets,1.57,1264.04,1.68,0,24.545,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80144,2025-11-24,Plant B (Texas),Precision Shafts,1.61,1709.92,1.01,0,19.9925,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80145,2025-11-24,Plant B (Texas),Precision Shafts,1.44,1341.73,0.94,0,37.225,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80146,2025-11-24,Plant B (Texas),Injection Molded Housings,1.44,2618.22,2.42,1,41.955,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80147,2025-11-24,Plant A (Ohio),Automotive Brackets,1.42,4991.51,2.09,0,57.715,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80148,2025-11-24,Plant B (Texas),Automotive Brackets,1.61,12573.88,4.71,1,74.575,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80149,2025-11-25,Plant C (Monterrey),Electrical Enclosures,1.52,2217.81,1.09,0,29.384999999999994,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80150,2025-11-25,Plant C (Monterrey),Precision Shafts,1.64,41892.5,36.86,1,43.58,ESCAPED_DEFECTS|RECALL_COST|NEGATIVE_MARGIN|HIGH_COPQ,P1_URGENT,"Add containment inspection at shipping; Open a recall review with the plant quality lead; Reprice or pause this product family at this plant; Review scrap, rework and warranty drivers for the batch"
+B-80151,2025-11-25,Plant B (Texas),Electrical Enclosures,1.56,1275.69,0.74,0,16.555,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80152,2025-11-26,Plant A (Ohio),Electrical Enclosures,1.3,1842.73,1.83,0,47.9825,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80153,2025-11-26,Plant C (Monterrey),Electrical Enclosures,1.76,1119.89,1.08,0,10.6625,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80154,2025-11-26,Plant C (Monterrey),Hydraulic Valves,1.55,4360.35,1.96,0,59.28,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80155,2025-11-26,Plant A (Ohio),Automotive Brackets,1.37,4750.82,1.99,0,50.29750000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80156,2025-11-26,Plant A (Ohio),Automotive Brackets,1.35,2468.81,2.62,1,69.73,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80157,2025-11-26,Plant A (Ohio),Hydraulic Valves,1.34,1286.1,3.1,1,81.6425,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80158,2025-11-27,Plant A (Ohio),Hydraulic Valves,1.35,916.69,1.83,0,60.88250000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80159,2025-11-28,Plant B (Texas),Automotive Brackets,1.47,4906.3,2.19,0,46.535,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80160,2025-11-28,Plant A (Ohio),Hydraulic Valves,1.1,2254.41,1.6,0,69.82,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80161,2025-11-28,Plant C (Monterrey),Injection Molded Housings,1.44,6003.01,3.52,1,73.375,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80162,2025-12-01,Plant B (Texas),Injection Molded Housings,1.52,4215.16,2.43,1,41.3025,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80163,2025-12-01,Plant C (Monterrey),Automotive Brackets,1.69,2091.33,1.38,0,11.495000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80164,2025-12-01,Plant A (Ohio),Precision Shafts,1.48,593.08,1.14,0,25.0125,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80165,2025-12-02,Plant C (Monterrey),Hydraulic Valves,1.72,922.81,1.62,0,41.535,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80166,2025-12-02,Plant B (Texas),Automotive Brackets,1.3,4102.86,2.29,0,59.53999999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80167,2025-12-02,Plant C (Monterrey),Precision Shafts,1.61,1647.52,1.38,0,29.55,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80168,2025-12-02,Plant A (Ohio),Injection Molded Housings,1.43,3893.04,2.87,1,64.45,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80169,2025-12-02,Plant C (Monterrey),Precision Shafts,1.44,2807.57,1.46,0,52.870000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80170,2025-12-03,Plant B (Texas),Electrical Enclosures,1.44,1900.2,1.16,0,44.6025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80171,2025-12-03,Plant A (Ohio),Electrical Enclosures,1.63,882.71,2.14,0,43.142500000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80172,2025-12-03,Plant A (Ohio),Automotive Brackets,1.38,4180.69,3.26,1,76.69,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80173,2025-12-03,Plant C (Monterrey),Electrical Enclosures,1.67,1763.0,0.98,0,11.01,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80174,2025-12-04,Plant C (Monterrey),Injection Molded Housings,1.55,5491.06,2.23,0,43.505,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80175,2025-12-05,Plant A (Ohio),Precision Shafts,1.34,1101.21,0.99,0,41.13499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80176,2025-12-05,Plant B (Texas),Precision Shafts,1.57,4511.46,2.33,0,61.92,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80177,2025-12-05,Plant C (Monterrey),Automotive Brackets,1.76,4124.08,1.6,0,17.330000000000002,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80178,2025-12-05,Plant C (Monterrey),Injection Molded Housings,1.55,3603.65,2.58,1,51.04,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80179,2025-12-05,Plant A (Ohio),Automotive Brackets,1.5,1942.0,2.22,0,44.3975,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80180,2025-12-05,Plant C (Monterrey),Automotive Brackets,1.39,4849.35,1.86,0,50.99499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80181,2025-12-05,Plant A (Ohio),Automotive Brackets,1.54,2901.4,2.19,0,35.650000000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80182,2025-12-08,Plant C (Monterrey),Electrical Enclosures,1.57,1404.61,1.17,0,22.4875,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80183,2025-12-08,Plant B (Texas),Injection Molded Housings,1.41,6377.09,3.92,1,70.145,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80184,2025-12-08,Plant C (Monterrey),Injection Molded Housings,1.53,2747.63,2.66,1,40.9,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80185,2025-12-08,Plant C (Monterrey),Injection Molded Housings,1.53,1684.8,2.31,0,41.325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80186,2025-12-08,Plant C (Monterrey),Automotive Brackets,1.58,1363.11,2.23,0,21.7875,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80187,2025-12-08,Plant C (Monterrey),Automotive Brackets,1.67,1903.89,1.95,0,15.025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80188,2025-12-09,Plant C (Monterrey),Electrical Enclosures,1.46,917.83,1.17,0,26.8325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80189,2025-12-09,Plant C (Monterrey),Automotive Brackets,1.65,3696.84,1.52,0,15.740000000000002,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80190,2025-12-09,Plant C (Monterrey),Precision Shafts,1.47,1750.51,1.63,0,52.790000000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80191,2025-12-09,Plant B (Texas),Automotive Brackets,1.65,2577.21,1.95,0,23.31,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80192,2025-12-09,Plant B (Texas),Electrical Enclosures,1.46,1635.58,1.41,0,36.81,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80193,2025-12-09,Plant A (Ohio),Hydraulic Valves,1.41,2789.41,1.25,0,38.9075,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80194,2025-12-09,Plant B (Texas),Injection Molded Housings,1.67,3129.55,2.37,1,32.135000000000005,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80195,2025-12-10,Plant A (Ohio),Electrical Enclosures,1.46,2201.04,1.42,0,34.3775,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80196,2025-12-10,Plant B (Texas),Automotive Brackets,1.53,3213.35,2.44,1,53.32749999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80197,2025-12-10,Plant C (Monterrey),Precision Shafts,1.54,747.69,1.84,0,27.242500000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80198,2025-12-11,Plant A (Ohio),Injection Molded Housings,1.5,7420.77,3.14,1,60.650000000000006,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80199,2025-12-11,Plant A (Ohio),Automotive Brackets,1.46,4392.79,2.13,0,48.53,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80200,2025-12-11,Plant A (Ohio),Precision Shafts,1.39,1465.58,2.05,0,64.18750000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80201,2025-12-11,Plant B (Texas),Precision Shafts,1.39,1211.19,1.6,0,57.82750000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80202,2025-12-11,Plant A (Ohio),Hydraulic Valves,1.49,10062.03,5.94,1,69.83999999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80203,2025-12-11,Plant A (Ohio),Hydraulic Valves,1.51,2249.9,1.95,0,60.3275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80204,2025-12-12,Plant C (Monterrey),Injection Molded Housings,1.57,3795.54,3.62,1,55.395,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80205,2025-12-12,Plant C (Monterrey),Automotive Brackets,1.57,4394.75,1.93,0,30.8,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80206,2025-12-12,Plant B (Texas),Electrical Enclosures,1.56,694.27,1.36,0,15.325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80207,2025-12-12,Plant A (Ohio),Hydraulic Valves,1.16,15026.16,7.06,1,83.05,CPK_BELOW_TARGET|SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80208,2025-12-15,Plant B (Texas),Precision Shafts,1.35,2702.81,1.71,0,66.715,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80209,2025-12-15,Plant B (Texas),Automotive Brackets,1.41,3647.57,1.86,0,44.185,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80210,2025-12-15,Plant C (Monterrey),Electrical Enclosures,1.51,1192.98,1.61,0,49.1,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80211,2025-12-15,Plant C (Monterrey),Injection Molded Housings,1.77,3564.84,2.4,1,26.98,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80212,2025-12-15,Plant C (Monterrey),Injection Molded Housings,1.67,4805.6,2.22,0,28.605000000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80213,2025-12-15,Plant B (Texas),Hydraulic Valves,1.67,3379.05,1.54,0,41.6775,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80214,2025-12-15,Plant B (Texas),Precision Shafts,1.51,2865.33,1.45,0,52.142500000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80215,2025-12-15,Plant B (Texas),Hydraulic Valves,1.52,1056.44,0.81,0,20.23,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80216,2025-12-16,Plant A (Ohio),Precision Shafts,1.48,1111.28,1.6,0,37.6625,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80217,2025-12-17,Plant C (Monterrey),Precision Shafts,1.84,1753.79,1.3,0,28.3825,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80218,2025-12-17,Plant A (Ohio),Hydraulic Valves,1.31,2446.25,1.41,0,77.5475,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80219,2025-12-18,Plant C (Monterrey),Automotive Brackets,1.56,2405.1,1.26,0,17.56,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80220,2025-12-18,Plant A (Ohio),Precision Shafts,1.39,3612.13,1.93,0,68.515,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80221,2025-12-18,Plant A (Ohio),Automotive Brackets,1.35,3182.44,1.56,0,42.755,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80222,2025-12-18,Plant B (Texas),Precision Shafts,1.4,2447.45,1.24,0,62.9125,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80223,2025-12-18,Plant A (Ohio),Automotive Brackets,1.2,5511.98,2.35,0,76.82500000000002,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80224,2025-12-19,Plant A (Ohio),Injection Molded Housings,1.26,5618.19,4.05,1,82.0025,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80225,2025-12-19,Plant B (Texas),Injection Molded Housings,1.77,4709.92,2.04,0,34.09,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80226,2025-12-19,Plant B (Texas),Precision Shafts,1.32,2692.05,1.6,0,66.46749999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80227,2025-12-22,Plant B (Texas),Hydraulic Valves,1.35,2039.63,1.73,0,74.47,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80228,2025-12-22,Plant B (Texas),Hydraulic Valves,1.36,1466.58,2.99,1,69.23499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80229,2025-12-22,Plant B (Texas),Injection Molded Housings,1.58,3416.54,2.53,1,44.82,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80230,2025-12-22,Plant C (Monterrey),Automotive Brackets,1.63,1572.53,1.97,0,25.092499999999998,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80231,2025-12-22,Plant C (Monterrey),Injection Molded Housings,1.52,2183.11,1.87,0,30.345,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80232,2025-12-22,Plant C (Monterrey),Precision Shafts,1.75,3455.67,1.71,0,47.745000000000005,SPECIAL_CAUSE|ESCAPED_DEFECTS,P2_HIGH,Investigate the special cause before release; Add containment inspection at shipping
+B-80233,2025-12-23,Plant A (Ohio),Automotive Brackets,1.45,6033.57,2.98,1,67.00999999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80234,2025-12-23,Plant B (Texas),Precision Shafts,1.34,2342.42,2.65,1,73.16499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80235,2025-12-23,Plant B (Texas),Precision Shafts,1.52,1561.33,1.15,0,32.654999999999994,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80236,2025-12-23,Plant A (Ohio),Hydraulic Valves,1.57,1286.09,1.54,0,35.510000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80237,2025-12-23,Plant B (Texas),Precision Shafts,1.71,916.83,1.4,0,17.8275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80238,2025-12-23,Plant C (Monterrey),Hydraulic Valves,1.8,1689.21,1.62,0,42.385,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80239,2025-12-23,Plant A (Ohio),Automotive Brackets,1.73,2795.78,2.22,0,20.395000000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80240,2025-12-23,Plant A (Ohio),Electrical Enclosures,1.58,1723.0,1.88,0,43.81,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80241,2025-12-24,Plant B (Texas),Precision Shafts,1.56,730.0,1.62,0,36.9025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80242,2025-12-24,Plant B (Texas),Automotive Brackets,1.31,2573.25,2.0,0,53.815000000000005,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80243,2025-12-25,Plant A (Ohio),Injection Molded Housings,1.42,4692.96,2.59,1,63.38,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80244,2025-12-25,Plant C (Monterrey),Automotive Brackets,1.57,4346.33,2.69,1,45.91,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80245,2025-12-25,Plant B (Texas),Injection Molded Housings,1.38,5777.57,2.37,1,56.7275,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80246,2025-12-26,Plant C (Monterrey),Injection Molded Housings,1.73,4485.57,2.09,0,27.27500000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80247,2025-12-26,Plant A (Ohio),Injection Molded Housings,1.54,3707.54,3.72,1,51.4575,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80248,2025-12-26,Plant B (Texas),Electrical Enclosures,1.68,502.37,1.49,0,8.787500000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80249,2025-12-26,Plant B (Texas),Hydraulic Valves,1.24,2942.53,1.7,0,57.66,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80250,2025-12-26,Plant C (Monterrey),Automotive Brackets,1.61,2191.88,1.49,0,16.03,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80251,2025-12-29,Plant B (Texas),Electrical Enclosures,1.6,1271.41,0.96,0,14.834999999999996,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80252,2025-12-29,Plant B (Texas),Hydraulic Valves,1.57,1656.54,1.85,0,58.98749999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80253,2025-12-29,Plant B (Texas),Precision Shafts,1.27,2859.75,1.44,0,64.585,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80254,2025-12-30,Plant B (Texas),Injection Molded Housings,1.59,5058.68,2.78,1,45.53,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80255,2025-12-30,Plant A (Ohio),Automotive Brackets,1.51,5694.44,2.16,0,52.33000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80256,2025-12-30,Plant C (Monterrey),Precision Shafts,1.78,1377.32,2.09,0,41.1825,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80257,2025-12-30,Plant A (Ohio),Electrical Enclosures,1.45,2244.75,2.21,0,62.2,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80258,2025-12-30,Plant B (Texas),Electrical Enclosures,1.46,1054.67,1.63,0,40.64,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80259,2025-12-30,Plant B (Texas),Injection Molded Housings,1.53,3581.81,2.37,1,45.35999999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80260,2025-12-31,Plant A (Ohio),Hydraulic Valves,1.39,4153.7,2.02,0,73.975,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80261,2025-12-31,Plant A (Ohio),Automotive Brackets,1.39,2003.6,2.05,0,44.59,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80262,2026-01-01,Plant A (Ohio),Electrical Enclosures,1.39,1164.12,1.45,0,52.205,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80263,2026-01-01,Plant C (Monterrey),Automotive Brackets,1.7,2099.38,1.15,0,7.08,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80264,2026-01-01,Plant A (Ohio),Precision Shafts,1.47,1496.34,1.27,0,44.095,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80265,2026-01-01,Plant C (Monterrey),Hydraulic Valves,1.6,3807.6,1.59,0,40.755,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80266,2026-01-01,Plant A (Ohio),Precision Shafts,1.66,1473.11,1.42,0,35.97749999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80267,2026-01-01,Plant C (Monterrey),Precision Shafts,1.66,1617.75,1.94,0,51.31,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80268,2026-01-02,Plant B (Texas),Electrical Enclosures,1.6,611.43,1.4,0,12.644999999999998,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80269,2026-01-02,Plant B (Texas),Precision Shafts,1.44,3360.74,2.0,0,66.13499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80270,2026-01-02,Plant A (Ohio),Electrical Enclosures,1.41,1345.7,1.23,0,48.2025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80271,2026-01-02,Plant A (Ohio),Hydraulic Valves,1.25,1101.35,2.61,1,79.5725,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80272,2026-01-02,Plant B (Texas),Hydraulic Valves,1.66,907.12,0.79,0,40.645,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80273,2026-01-05,Plant B (Texas),Hydraulic Valves,1.8,2427.26,1.18,0,22.585,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80274,2026-01-05,Plant B (Texas),Automotive Brackets,1.61,2596.94,2.37,1,33.245,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80275,2026-01-05,Plant B (Texas),Electrical Enclosures,1.44,1082.28,0.92,0,28.110000000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80276,2026-01-05,Plant A (Ohio),Injection Molded Housings,1.43,5291.95,2.26,0,52.395,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80277,2026-01-06,Plant B (Texas),Automotive Brackets,1.59,2967.51,1.52,0,19.015,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80278,2026-01-06,Plant C (Monterrey),Automotive Brackets,1.58,3087.69,1.42,0,18.585,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80279,2026-01-06,Plant B (Texas),Electrical Enclosures,1.32,878.97,1.52,0,38.085,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80280,2026-01-07,Plant B (Texas),Automotive Brackets,1.64,2376.21,1.67,0,16.7375,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80281,2026-01-08,Plant A (Ohio),Precision Shafts,1.37,1225.14,0.96,0,41.025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80282,2026-01-08,Plant C (Monterrey),Electrical Enclosures,1.5,2308.12,1.48,0,33.7875,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80283,2026-01-08,Plant C (Monterrey),Hydraulic Valves,1.52,2043.65,0.88,0,29.5575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80284,2026-01-08,Plant A (Ohio),Hydraulic Valves,1.41,930.1,1.25,0,47.6975,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80285,2026-01-09,Plant B (Texas),Automotive Brackets,1.12,2305.32,2.51,1,65.51499999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80286,2026-01-09,Plant C (Monterrey),Automotive Brackets,1.63,783.88,1.29,0,9.875,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80287,2026-01-09,Plant B (Texas),Electrical Enclosures,1.34,2644.36,1.67,0,66.955,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80288,2026-01-09,Plant A (Ohio),Injection Molded Housings,1.54,4633.13,3.84,1,63.45,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80289,2026-01-12,Plant C (Monterrey),Injection Molded Housings,1.61,5067.87,2.04,0,28.685,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80290,2026-01-12,Plant B (Texas),Precision Shafts,1.44,707.83,1.23,0,29.15,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80291,2026-01-12,Plant C (Monterrey),Precision Shafts,1.45,1249.13,1.16,0,28.34,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80292,2026-01-13,Plant B (Texas),Electrical Enclosures,1.49,1786.14,1.46,0,33.53499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80293,2026-01-13,Plant C (Monterrey),Precision Shafts,1.55,1632.1,1.22,0,36.0725,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80294,2026-01-13,Plant C (Monterrey),Electrical Enclosures,1.81,918.1,2.11,0,24.3875,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80295,2026-01-13,Plant A (Ohio),Automotive Brackets,1.49,4467.29,1.72,0,40.9325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80296,2026-01-13,Plant B (Texas),Precision Shafts,1.6,1583.94,1.63,0,27.987499999999997,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80297,2026-01-14,Plant A (Ohio),Hydraulic Valves,1.36,6046.12,2.74,1,83.205,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80298,2026-01-14,Plant B (Texas),Hydraulic Valves,1.53,4510.78,2.04,0,66.7,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80299,2026-01-14,Plant B (Texas),Injection Molded Housings,1.54,5296.47,2.67,1,53.385000000000005,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80300,2026-01-14,Plant A (Ohio),Hydraulic Valves,1.32,1106.91,1.66,0,55.475,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80301,2026-01-15,Plant C (Monterrey),Precision Shafts,1.82,1129.86,1.49,0,9.33,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80302,2026-01-15,Plant C (Monterrey),Injection Molded Housings,1.65,2333.98,2.88,1,35.01499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80303,2026-01-15,Plant C (Monterrey),Electrical Enclosures,1.68,3089.98,2.73,1,53.64,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80304,2026-01-15,Plant C (Monterrey),Automotive Brackets,1.73,1802.29,1.73,0,14.56,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80305,2026-01-15,Plant C (Monterrey),Electrical Enclosures,1.6,733.69,1.55,0,16.205,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80306,2026-01-16,Plant B (Texas),Automotive Brackets,1.4,4484.58,2.15,0,55.41,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80307,2026-01-16,Plant B (Texas),Hydraulic Valves,1.55,2044.39,0.97,0,28.4175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80308,2026-01-16,Plant C (Monterrey),Electrical Enclosures,1.44,2214.4,1.34,0,34.855,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80309,2026-01-16,Plant A (Ohio),Injection Molded Housings,1.49,5275.13,2.67,1,55.795,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80310,2026-01-16,Plant B (Texas),Electrical Enclosures,1.24,966.35,1.82,0,53.43249999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80311,2026-01-16,Plant B (Texas),Injection Molded Housings,1.37,1779.12,3.08,1,59.69,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80312,2026-01-16,Plant A (Ohio),Hydraulic Valves,1.52,1097.91,1.13,0,48.145,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80313,2026-01-19,Plant B (Texas),Hydraulic Valves,1.56,2225.86,2.26,0,51.37750000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80314,2026-01-19,Plant B (Texas),Automotive Brackets,1.48,9265.39,3.59,1,68.05,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80315,2026-01-19,Plant B (Texas),Electrical Enclosures,1.16,2664.97,1.66,0,56.15,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80316,2026-01-19,Plant B (Texas),Precision Shafts,1.48,3090.59,1.76,0,67.18499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80317,2026-01-19,Plant C (Monterrey),Electrical Enclosures,1.52,2041.85,1.05,0,32.190000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80318,2026-01-20,Plant C (Monterrey),Hydraulic Valves,1.43,935.02,1.15,0,68.915,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80319,2026-01-20,Plant A (Ohio),Hydraulic Valves,1.24,4107.02,1.74,0,77.725,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80320,2026-01-20,Plant C (Monterrey),Automotive Brackets,1.75,1641.69,1.68,0,13.740000000000002,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80321,2026-01-20,Plant B (Texas),Injection Molded Housings,1.56,8979.21,3.98,1,66.0,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80322,2026-01-21,Plant C (Monterrey),Automotive Brackets,1.48,3945.41,1.89,0,42.7175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80323,2026-01-21,Plant B (Texas),Precision Shafts,1.37,2446.03,2.12,0,64.835,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80324,2026-01-21,Plant C (Monterrey),Hydraulic Valves,1.6,3048.85,1.33,0,53.37,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80325,2026-01-21,Plant B (Texas),Automotive Brackets,1.5,1085.39,1.31,0,25.94,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80326,2026-01-22,Plant A (Ohio),Precision Shafts,1.58,843.39,1.48,0,14.2,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80327,2026-01-22,Plant B (Texas),Hydraulic Valves,1.2,2371.88,2.35,0,84.685,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80328,2026-01-22,Plant B (Texas),Hydraulic Valves,1.36,3187.37,2.22,0,71.375,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80329,2026-01-22,Plant C (Monterrey),Electrical Enclosures,1.6,1578.08,1.09,0,18.075,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80330,2026-01-22,Plant C (Monterrey),Precision Shafts,1.53,2361.59,1.19,0,36.9025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80331,2026-01-23,Plant C (Monterrey),Injection Molded Housings,1.71,5420.12,1.83,0,28.235,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80332,2026-01-26,Plant B (Texas),Injection Molded Housings,1.81,2832.54,2.36,0,25.875000000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80333,2026-01-26,Plant B (Texas),Precision Shafts,1.38,1447.85,0.84,0,31.99,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80334,2026-01-26,Plant A (Ohio),Electrical Enclosures,1.53,1073.25,1.76,0,43.8925,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80335,2026-01-26,Plant C (Monterrey),Automotive Brackets,1.54,3279.5,1.34,0,23.770000000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80336,2026-01-26,Plant A (Ohio),Precision Shafts,1.44,1354.45,1.33,0,30.9375,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80337,2026-01-27,Plant A (Ohio),Electrical Enclosures,1.47,2568.52,1.3,0,35.705000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80338,2026-01-28,Plant A (Ohio),Automotive Brackets,1.25,6443.88,2.48,1,73.4125,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80339,2026-01-29,Plant A (Ohio),Injection Molded Housings,1.38,8099.78,3.9,1,78.0,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80340,2026-01-29,Plant A (Ohio),Automotive Brackets,1.37,5967.56,2.33,0,64.99000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80341,2026-01-29,Plant A (Ohio),Injection Molded Housings,1.34,6365.4,2.54,1,61.96999999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80342,2026-01-29,Plant B (Texas),Hydraulic Valves,1.62,705.35,1.1,0,16.2825,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80343,2026-01-29,Plant B (Texas),Electrical Enclosures,1.26,1248.77,1.4,0,54.78,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80344,2026-01-29,Plant C (Monterrey),Precision Shafts,1.66,1349.68,0.8,0,10.81,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80345,2026-01-29,Plant B (Texas),Injection Molded Housings,1.39,3487.92,2.14,0,51.55,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80346,2026-01-30,Plant C (Monterrey),Injection Molded Housings,1.64,6641.59,2.59,1,40.54,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80347,2026-01-30,Plant A (Ohio),Hydraulic Valves,1.57,2821.64,1.37,0,42.6225,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80348,2026-01-30,Plant B (Texas),Electrical Enclosures,1.06,2418.81,1.57,0,53.7775,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80349,2026-01-30,Plant A (Ohio),Automotive Brackets,1.46,2966.88,1.84,0,36.135,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80350,2026-01-30,Plant A (Ohio),Automotive Brackets,1.39,2192.03,2.35,0,52.845,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80351,2026-02-02,Plant B (Texas),Injection Molded Housings,1.51,5242.28,2.57,1,47.48,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80352,2026-02-02,Plant B (Texas),Automotive Brackets,1.3,75112.82,57.5,1,53.83,CPK_BELOW_TARGET|ESCAPED_DEFECTS|RECALL_COST|NEGATIVE_MARGIN|HIGH_COPQ,P1_URGENT,"Review process capability and tooling this week; Add containment inspection at shipping; Open a recall review with the plant quality lead; Reprice or pause this product family at this plant; Review scrap, rework and warranty drivers for the batch"
+B-80353,2026-02-02,Plant B (Texas),Precision Shafts,1.73,972.77,0.72,0,13.5225,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80354,2026-02-02,Plant C (Monterrey),Injection Molded Housings,1.57,1938.74,3.08,1,26.78,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80355,2026-02-02,Plant A (Ohio),Automotive Brackets,1.42,1581.79,2.07,0,49.73,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80356,2026-02-03,Plant A (Ohio),Hydraulic Valves,1.19,3090.61,1.6,0,67.435,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80357,2026-02-04,Plant A (Ohio),Automotive Brackets,1.45,1956.18,1.87,0,43.415,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80358,2026-02-04,Plant A (Ohio),Hydraulic Valves,1.35,3347.68,2.05,0,74.13000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80359,2026-02-04,Plant C (Monterrey),Precision Shafts,1.44,1377.6,1.1,0,68.515,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80360,2026-02-04,Plant C (Monterrey),Electrical Enclosures,1.41,1456.83,2.32,0,70.34,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80361,2026-02-04,Plant C (Monterrey),Hydraulic Valves,1.63,1372.69,1.01,0,15.1175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80362,2026-02-04,Plant C (Monterrey),Hydraulic Valves,1.59,3939.35,2.78,1,59.275,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80363,2026-02-04,Plant C (Monterrey),Precision Shafts,1.68,613.55,0.57,0,6.755000000000002,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80364,2026-02-05,Plant B (Texas),Automotive Brackets,1.48,4004.08,1.8,0,35.3575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80365,2026-02-05,Plant C (Monterrey),Electrical Enclosures,1.59,1662.68,0.92,0,22.9025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80366,2026-02-05,Plant B (Texas),Automotive Brackets,1.38,1870.17,1.64,0,44.265,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80367,2026-02-05,Plant C (Monterrey),Injection Molded Housings,1.85,7127.47,2.91,1,43.815,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80368,2026-02-06,Plant A (Ohio),Electrical Enclosures,1.49,1321.27,1.56,0,32.82,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80369,2026-02-06,Plant A (Ohio),Injection Molded Housings,1.44,4012.16,2.85,1,59.63499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80370,2026-02-06,Plant C (Monterrey),Hydraulic Valves,1.39,2357.71,1.13,0,50.56999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80371,2026-02-06,Plant C (Monterrey),Electrical Enclosures,1.43,61762.62,64.84,1,40.5975,ESCAPED_DEFECTS|RECALL_COST|NEGATIVE_MARGIN|HIGH_COPQ,P1_URGENT,"Add containment inspection at shipping; Open a recall review with the plant quality lead; Reprice or pause this product family at this plant; Review scrap, rework and warranty drivers for the batch"
+B-80372,2026-02-10,Plant B (Texas),Electrical Enclosures,1.14,2721.8,2.41,1,73.34,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80373,2026-02-10,Plant C (Monterrey),Precision Shafts,1.7,1004.11,1.7,0,27.690000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80374,2026-02-10,Plant B (Texas),Precision Shafts,1.77,700.95,0.85,0,4.819999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80375,2026-02-10,Plant B (Texas),Electrical Enclosures,1.27,2157.81,1.96,0,58.98,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80376,2026-02-11,Plant A (Ohio),Injection Molded Housings,1.57,4677.24,1.96,0,32.66,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80377,2026-02-11,Plant A (Ohio),Hydraulic Valves,1.33,1299.16,2.61,1,66.175,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80378,2026-02-12,Plant B (Texas),Precision Shafts,1.54,1731.29,1.06,0,26.4325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80379,2026-02-12,Plant A (Ohio),Hydraulic Valves,1.52,2426.02,2.07,0,64.47500000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80380,2026-02-12,Plant A (Ohio),Hydraulic Valves,1.54,1090.76,2.23,0,59.17250000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80381,2026-02-12,Plant B (Texas),Hydraulic Valves,1.52,3143.07,1.67,0,55.13249999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80382,2026-02-13,Plant A (Ohio),Injection Molded Housings,1.43,2175.2,2.36,0,53.5525,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80383,2026-02-13,Plant C (Monterrey),Injection Molded Housings,1.62,3519.45,2.54,1,36.24000000000001,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80384,2026-02-13,Plant B (Texas),Precision Shafts,1.65,2875.96,2.37,1,55.86750000000001,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80385,2026-02-13,Plant B (Texas),Injection Molded Housings,1.41,86481.15,64.31,1,57.7,ESCAPED_DEFECTS|RECALL_COST|NEGATIVE_MARGIN|HIGH_COPQ,P1_URGENT,"Add containment inspection at shipping; Open a recall review with the plant quality lead; Reprice or pause this product family at this plant; Review scrap, rework and warranty drivers for the batch"
+B-80386,2026-02-13,Plant C (Monterrey),Injection Molded Housings,1.74,2313.54,2.36,0,19.757500000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80387,2026-02-13,Plant A (Ohio),Hydraulic Valves,1.6,704.06,1.17,0,56.86,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80388,2026-02-16,Plant B (Texas),Hydraulic Valves,1.6,3186.19,1.4,0,47.24499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80389,2026-02-16,Plant C (Monterrey),Electrical Enclosures,1.57,1391.3,1.13,0,16.517500000000002,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80390,2026-02-16,Plant A (Ohio),Automotive Brackets,1.5,4396.87,1.88,0,52.16,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80391,2026-02-16,Plant C (Monterrey),Precision Shafts,1.75,1639.17,1.11,0,14.7875,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80392,2026-02-16,Plant B (Texas),Precision Shafts,1.42,2724.56,1.77,0,63.81249999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80393,2026-02-17,Plant B (Texas),Injection Molded Housings,1.48,1968.4,2.24,0,41.99,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80394,2026-02-17,Plant C (Monterrey),Injection Molded Housings,1.57,8365.3,3.21,1,59.41499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80395,2026-02-17,Plant C (Monterrey),Automotive Brackets,1.61,4804.55,2.33,0,45.94499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80396,2026-02-17,Plant B (Texas),Electrical Enclosures,1.31,1059.88,1.69,0,57.64750000000001,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80397,2026-02-18,Plant B (Texas),Electrical Enclosures,1.31,699.52,0.78,0,31.8,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80398,2026-02-18,Plant A (Ohio),Precision Shafts,1.59,2090.63,1.26,0,32.895,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80399,2026-02-18,Plant B (Texas),Electrical Enclosures,1.26,2607.98,1.33,0,51.38999999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80400,2026-02-18,Plant B (Texas),Electrical Enclosures,1.53,2084.36,1.16,0,26.6375,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80401,2026-02-18,Plant B (Texas),Electrical Enclosures,1.36,2808.77,2.27,0,68.08,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80402,2026-02-18,Plant B (Texas),Precision Shafts,1.62,1074.36,1.93,0,39.6475,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80403,2026-02-19,Plant C (Monterrey),Automotive Brackets,1.43,3689.12,1.62,0,42.68000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80404,2026-02-20,Plant B (Texas),Hydraulic Valves,1.6,1662.78,0.77,0,26.1275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80405,2026-02-20,Plant B (Texas),Hydraulic Valves,1.44,2616.67,1.3,0,58.3325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80406,2026-02-20,Plant C (Monterrey),Injection Molded Housings,1.65,3016.65,2.39,1,25.565,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80407,2026-02-20,Plant A (Ohio),Injection Molded Housings,1.21,7365.74,2.94,1,70.005,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80408,2026-02-20,Plant A (Ohio),Electrical Enclosures,1.66,1047.58,1.22,0,8.510000000000002,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80409,2026-02-20,Plant B (Texas),Injection Molded Housings,1.61,3630.93,2.03,0,30.495,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80410,2026-02-23,Plant A (Ohio),Electrical Enclosures,1.2,4134.55,2.35,0,82.60499999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80411,2026-02-23,Plant B (Texas),Injection Molded Housings,1.4,61234.17,22.6,1,67.91,ESCAPED_DEFECTS|RECALL_COST|NEGATIVE_MARGIN|HIGH_COPQ,P1_URGENT,"Add containment inspection at shipping; Open a recall review with the plant quality lead; Reprice or pause this product family at this plant; Review scrap, rework and warranty drivers for the batch"
+B-80412,2026-02-24,Plant A (Ohio),Hydraulic Valves,1.44,3375.68,1.83,0,72.65,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80413,2026-02-24,Plant B (Texas),Precision Shafts,1.41,3207.08,1.84,0,69.06,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80414,2026-02-24,Plant A (Ohio),Injection Molded Housings,1.42,7490.86,2.91,1,69.35,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80415,2026-02-24,Plant B (Texas),Automotive Brackets,1.22,5042.48,3.01,1,74.72,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80416,2026-02-24,Plant C (Monterrey),Electrical Enclosures,1.78,1645.39,1.01,0,5.844999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80417,2026-02-24,Plant C (Monterrey),Hydraulic Valves,1.38,2407.85,1.79,0,61.63,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80418,2026-02-26,Plant C (Monterrey),Precision Shafts,1.54,1506.32,1.72,0,46.7625,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80419,2026-02-26,Plant B (Texas),Automotive Brackets,1.43,2692.33,1.74,0,33.475,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80420,2026-02-26,Plant C (Monterrey),Precision Shafts,1.54,2110.3,1.22,0,33.8425,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80421,2026-02-26,Plant B (Texas),Automotive Brackets,1.58,6035.97,4.31,1,61.315,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80422,2026-02-27,Plant B (Texas),Automotive Brackets,1.25,7208.96,3.29,1,72.775,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80423,2026-02-27,Plant C (Monterrey),Automotive Brackets,1.65,2940.74,1.46,0,12.44,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80424,2026-03-02,Plant B (Texas),Automotive Brackets,1.58,7777.3,3.42,1,60.575,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80425,2026-03-02,Plant C (Monterrey),Precision Shafts,1.65,3314.84,1.98,0,35.175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80426,2026-03-02,Plant B (Texas),Electrical Enclosures,1.11,1712.22,1.6,0,62.19250000000001,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80427,2026-03-02,Plant A (Ohio),Hydraulic Valves,1.55,3344.24,1.37,0,46.575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80428,2026-03-02,Plant C (Monterrey),Electrical Enclosures,1.45,904.49,2.67,1,67.31,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80429,2026-03-03,Plant A (Ohio),Automotive Brackets,1.35,2260.75,2.28,0,49.650000000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80430,2026-03-03,Plant A (Ohio),Injection Molded Housings,1.48,2065.03,2.17,0,41.43000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80431,2026-03-03,Plant B (Texas),Electrical Enclosures,1.1,1025.72,1.62,0,46.2875,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80432,2026-03-03,Plant C (Monterrey),Hydraulic Valves,1.51,3221.78,1.47,0,54.4725,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80433,2026-03-03,Plant B (Texas),Injection Molded Housings,1.48,2961.71,3.03,1,38.377500000000005,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80434,2026-03-03,Plant A (Ohio),Hydraulic Valves,1.35,3947.23,3.51,1,82.59,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80435,2026-03-04,Plant C (Monterrey),Precision Shafts,1.7,2155.16,1.09,0,23.87,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80436,2026-03-04,Plant C (Monterrey),Automotive Brackets,1.54,4136.92,1.66,0,28.465,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80437,2026-03-05,Plant C (Monterrey),Automotive Brackets,1.65,2773.46,2.97,1,54.63,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80438,2026-03-05,Plant B (Texas),Precision Shafts,1.24,3745.11,3.07,1,85.4175,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80439,2026-03-05,Plant C (Monterrey),Hydraulic Valves,1.52,3037.77,1.72,0,55.945,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80440,2026-03-06,Plant C (Monterrey),Electrical Enclosures,1.7,1001.7,1.24,0,17.117500000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80441,2026-03-06,Plant A (Ohio),Automotive Brackets,1.36,2607.97,2.23,0,61.865,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80442,2026-03-09,Plant C (Monterrey),Precision Shafts,1.76,748.86,1.32,0,10.025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80443,2026-03-09,Plant C (Monterrey),Hydraulic Valves,1.38,1826.18,1.31,0,53.5225,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80444,2026-03-09,Plant C (Monterrey),Injection Molded Housings,1.37,3345.98,2.48,1,55.9825,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80445,2026-03-09,Plant B (Texas),Injection Molded Housings,1.6,2513.05,2.45,1,36.9875,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80446,2026-03-10,Plant B (Texas),Hydraulic Valves,1.68,1840.04,1.14,0,35.6175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80447,2026-03-10,Plant C (Monterrey),Injection Molded Housings,1.6,6274.57,2.2,0,37.365,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80448,2026-03-10,Plant C (Monterrey),Precision Shafts,1.77,846.69,1.26,0,6.8925,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80449,2026-03-11,Plant A (Ohio),Hydraulic Valves,1.46,3002.72,1.47,0,57.4175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80450,2026-03-11,Plant A (Ohio),Precision Shafts,1.45,2728.64,1.51,0,61.5275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80451,2026-03-12,Plant A (Ohio),Electrical Enclosures,1.38,1479.78,1.29,0,32.045,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80452,2026-03-12,Plant B (Texas),Injection Molded Housings,1.59,4040.98,2.4,1,40.2625,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80453,2026-03-12,Plant B (Texas),Automotive Brackets,1.29,1849.22,2.39,1,63.45,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80454,2026-03-12,Plant B (Texas),Precision Shafts,1.57,2347.07,1.49,0,37.365,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80455,2026-03-12,Plant C (Monterrey),Hydraulic Valves,1.7,3609.83,2.07,0,50.627500000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80456,2026-03-12,Plant B (Texas),Electrical Enclosures,1.18,1219.65,2.53,1,74.9725,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80457,2026-03-12,Plant B (Texas),Automotive Brackets,1.3,4654.95,1.98,0,60.935,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80458,2026-03-13,Plant B (Texas),Automotive Brackets,1.53,1967.84,2.2,0,27.92,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80459,2026-03-13,Plant B (Texas),Hydraulic Valves,1.67,1828.29,1.5,0,34.357499999999995,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80460,2026-03-13,Plant C (Monterrey),Electrical Enclosures,1.31,2116.79,1.44,0,50.065000000000005,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80461,2026-03-13,Plant C (Monterrey),Hydraulic Valves,1.64,3747.44,1.56,0,40.05,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80462,2026-03-13,Plant C (Monterrey),Precision Shafts,1.8,2231.65,1.32,0,9.7075,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80463,2026-03-13,Plant C (Monterrey),Precision Shafts,1.44,2629.08,1.64,0,60.635000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80464,2026-03-16,Plant B (Texas),Hydraulic Valves,1.39,2378.42,1.64,0,75.1225,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80465,2026-03-16,Plant A (Ohio),Precision Shafts,1.44,1612.2,1.09,0,55.7475,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80466,2026-03-17,Plant C (Monterrey),Hydraulic Valves,1.77,1139.24,0.58,0,6.099999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80467,2026-03-17,Plant B (Texas),Electrical Enclosures,1.15,1527.73,1.62,0,72.04,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80468,2026-03-17,Plant A (Ohio),Precision Shafts,1.32,2639.91,1.75,0,71.67,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80469,2026-03-18,Plant C (Monterrey),Electrical Enclosures,1.7,914.78,1.09,0,8.457500000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80470,2026-03-18,Plant C (Monterrey),Automotive Brackets,1.47,4904.04,2.07,0,49.845,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80471,2026-03-18,Plant B (Texas),Hydraulic Valves,1.24,1280.41,1.53,0,82.09,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80472,2026-03-18,Plant B (Texas),Precision Shafts,1.26,6896.52,4.48,1,81.325,CPK_BELOW_TARGET|SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80473,2026-03-19,Plant B (Texas),Precision Shafts,1.33,1678.1,1.48,0,61.7825,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80474,2026-03-19,Plant B (Texas),Electrical Enclosures,1.23,747.91,2.02,0,59.57,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80475,2026-03-20,Plant C (Monterrey),Precision Shafts,1.52,1645.2,1.91,0,22.985,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80476,2026-03-20,Plant B (Texas),Electrical Enclosures,1.14,2303.61,1.88,0,67.0875,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80477,2026-03-20,Plant B (Texas),Hydraulic Valves,1.5,2045.82,2.11,0,63.86000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80478,2026-03-23,Plant B (Texas),Hydraulic Valves,1.18,2951.95,2.3,0,70.685,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80479,2026-03-23,Plant B (Texas),Precision Shafts,1.39,2088.58,1.72,0,64.48,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80480,2026-03-23,Plant B (Texas),Electrical Enclosures,1.14,3829.51,2.1,0,78.55499999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80481,2026-03-23,Plant C (Monterrey),Automotive Brackets,1.79,3115.86,1.19,0,6.41,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80482,2026-03-24,Plant A (Ohio),Automotive Brackets,1.49,1784.06,2.08,0,38.38,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80483,2026-03-24,Plant C (Monterrey),Injection Molded Housings,1.24,7382.99,2.57,1,71.19,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80484,2026-03-24,Plant B (Texas),Precision Shafts,1.51,2757.62,1.58,0,49.6525,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80485,2026-03-24,Plant A (Ohio),Electrical Enclosures,1.5,800.24,1.23,0,29.775,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80486,2026-03-24,Plant B (Texas),Injection Molded Housings,1.54,4613.35,1.8,0,38.04750000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80487,2026-03-24,Plant C (Monterrey),Injection Molded Housings,1.74,3241.99,1.86,0,10.9125,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80488,2026-03-25,Plant C (Monterrey),Precision Shafts,1.67,1524.9,1.38,0,18.71,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80489,2026-03-25,Plant B (Texas),Hydraulic Valves,1.62,2229.67,1.24,0,28.9,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80490,2026-03-25,Plant C (Monterrey),Precision Shafts,1.4,2381.44,1.59,0,63.475,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80491,2026-03-25,Plant C (Monterrey),Automotive Brackets,1.52,3985.53,1.76,0,39.27,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80492,2026-03-25,Plant B (Texas),Injection Molded Housings,1.4,5554.64,2.42,1,56.71000000000001,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80493,2026-03-26,Plant B (Texas),Hydraulic Valves,1.51,1484.11,1.02,0,45.6025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80494,2026-03-26,Plant A (Ohio),Injection Molded Housings,1.42,6221.97,3.49,1,75.185,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80495,2026-03-27,Plant C (Monterrey),Automotive Brackets,1.67,1304.16,0.92,0,7.3,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80496,2026-03-27,Plant A (Ohio),Precision Shafts,1.41,3125.78,1.74,0,57.965,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80497,2026-03-27,Plant B (Texas),Injection Molded Housings,1.58,6664.31,2.64,1,48.215,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80498,2026-03-30,Plant C (Monterrey),Automotive Brackets,1.63,916.3,1.16,0,11.095,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80499,2026-03-30,Plant B (Texas),Precision Shafts,1.4,1837.3,2.07,0,59.055000000000014,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80500,2026-03-30,Plant A (Ohio),Injection Molded Housings,1.44,5356.65,3.29,1,65.07000000000001,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80501,2026-03-30,Plant A (Ohio),Hydraulic Valves,1.53,2966.58,1.53,0,58.20000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80502,2026-03-30,Plant B (Texas),Hydraulic Valves,1.43,3941.15,2.0,0,73.06250000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80503,2026-03-31,Plant A (Ohio),Hydraulic Valves,1.15,12314.47,8.07,1,83.82499999999999,CPK_BELOW_TARGET|SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80504,2026-03-31,Plant B (Texas),Injection Molded Housings,1.56,1916.81,1.98,0,29.685,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80505,2026-04-01,Plant A (Ohio),Electrical Enclosures,1.44,614.63,1.62,0,26.615,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80506,2026-04-01,Plant A (Ohio),Automotive Brackets,1.44,4257.2,1.74,0,33.31999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80507,2026-04-01,Plant C (Monterrey),Hydraulic Valves,1.65,1119.36,2.68,1,57.565,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80508,2026-04-02,Plant C (Monterrey),Automotive Brackets,1.71,2252.35,1.72,0,10.865,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80509,2026-04-02,Plant B (Texas),Hydraulic Valves,1.56,3372.33,1.37,0,57.58,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80510,2026-04-02,Plant A (Ohio),Automotive Brackets,1.38,4527.97,2.91,1,68.21,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80511,2026-04-02,Plant C (Monterrey),Injection Molded Housings,1.86,4519.5,2.1,0,25.91,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80512,2026-04-02,Plant B (Texas),Automotive Brackets,1.57,4012.86,1.6,0,33.5275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80513,2026-04-02,Plant A (Ohio),Precision Shafts,1.36,1834.91,1.01,0,37.605,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80514,2026-04-03,Plant A (Ohio),Injection Molded Housings,1.58,3040.17,2.67,1,42.072500000000005,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80515,2026-04-03,Plant C (Monterrey),Automotive Brackets,1.7,3035.76,1.26,0,11.935,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80516,2026-04-03,Plant C (Monterrey),Hydraulic Valves,1.72,2547.09,1.12,0,27.33749999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80517,2026-04-03,Plant C (Monterrey),Injection Molded Housings,1.66,5658.04,2.82,1,50.275000000000006,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80518,2026-04-03,Plant C (Monterrey),Hydraulic Valves,1.46,930.44,1.9,0,70.1875,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80519,2026-04-03,Plant B (Texas),Injection Molded Housings,1.6,5477.19,2.61,1,50.03,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80520,2026-04-03,Plant B (Texas),Electrical Enclosures,1.36,3807.92,2.97,1,80.61500000000001,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80521,2026-04-03,Plant A (Ohio),Electrical Enclosures,1.52,1554.78,1.29,0,29.8275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80522,2026-04-06,Plant A (Ohio),Electrical Enclosures,1.49,1082.4,1.87,0,37.97,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80523,2026-04-06,Plant A (Ohio),Automotive Brackets,1.6,4352.76,1.69,0,19.3775,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80524,2026-04-06,Plant B (Texas),Hydraulic Valves,1.51,1660.68,1.54,0,28.405,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80525,2026-04-06,Plant A (Ohio),Injection Molded Housings,1.56,2575.39,2.49,1,47.915,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80526,2026-04-06,Plant B (Texas),Hydraulic Valves,1.47,1662.83,1.28,0,46.67,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80527,2026-04-07,Plant B (Texas),Precision Shafts,1.28,2734.76,1.48,0,66.16250000000001,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80528,2026-04-07,Plant C (Monterrey),Electrical Enclosures,1.63,828.87,1.49,0,16.8825,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80529,2026-04-07,Plant C (Monterrey),Precision Shafts,1.71,1134.7,1.22,0,11.742499999999998,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80530,2026-04-07,Plant B (Texas),Injection Molded Housings,1.37,8585.68,4.27,1,79.49499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80531,2026-04-07,Plant B (Texas),Injection Molded Housings,1.5,3613.79,3.03,1,53.505,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80532,2026-04-08,Plant A (Ohio),Electrical Enclosures,1.39,714.24,1.17,0,48.0125,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80533,2026-04-08,Plant A (Ohio),Injection Molded Housings,1.49,5514.25,2.47,1,47.54,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80534,2026-04-08,Plant B (Texas),Hydraulic Valves,1.45,1088.65,1.2,0,28.28,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80535,2026-04-08,Plant A (Ohio),Injection Molded Housings,1.42,5084.0,2.88,1,60.695,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80536,2026-04-09,Plant A (Ohio),Injection Molded Housings,1.16,3180.31,3.73,1,80.6675,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80537,2026-04-09,Plant C (Monterrey),Precision Shafts,1.61,5045.02,2.77,1,58.4,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80538,2026-04-09,Plant C (Monterrey),Hydraulic Valves,1.55,922.85,1.61,0,25.9175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80539,2026-04-10,Plant C (Monterrey),Precision Shafts,1.65,752.59,1.34,0,11.075,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80540,2026-04-10,Plant C (Monterrey),Automotive Brackets,1.62,4709.16,1.96,0,26.8275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80541,2026-04-10,Plant C (Monterrey),Precision Shafts,1.59,1113.76,1.65,0,37.82,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80542,2026-04-10,Plant B (Texas),Electrical Enclosures,1.34,3501.13,3.75,1,78.35499999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80543,2026-04-10,Plant B (Texas),Precision Shafts,1.55,6397.78,3.34,1,63.665000000000006,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80544,2026-04-10,Plant C (Monterrey),Automotive Brackets,1.75,1713.06,1.43,0,12.710000000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80545,2026-04-13,Plant A (Ohio),Hydraulic Valves,1.2,1069.79,1.79,0,64.0625,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80546,2026-04-13,Plant B (Texas),Electrical Enclosures,1.27,6736.31,3.8,1,80.58,CPK_BELOW_TARGET|SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80547,2026-04-13,Plant A (Ohio),Injection Molded Housings,1.4,7507.42,3.08,1,70.93499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80548,2026-04-13,Plant C (Monterrey),Electrical Enclosures,1.64,639.18,0.88,0,10.735,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80549,2026-04-13,Plant B (Texas),Hydraulic Valves,1.28,4903.77,2.23,0,83.245,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80550,2026-04-13,Plant B (Texas),Automotive Brackets,1.53,6564.09,2.75,1,58.39,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80551,2026-04-14,Plant A (Ohio),Injection Molded Housings,1.3,5255.29,2.26,0,58.155,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80552,2026-04-14,Plant A (Ohio),Hydraulic Valves,1.23,3350.8,2.54,1,84.7925,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80553,2026-04-14,Plant B (Texas),Electrical Enclosures,1.45,2542.09,2.17,0,62.09,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80554,2026-04-15,Plant C (Monterrey),Injection Molded Housings,1.66,5246.41,2.33,0,32.255,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80555,2026-04-15,Plant B (Texas),Hydraulic Valves,1.45,1837.83,4.29,1,76.89750000000001,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80556,2026-04-15,Plant C (Monterrey),Electrical Enclosures,1.52,906.53,1.33,0,19.0475,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80557,2026-04-15,Plant B (Texas),Injection Molded Housings,1.69,6003.2,2.5,1,41.41,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80558,2026-04-15,Plant A (Ohio),Automotive Brackets,1.36,1453.73,2.18,0,50.52,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80559,2026-04-15,Plant B (Texas),Precision Shafts,1.39,2319.33,1.33,0,61.315,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80560,2026-04-15,Plant A (Ohio),Injection Molded Housings,1.39,3299.44,3.65,1,71.00999999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80561,2026-04-15,Plant C (Monterrey),Injection Molded Housings,1.55,5996.36,2.32,0,46.575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80562,2026-04-15,Plant C (Monterrey),Electrical Enclosures,1.61,1979.24,1.62,0,25.36,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80563,2026-04-16,Plant A (Ohio),Automotive Brackets,1.58,6911.51,3.41,1,59.93999999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80564,2026-04-16,Plant C (Monterrey),Precision Shafts,1.73,1356.21,0.78,0,11.97,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80565,2026-04-17,Plant A (Ohio),Injection Molded Housings,1.42,1625.38,2.47,1,43.03,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80566,2026-04-17,Plant B (Texas),Automotive Brackets,1.49,3537.09,1.88,0,39.3575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80567,2026-04-20,Plant B (Texas),Hydraulic Valves,1.68,3563.78,3.84,1,70.47500000000001,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80568,2026-04-20,Plant A (Ohio),Electrical Enclosures,1.55,618.53,1.41,0,15.97,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80569,2026-04-20,Plant C (Monterrey),Electrical Enclosures,1.65,1214.69,1.13,0,10.075,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80570,2026-04-20,Plant C (Monterrey),Automotive Brackets,1.5,2253.81,2.89,1,49.985,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80571,2026-04-20,Plant C (Monterrey),Electrical Enclosures,1.75,2394.81,1.17,0,23.355000000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80572,2026-04-21,Plant A (Ohio),Electrical Enclosures,1.45,1739.5,1.27,0,34.325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80573,2026-04-21,Plant C (Monterrey),Precision Shafts,1.54,1751.78,1.3,0,40.465,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80574,2026-04-21,Plant C (Monterrey),Automotive Brackets,1.61,4504.76,1.94,0,19.885,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80575,2026-04-21,Plant B (Texas),Injection Molded Housings,1.3,6496.35,3.14,1,75.775,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80576,2026-04-21,Plant A (Ohio),Hydraulic Valves,1.49,2430.07,1.62,0,64.37749999999998,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80577,2026-04-22,Plant A (Ohio),Precision Shafts,1.43,2489.89,1.84,0,66.465,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80578,2026-04-22,Plant A (Ohio),Injection Molded Housings,1.62,4739.49,1.98,0,31.315000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80579,2026-04-23,Plant C (Monterrey),Automotive Brackets,1.63,3935.9,1.74,0,27.61,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80580,2026-04-23,Plant C (Monterrey),Automotive Brackets,1.66,4458.11,3.37,1,54.91499999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80581,2026-04-23,Plant C (Monterrey),Electrical Enclosures,1.56,448.55,1.36,0,14.42,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80582,2026-04-23,Plant A (Ohio),Automotive Brackets,1.47,7142.39,3.43,1,68.695,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80583,2026-04-23,Plant C (Monterrey),Automotive Brackets,1.54,2041.28,1.55,0,21.32,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80584,2026-04-23,Plant B (Texas),Automotive Brackets,1.24,2571.81,2.39,1,67.575,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80585,2026-04-23,Plant A (Ohio),Precision Shafts,1.46,1609.31,1.27,0,63.1725,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80586,2026-04-23,Plant C (Monterrey),Injection Molded Housings,1.31,6416.64,3.43,1,69.41499999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80587,2026-04-23,Plant C (Monterrey),Electrical Enclosures,1.59,3352.83,3.2,1,75.51,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80588,2026-04-24,Plant A (Ohio),Injection Molded Housings,1.42,4544.22,2.29,0,57.23499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80589,2026-04-27,Plant C (Monterrey),Hydraulic Valves,1.63,1879.09,2.02,0,53.4725,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80590,2026-04-27,Plant C (Monterrey),Automotive Brackets,1.59,3766.61,1.59,0,21.8375,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80591,2026-04-27,Plant A (Ohio),Electrical Enclosures,1.27,795.81,1.68,0,69.7775,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80592,2026-04-28,Plant B (Texas),Hydraulic Valves,1.22,4901.2,3.29,1,86.455,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80593,2026-04-28,Plant C (Monterrey),Injection Molded Housings,1.62,3667.76,2.01,0,40.695,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80594,2026-04-28,Plant A (Ohio),Hydraulic Valves,1.6,2629.63,1.4,0,53.76749999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80595,2026-04-28,Plant C (Monterrey),Injection Molded Housings,1.52,3112.23,1.73,0,25.96,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80596,2026-04-29,Plant B (Texas),Injection Molded Housings,1.33,4992.56,3.27,1,78.85,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80597,2026-04-29,Plant B (Texas),Injection Molded Housings,1.39,2097.26,3.41,1,66.6275,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80598,2026-04-30,Plant A (Ohio),Precision Shafts,1.49,597.8,1.53,0,36.6975,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80599,2026-04-30,Plant A (Ohio),Precision Shafts,1.43,2844.53,1.42,0,67.29499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80600,2026-04-30,Plant C (Monterrey),Hydraulic Valves,1.64,2914.22,1.23,0,40.28,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80601,2026-04-30,Plant B (Texas),Injection Molded Housings,1.56,2457.4,2.4,1,51.627500000000005,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80602,2026-04-30,Plant B (Texas),Electrical Enclosures,1.17,2978.32,4.65,1,84.53500000000001,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80603,2026-04-30,Plant B (Texas),Hydraulic Valves,1.46,3180.01,2.14,0,69.16,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80604,2026-05-01,Plant B (Texas),Automotive Brackets,1.29,4997.74,1.99,0,54.78,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80605,2026-05-01,Plant C (Monterrey),Automotive Brackets,1.56,2514.58,1.71,0,25.46,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80606,2026-05-04,Plant A (Ohio),Hydraulic Valves,1.64,526.8,0.82,0,37.3675,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80607,2026-05-04,Plant C (Monterrey),Automotive Brackets,1.29,3808.19,3.23,1,72.39999999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80608,2026-05-04,Plant A (Ohio),Hydraulic Valves,1.59,1282.06,1.42,0,50.62,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80609,2026-05-04,Plant C (Monterrey),Electrical Enclosures,1.5,2510.01,1.43,0,30.235,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80610,2026-05-04,Plant B (Texas),Precision Shafts,1.75,2722.89,1.47,0,20.8275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80611,2026-05-05,Plant A (Ohio),Precision Shafts,1.65,1217.56,1.59,0,25.3775,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80612,2026-05-05,Plant C (Monterrey),Electrical Enclosures,1.56,2778.77,1.47,0,37.0825,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80613,2026-05-05,Plant C (Monterrey),Injection Molded Housings,1.67,3039.96,1.72,0,11.81,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80614,2026-05-05,Plant C (Monterrey),Automotive Brackets,1.53,2846.4,2.54,1,54.620000000000005,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80615,2026-05-05,Plant B (Texas),Injection Molded Housings,1.65,9969.24,6.32,1,57.71,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80616,2026-05-05,Plant A (Ohio),Electrical Enclosures,1.41,1450.61,1.13,0,47.76499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80617,2026-05-05,Plant A (Ohio),Precision Shafts,1.61,5523.47,3.84,1,59.675,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80618,2026-05-05,Plant C (Monterrey),Automotive Brackets,1.59,5163.71,1.98,0,44.2375,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80619,2026-05-05,Plant C (Monterrey),Injection Molded Housings,1.65,5143.81,2.81,1,40.39,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80620,2026-05-05,Plant B (Texas),Hydraulic Valves,1.54,2032.35,1.14,0,35.035000000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80621,2026-05-06,Plant A (Ohio),Hydraulic Valves,1.44,1104.78,2.67,1,74.44999999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80622,2026-05-06,Plant C (Monterrey),Electrical Enclosures,1.51,998.84,1.09,0,31.582500000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80623,2026-05-06,Plant C (Monterrey),Electrical Enclosures,1.41,1615.67,1.58,0,44.6575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80624,2026-05-07,Plant A (Ohio),Precision Shafts,1.49,708.94,1.23,0,43.1825,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80625,2026-05-07,Plant A (Ohio),Precision Shafts,1.39,1321.69,0.75,0,42.9175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80626,2026-05-07,Plant A (Ohio),Electrical Enclosures,1.48,25167.83,23.92,1,55.795,ESCAPED_DEFECTS|RECALL_COST|NEGATIVE_MARGIN|HIGH_COPQ,P1_URGENT,"Add containment inspection at shipping; Open a recall review with the plant quality lead; Reprice or pause this product family at this plant; Review scrap, rework and warranty drivers for the batch"
+B-80627,2026-05-08,Plant A (Ohio),Precision Shafts,1.17,3784.76,3.0,1,85.3,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80628,2026-05-08,Plant C (Monterrey),Automotive Brackets,1.66,2346.18,1.83,0,25.9675,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80629,2026-05-08,Plant C (Monterrey),Automotive Brackets,1.57,4730.51,1.88,0,33.870000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80630,2026-05-08,Plant C (Monterrey),Automotive Brackets,1.45,3021.4,2.11,0,45.245,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80631,2026-05-08,Plant C (Monterrey),Injection Molded Housings,1.56,1940.8,2.24,0,35.525,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80632,2026-05-08,Plant A (Ohio),Electrical Enclosures,1.52,1361.73,1.26,0,30.125,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80633,2026-05-11,Plant A (Ohio),Electrical Enclosures,1.5,2347.4,1.33,0,32.705,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80634,2026-05-11,Plant B (Texas),Hydraulic Valves,1.44,314.57,0.78,0,36.515,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80635,2026-05-12,Plant C (Monterrey),Automotive Brackets,1.41,5058.42,2.01,0,51.94,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80636,2026-05-12,Plant C (Monterrey),Precision Shafts,1.68,1241.22,2.01,0,37.09,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80637,2026-05-12,Plant A (Ohio),Automotive Brackets,1.37,5836.82,2.55,1,68.875,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80638,2026-05-12,Plant B (Texas),Precision Shafts,1.64,2371.54,1.51,0,37.470000000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80639,2026-05-13,Plant C (Monterrey),Hydraulic Valves,1.5,2827.21,1.2,0,40.4775,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80640,2026-05-14,Plant C (Monterrey),Precision Shafts,1.35,1597.66,0.87,0,35.01,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80641,2026-05-14,Plant C (Monterrey),Automotive Brackets,1.66,3524.74,1.43,0,14.785000000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80642,2026-05-14,Plant C (Monterrey),Electrical Enclosures,1.55,2069.53,3.2,1,63.485,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80643,2026-05-14,Plant A (Ohio),Hydraulic Valves,1.52,2047.6,1.63,0,64.1775,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80644,2026-05-14,Plant C (Monterrey),Automotive Brackets,1.49,1731.96,1.67,0,34.785,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80645,2026-05-15,Plant B (Texas),Precision Shafts,1.51,3203.23,1.94,0,60.265,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80646,2026-05-18,Plant C (Monterrey),Precision Shafts,1.85,1889.48,1.21,0,22.74,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80647,2026-05-18,Plant B (Texas),Hydraulic Valves,1.62,570.0,1.01,0,12.015,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80648,2026-05-18,Plant B (Texas),Precision Shafts,1.41,1487.21,2.4,1,59.2525,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80649,2026-05-19,Plant A (Ohio),Hydraulic Valves,1.58,2020.82,2.64,1,59.28249999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80650,2026-05-19,Plant C (Monterrey),Injection Molded Housings,1.67,5796.46,2.24,0,37.045,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80651,2026-05-19,Plant C (Monterrey),Automotive Brackets,1.33,1579.41,2.49,1,65.03999999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80652,2026-05-20,Plant B (Texas),Injection Molded Housings,1.64,4468.28,2.04,0,19.590000000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80653,2026-05-21,Plant B (Texas),Injection Molded Housings,1.57,4920.36,2.92,1,53.88,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80654,2026-05-21,Plant C (Monterrey),Injection Molded Housings,1.76,4609.62,2.19,0,19.615,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80655,2026-05-21,Plant B (Texas),Electrical Enclosures,1.44,790.92,1.17,0,43.00000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80656,2026-05-21,Plant C (Monterrey),Injection Molded Housings,1.54,3880.28,2.45,1,49.10499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80657,2026-05-22,Plant A (Ohio),Precision Shafts,1.42,1085.81,1.83,0,47.7275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80658,2026-05-22,Plant B (Texas),Precision Shafts,1.65,1616.85,1.22,0,24.7775,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80659,2026-05-22,Plant C (Monterrey),Precision Shafts,1.42,607.17,1.37,0,32.265,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80660,2026-05-22,Plant B (Texas),Hydraulic Valves,1.52,7801.14,4.15,1,66.42,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80661,2026-05-25,Plant C (Monterrey),Hydraulic Valves,1.57,2277.96,1.31,0,57.7525,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80662,2026-05-25,Plant B (Texas),Hydraulic Valves,1.6,2623.57,1.53,0,43.565,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80663,2026-05-26,Plant C (Monterrey),Electrical Enclosures,1.45,1211.8,0.75,0,27.6775,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80664,2026-05-26,Plant A (Ohio),Automotive Brackets,1.56,3247.97,1.35,0,20.565,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80665,2026-05-26,Plant B (Texas),Injection Molded Housings,1.35,4859.19,2.31,0,54.11499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80666,2026-05-26,Plant B (Texas),Precision Shafts,1.57,1200.36,1.54,0,32.8975,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80667,2026-05-26,Plant B (Texas),Hydraulic Valves,1.55,2239.68,2.26,0,60.05,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80668,2026-05-27,Plant B (Texas),Automotive Brackets,1.46,2745.42,2.06,0,46.51,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80669,2026-05-27,Plant A (Ohio),Precision Shafts,1.57,2994.71,1.49,0,48.155,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80670,2026-05-27,Plant A (Ohio),Automotive Brackets,1.44,4250.97,1.79,0,41.0,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80671,2026-05-27,Plant B (Texas),Automotive Brackets,1.49,1085.05,1.32,0,28.91,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80672,2026-05-28,Plant B (Texas),Automotive Brackets,1.47,3677.28,2.12,0,42.525,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80673,2026-05-28,Plant B (Texas),Hydraulic Valves,1.65,1294.45,1.13,0,30.28,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80674,2026-05-28,Plant B (Texas),Hydraulic Valves,1.64,3711.34,1.58,0,50.065000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80675,2026-05-28,Plant A (Ohio),Electrical Enclosures,1.32,1730.7,1.41,0,56.09499999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80676,2026-05-28,Plant A (Ohio),Injection Molded Housings,1.34,13319.21,6.34,1,79.14999999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80677,2026-05-28,Plant B (Texas),Hydraulic Valves,1.36,2737.41,1.87,0,64.41,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80678,2026-05-28,Plant B (Texas),Electrical Enclosures,1.52,2443.69,1.23,0,27.5525,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80679,2026-05-29,Plant A (Ohio),Electrical Enclosures,1.33,2201.83,1.21,0,37.865,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80680,2026-05-29,Plant B (Texas),Precision Shafts,1.46,1630.37,1.4,0,53.557500000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80681,2026-06-01,Plant A (Ohio),Injection Molded Housings,1.49,3169.68,2.57,1,50.31,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80682,2026-06-01,Plant C (Monterrey),Automotive Brackets,1.58,1964.44,1.78,0,25.430000000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80683,2026-06-01,Plant B (Texas),Automotive Brackets,1.39,4144.27,2.23,0,53.585,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80684,2026-06-02,Plant A (Ohio),Injection Molded Housings,1.31,6138.77,4.32,1,81.365,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80685,2026-06-02,Plant C (Monterrey),Precision Shafts,1.56,607.88,0.68,0,22.435,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80686,2026-06-03,Plant A (Ohio),Electrical Enclosures,1.43,1267.56,1.31,0,36.47,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80687,2026-06-03,Plant B (Texas),Injection Molded Housings,1.24,6295.79,5.27,1,81.285,CPK_BELOW_TARGET|SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80688,2026-06-03,Plant C (Monterrey),Electrical Enclosures,1.48,1626.89,1.35,0,35.400000000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80689,2026-06-04,Plant A (Ohio),Automotive Brackets,1.32,3535.14,2.2,0,56.46,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80690,2026-06-04,Plant C (Monterrey),Hydraulic Valves,1.37,4366.11,1.76,0,77.92999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80691,2026-06-04,Plant A (Ohio),Hydraulic Valves,1.46,2052.9,2.26,0,65.88000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80692,2026-06-05,Plant C (Monterrey),Precision Shafts,1.7,2587.68,2.62,1,53.125,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80693,2026-06-08,Plant B (Texas),Precision Shafts,1.45,892.14,1.75,0,45.20249999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80694,2026-06-08,Plant C (Monterrey),Automotive Brackets,1.77,4485.29,1.74,0,22.86,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80695,2026-06-08,Plant A (Ohio),Precision Shafts,1.49,2126.42,1.32,0,46.9725,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80696,2026-06-08,Plant A (Ohio),Injection Molded Housings,1.1,4909.78,2.71,1,69.025,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80697,2026-06-08,Plant A (Ohio),Injection Molded Housings,1.24,4837.46,3.39,1,69.27,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80698,2026-06-09,Plant A (Ohio),Electrical Enclosures,1.5,718.27,1.05,0,22.230000000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80699,2026-06-09,Plant A (Ohio),Precision Shafts,1.64,2707.83,1.55,0,35.41,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80700,2026-06-09,Plant B (Texas),Hydraulic Valves,1.5,703.89,1.03,0,20.9,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80701,2026-06-09,Plant B (Texas),Injection Molded Housings,1.54,3024.78,2.72,1,52.19999999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80702,2026-06-10,Plant C (Monterrey),Precision Shafts,1.42,1250.57,1.3,0,47.01499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80703,2026-06-10,Plant C (Monterrey),Electrical Enclosures,1.59,1625.64,1.19,0,15.464999999999998,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80704,2026-06-10,Plant C (Monterrey),Automotive Brackets,1.58,3305.4,1.96,0,24.46,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80705,2026-06-10,Plant B (Texas),Injection Molded Housings,1.33,5428.66,3.93,1,82.475,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80706,2026-06-11,Plant B (Texas),Hydraulic Valves,1.61,1654.06,1.52,0,40.0975,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80707,2026-06-11,Plant A (Ohio),Injection Molded Housings,1.34,4882.1,2.62,1,58.225,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80708,2026-06-12,Plant B (Texas),Injection Molded Housings,1.4,4629.78,3.4,1,70.255,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80709,2026-06-12,Plant B (Texas),Injection Molded Housings,1.3,3978.56,2.75,1,62.07,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80710,2026-06-12,Plant A (Ohio),Injection Molded Housings,1.29,5393.94,2.37,1,60.98,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80711,2026-06-15,Plant C (Monterrey),Injection Molded Housings,1.42,3984.54,3.82,1,71.98,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80712,2026-06-15,Plant B (Texas),Precision Shafts,1.39,2448.5,1.23,0,57.2225,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80713,2026-06-16,Plant B (Texas),Precision Shafts,1.32,2989.18,1.91,0,70.6075,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80714,2026-06-16,Plant A (Ohio),Hydraulic Valves,1.47,4100.26,1.8,0,65.61000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80715,2026-06-16,Plant C (Monterrey),Electrical Enclosures,1.55,2228.04,1.18,0,22.255,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80716,2026-06-16,Plant B (Texas),Automotive Brackets,1.61,2406.48,1.91,0,19.28,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80717,2026-06-16,Plant C (Monterrey),Automotive Brackets,1.64,2187.59,1.44,0,13.165,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80718,2026-06-16,Plant B (Texas),Injection Molded Housings,1.48,5725.37,3.48,1,65.62,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80719,2026-06-16,Plant A (Ohio),Hydraulic Valves,1.41,2056.69,2.0,0,60.7,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80720,2026-06-17,Plant B (Texas),Automotive Brackets,1.7,3954.5,1.87,0,18.69,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80721,2026-06-17,Plant B (Texas),Hydraulic Valves,1.47,2504.11,5.24,1,71.48,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80722,2026-06-17,Plant A (Ohio),Injection Molded Housings,1.47,8726.59,3.24,1,65.255,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80723,2026-06-17,Plant C (Monterrey),Automotive Brackets,1.68,2118.6,1.72,0,10.815000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80724,2026-06-17,Plant C (Monterrey),Injection Molded Housings,1.59,3889.8,2.7,1,47.805,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80725,2026-06-17,Plant B (Texas),Electrical Enclosures,1.46,2354.21,1.46,0,34.1175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80726,2026-06-18,Plant C (Monterrey),Hydraulic Valves,1.9,2271.29,1.09,0,21.4575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80727,2026-06-18,Plant B (Texas),Automotive Brackets,1.58,2729.35,2.05,0,26.17,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80728,2026-06-19,Plant C (Monterrey),Hydraulic Valves,1.33,935.77,2.2,0,64.4975,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80729,2026-06-19,Plant A (Ohio),Electrical Enclosures,1.48,1284.66,1.59,0,37.28,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80730,2026-06-19,Plant C (Monterrey),Electrical Enclosures,1.74,816.51,1.48,0,12.900000000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80731,2026-06-22,Plant B (Texas),Electrical Enclosures,1.45,1157.36,1.39,0,32.34,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80732,2026-06-23,Plant A (Ohio),Hydraulic Valves,1.36,1628.04,3.97,1,79.37,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80733,2026-06-24,Plant A (Ohio),Electrical Enclosures,1.51,2460.65,1.46,0,36.59,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80734,2026-06-25,Plant B (Texas),Injection Molded Housings,1.52,2920.75,2.12,0,38.95,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80735,2026-06-25,Plant C (Monterrey),Electrical Enclosures,1.63,1954.13,1.0,0,16.924999999999997,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80736,2026-06-26,Plant C (Monterrey),Hydraulic Valves,1.62,1445.46,1.41,0,34.1625,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80737,2026-06-26,Plant B (Texas),Electrical Enclosures,1.36,694.11,2.02,0,32.8125,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80738,2026-06-26,Plant A (Ohio),Hydraulic Valves,1.52,1484.11,1.47,0,64.11,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80739,2026-06-26,Plant A (Ohio),Hydraulic Valves,1.52,4118.14,1.71,0,51.4925,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80740,2026-06-26,Plant A (Ohio),Precision Shafts,1.62,1226.78,1.43,0,35.285,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80741,2026-06-26,Plant B (Texas),Precision Shafts,1.34,4092.7,2.37,1,79.205,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80742,2026-06-29,Plant A (Ohio),Hydraulic Valves,1.25,3292.41,1.94,0,67.35749999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80743,2026-06-29,Plant B (Texas),Hydraulic Valves,1.6,3489.25,3.22,1,66.55499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80744,2026-06-30,Plant A (Ohio),Precision Shafts,1.55,1496.82,1.98,0,56.8075,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80745,2026-06-30,Plant C (Monterrey),Hydraulic Valves,1.78,2647.83,1.22,0,23.719999999999995,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80746,2026-06-30,Plant C (Monterrey),Precision Shafts,1.72,1366.72,1.66,0,32.385,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80747,2026-06-30,Plant B (Texas),Precision Shafts,1.32,1125.01,2.09,0,63.5425,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80748,2026-07-01,Plant A (Ohio),Hydraulic Valves,1.56,1950.91,1.17,0,41.3625,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80749,2026-07-01,Plant A (Ohio),Precision Shafts,1.35,3360.48,2.59,1,77.66,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80750,2026-07-01,Plant B (Texas),Electrical Enclosures,1.48,1263.06,0.99,0,33.085,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80751,2026-07-01,Plant A (Ohio),Hydraulic Valves,1.43,1481.45,1.11,0,42.66,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80752,2026-07-02,Plant B (Texas),Automotive Brackets,1.48,3953.0,2.31,0,56.765,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80753,2026-07-02,Plant C (Monterrey),Hydraulic Valves,1.49,743.53,1.14,0,26.1375,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80754,2026-07-02,Plant C (Monterrey),Injection Molded Housings,1.66,4492.05,2.91,1,45.5825,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80755,2026-07-03,Plant B (Texas),Automotive Brackets,1.64,4397.72,1.88,0,24.84,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80756,2026-07-03,Plant A (Ohio),Electrical Enclosures,1.62,2011.25,1.22,0,25.46,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80757,2026-07-03,Plant B (Texas),Electrical Enclosures,1.54,1233.19,1.11,0,17.305,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80758,2026-07-03,Plant A (Ohio),Injection Molded Housings,1.33,7094.81,4.12,1,81.475,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80759,2026-07-03,Plant A (Ohio),Automotive Brackets,1.42,4706.33,1.97,0,47.325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80760,2026-07-06,Plant B (Texas),Precision Shafts,1.67,1590.78,1.19,0,26.585,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80761,2026-07-06,Plant A (Ohio),Electrical Enclosures,1.53,2749.34,3.08,1,64.35499999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80762,2026-07-06,Plant B (Texas),Injection Molded Housings,1.59,7888.58,4.18,1,60.55499999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80763,2026-07-06,Plant B (Texas),Precision Shafts,1.51,3327.97,1.92,0,53.447500000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80764,2026-07-06,Plant C (Monterrey),Injection Molded Housings,1.46,5157.29,2.32,0,55.15,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80765,2026-07-07,Plant C (Monterrey),Electrical Enclosures,1.29,2552.77,1.76,0,56.355,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80766,2026-07-07,Plant C (Monterrey),Precision Shafts,1.64,865.35,1.1,0,18.1325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80767,2026-07-07,Plant A (Ohio),Precision Shafts,1.67,856.31,1.67,0,23.99,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80768,2026-07-07,Plant A (Ohio),Electrical Enclosures,1.4,3012.32,1.72,0,48.58749999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80769,2026-07-07,Plant C (Monterrey),Automotive Brackets,1.61,4872.58,2.33,0,39.45,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80770,2026-07-07,Plant B (Texas),Precision Shafts,1.8,2323.75,1.31,0,17.255,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80771,2026-07-08,Plant B (Texas),Electrical Enclosures,1.57,23766.98,26.65,1,23.42,ESCAPED_DEFECTS|RECALL_COST|NEGATIVE_MARGIN|HIGH_COPQ,P1_URGENT,"Add containment inspection at shipping; Open a recall review with the plant quality lead; Reprice or pause this product family at this plant; Review scrap, rework and warranty drivers for the batch"
+B-80772,2026-07-08,Plant A (Ohio),Automotive Brackets,1.29,3999.62,2.16,0,54.81,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80773,2026-07-08,Plant C (Monterrey),Automotive Brackets,1.7,2632.95,1.42,0,13.970000000000002,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80774,2026-07-08,Plant A (Ohio),Automotive Brackets,1.4,4146.27,1.87,0,41.435,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80775,2026-07-08,Plant B (Texas),Precision Shafts,1.58,2746.9,2.33,0,64.3,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80776,2026-07-08,Plant B (Texas),Precision Shafts,1.31,1084.14,1.5,0,70.46,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80777,2026-07-09,Plant C (Monterrey),Precision Shafts,1.57,2240.13,1.31,0,32.74,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80778,2026-07-09,Plant B (Texas),Automotive Brackets,1.75,3139.74,2.02,0,22.58,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80779,2026-07-09,Plant B (Texas),Hydraulic Valves,1.48,7372.47,3.89,1,75.425,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80780,2026-07-10,Plant A (Ohio),Injection Molded Housings,1.4,5572.93,2.54,1,53.32,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80781,2026-07-10,Plant B (Texas),Hydraulic Valves,1.67,2610.45,2.13,0,49.9175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80782,2026-07-10,Plant A (Ohio),Electrical Enclosures,1.31,1648.51,1.14,0,50.88,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80783,2026-07-10,Plant A (Ohio),Hydraulic Valves,1.3,2436.79,2.54,1,81.47999999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80784,2026-07-10,Plant C (Monterrey),Hydraulic Valves,1.67,1500.87,0.67,0,7.939999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80785,2026-07-10,Plant B (Texas),Precision Shafts,1.58,706.93,0.83,0,16.127499999999998,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80786,2026-07-10,Plant A (Ohio),Injection Molded Housings,1.39,3028.66,2.22,0,49.345000000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80787,2026-07-13,Plant C (Monterrey),Precision Shafts,1.7,1742.73,0.97,0,11.330000000000002,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80788,2026-07-13,Plant A (Ohio),Automotive Brackets,1.36,3533.14,2.22,0,56.795,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80789,2026-07-13,Plant C (Monterrey),Injection Molded Housings,1.5,5204.11,2.03,0,52.135,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80790,2026-07-13,Plant B (Texas),Injection Molded Housings,1.25,6256.38,2.94,1,66.60999999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80791,2026-07-14,Plant A (Ohio),Automotive Brackets,1.58,2561.31,1.42,0,26.0525,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80792,2026-07-14,Plant C (Monterrey),Hydraulic Valves,1.58,1894.25,1.29,0,55.78,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80793,2026-07-14,Plant B (Texas),Precision Shafts,1.48,1466.52,1.12,0,30.335,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80794,2026-07-15,Plant A (Ohio),Electrical Enclosures,1.28,999.98,1.01,0,34.099999999999994,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80795,2026-07-15,Plant B (Texas),Automotive Brackets,1.47,4308.98,1.99,0,42.44,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80796,2026-07-15,Plant A (Ohio),Injection Molded Housings,1.4,8958.18,3.98,1,74.26499999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80797,2026-07-15,Plant B (Texas),Automotive Brackets,1.44,1172.96,1.92,0,31.44,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80798,2026-07-15,Plant A (Ohio),Hydraulic Valves,1.39,2939.27,1.49,0,58.0925,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80799,2026-07-16,Plant C (Monterrey),Precision Shafts,1.66,1623.74,1.48,0,33.165,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80800,2026-07-17,Plant C (Monterrey),Electrical Enclosures,1.38,2496.45,2.33,0,74.48,SPECIAL_CAUSE|ESCAPED_DEFECTS,P2_HIGH,Investigate the special cause before release; Add containment inspection at shipping
+B-80801,2026-07-17,Plant A (Ohio),Electrical Enclosures,1.78,611.4,1.71,0,7.1,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80802,2026-07-17,Plant A (Ohio),Automotive Brackets,1.61,3244.65,1.84,0,29.285,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80803,2026-07-17,Plant C (Monterrey),Precision Shafts,1.47,2361.64,1.18,0,32.842499999999994,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80804,2026-07-17,Plant A (Ohio),Precision Shafts,1.58,1984.78,1.76,0,52.5825,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80805,2026-07-20,Plant B (Texas),Hydraulic Valves,1.32,870.79,1.77,0,42.19,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80806,2026-07-20,Plant A (Ohio),Hydraulic Valves,1.36,1299.21,1.46,0,45.3925,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80807,2026-07-20,Plant B (Texas),Electrical Enclosures,1.61,1332.64,1.31,0,34.5475,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80808,2026-07-21,Plant C (Monterrey),Automotive Brackets,1.46,3538.45,1.65,0,34.5875,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80809,2026-07-21,Plant A (Ohio),Electrical Enclosures,1.36,628.36,1.59,0,31.385,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80810,2026-07-21,Plant C (Monterrey),Injection Molded Housings,1.44,3570.91,4.46,1,69.38,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80811,2026-07-21,Plant B (Texas),Precision Shafts,1.29,4089.01,2.17,0,77.7375,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80812,2026-07-22,Plant C (Monterrey),Hydraulic Valves,1.63,2476.42,1.02,0,44.29500000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80813,2026-07-23,Plant C (Monterrey),Injection Molded Housings,1.41,7665.38,4.06,1,73.77999999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80814,2026-07-23,Plant A (Ohio),Electrical Enclosures,1.63,1172.96,1.8,0,38.62,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80815,2026-07-24,Plant A (Ohio),Automotive Brackets,1.55,2642.57,1.47,0,29.605000000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80816,2026-07-24,Plant B (Texas),Hydraulic Valves,1.6,3334.37,1.76,0,58.2325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80817,2026-07-24,Plant A (Ohio),Automotive Brackets,1.4,3268.17,2.85,1,56.98,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80818,2026-07-24,Plant C (Monterrey),Automotive Brackets,1.57,3762.05,1.75,0,31.155,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80819,2026-07-24,Plant B (Texas),Precision Shafts,1.55,1213.04,1.85,0,47.915,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80820,2026-07-27,Plant A (Ohio),Automotive Brackets,1.66,3289.31,1.39,0,13.285,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80821,2026-07-27,Plant C (Monterrey),Electrical Enclosures,1.77,1399.12,0.8,0,5.029999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80822,2026-07-27,Plant A (Ohio),Automotive Brackets,1.54,4611.97,2.09,0,57.38,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80823,2026-07-28,Plant C (Monterrey),Hydraulic Valves,1.5,1699.44,0.7,0,46.295,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80824,2026-07-28,Plant B (Texas),Injection Molded Housings,1.55,6440.85,3.38,1,63.77,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80825,2026-07-28,Plant C (Monterrey),Hydraulic Valves,1.37,2991.7,1.66,0,59.7275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80826,2026-07-28,Plant B (Texas),Hydraulic Valves,1.53,2803.9,1.35,0,49.05,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80827,2026-07-29,Plant C (Monterrey),Automotive Brackets,1.34,6249.4,2.91,1,69.21499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80828,2026-07-29,Plant A (Ohio),Electrical Enclosures,1.62,2458.88,1.96,0,38.66,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80829,2026-07-29,Plant A (Ohio),Electrical Enclosures,1.41,1081.5,1.09,0,30.847499999999997,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80830,2026-07-29,Plant B (Texas),Electrical Enclosures,1.45,1863.43,1.27,0,28.0725,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80831,2026-07-30,Plant C (Monterrey),Electrical Enclosures,1.41,989.6,1.84,0,53.3875,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80832,2026-07-30,Plant A (Ohio),Automotive Brackets,1.41,5214.87,3.67,1,73.59,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80833,2026-07-30,Plant C (Monterrey),Electrical Enclosures,1.72,1271.78,1.54,0,29.08,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80834,2026-07-31,Plant C (Monterrey),Injection Molded Housings,1.36,6281.93,2.38,1,50.735,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80835,2026-07-31,Plant C (Monterrey),Electrical Enclosures,1.73,1391.77,0.78,0,6.8525,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80836,2026-07-31,Plant B (Texas),Automotive Brackets,1.44,5230.17,2.02,0,51.63,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80837,2026-07-31,Plant B (Texas),Injection Molded Housings,1.57,4601.59,2.21,0,30.96,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80838,2026-07-31,Plant C (Monterrey),Injection Molded Housings,1.48,6704.43,2.95,1,52.995000000000005,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80839,2026-08-03,Plant B (Texas),Automotive Brackets,1.47,2036.09,1.75,0,35.0375,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80840,2026-08-03,Plant C (Monterrey),Precision Shafts,1.66,1122.67,1.3,0,39.3325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80841,2026-08-04,Plant A (Ohio),Hydraulic Valves,1.49,1679.63,1.08,0,46.215,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80842,2026-08-04,Plant B (Texas),Hydraulic Valves,1.45,1276.31,2.16,0,68.27499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80843,2026-08-04,Plant B (Texas),Injection Molded Housings,1.54,6382.59,2.98,1,58.905,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80844,2026-08-05,Plant B (Texas),Electrical Enclosures,1.35,2956.17,2.09,0,72.94,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80845,2026-08-06,Plant C (Monterrey),Precision Shafts,1.58,3853.46,3.86,1,62.035,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80846,2026-08-07,Plant B (Texas),Hydraulic Valves,1.54,4515.5,1.85,0,59.11,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80847,2026-08-07,Plant C (Monterrey),Automotive Brackets,1.62,4938.3,2.68,1,54.815000000000005,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80848,2026-08-07,Plant A (Ohio),Electrical Enclosures,1.4,1496.02,1.4,0,39.49,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80849,2026-08-07,Plant C (Monterrey),Injection Molded Housings,1.44,5465.04,2.6,1,56.475,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80850,2026-08-07,Plant B (Texas),Hydraulic Valves,1.62,1849.69,0.85,0,16.09,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80851,2026-08-10,Plant C (Monterrey),Hydraulic Valves,1.7,2280.88,0.95,0,12.5075,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80852,2026-08-10,Plant B (Texas),Electrical Enclosures,1.73,1269.64,1.17,0,14.085,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80853,2026-08-10,Plant B (Texas),Electrical Enclosures,1.8,605.85,1.6,0,5.245000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80854,2026-08-10,Plant B (Texas),Precision Shafts,1.65,1561.83,0.92,0,21.6,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80855,2026-08-11,Plant C (Monterrey),Precision Shafts,1.65,1626.55,1.03,0,12.680000000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80856,2026-08-11,Plant C (Monterrey),Injection Molded Housings,1.41,45440.64,27.49,1,58.05999999999999,ESCAPED_DEFECTS|RECALL_COST|NEGATIVE_MARGIN|HIGH_COPQ,P1_URGENT,"Add containment inspection at shipping; Open a recall review with the plant quality lead; Reprice or pause this product family at this plant; Review scrap, rework and warranty drivers for the batch"
+B-80857,2026-08-11,Plant A (Ohio),Precision Shafts,1.32,3121.04,2.07,0,81.145,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80858,2026-08-11,Plant B (Texas),Automotive Brackets,1.64,2171.54,1.55,0,25.0575,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80859,2026-08-11,Plant C (Monterrey),Hydraulic Valves,1.61,1735.95,2.19,0,42.03249999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80860,2026-08-12,Plant C (Monterrey),Hydraulic Valves,1.52,4571.91,2.31,0,69.295,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80861,2026-08-12,Plant C (Monterrey),Electrical Enclosures,1.43,904.01,2.6,1,32.5075,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80862,2026-08-12,Plant C (Monterrey),Injection Molded Housings,1.36,3355.59,4.03,1,81.08500000000001,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80863,2026-08-12,Plant C (Monterrey),Injection Molded Housings,1.6,2508.29,2.88,1,56.28999999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80864,2026-08-12,Plant C (Monterrey),Injection Molded Housings,1.67,7013.9,2.7,1,46.665,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80865,2026-08-13,Plant A (Ohio),Hydraulic Valves,1.4,6046.28,2.59,1,77.32000000000001,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80866,2026-08-13,Plant C (Monterrey),Hydraulic Valves,1.48,8042.24,3.88,1,69.86,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80867,2026-08-14,Plant C (Monterrey),Hydraulic Valves,1.52,1708.16,1.48,0,58.215,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80868,2026-08-14,Plant A (Ohio),Automotive Brackets,1.38,4502.32,2.29,0,56.66,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80869,2026-08-14,Plant A (Ohio),Electrical Enclosures,1.47,1540.63,1.54,0,42.5375,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80870,2026-08-14,Plant B (Texas),Precision Shafts,1.62,1940.59,1.05,0,20.875000000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80871,2026-08-17,Plant C (Monterrey),Injection Molded Housings,1.58,5160.97,2.51,1,38.035,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80872,2026-08-17,Plant C (Monterrey),Electrical Enclosures,1.35,2302.29,1.17,0,38.9375,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80873,2026-08-17,Plant A (Ohio),Hydraulic Valves,1.45,2050.71,1.8,0,51.295,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80874,2026-08-17,Plant C (Monterrey),Precision Shafts,1.44,1258.23,1.72,0,58.13250000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80875,2026-08-18,Plant B (Texas),Automotive Brackets,1.38,4216.91,1.78,0,43.045,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80876,2026-08-18,Plant A (Ohio),Injection Molded Housings,1.29,6553.59,2.35,0,58.575,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80877,2026-08-18,Plant C (Monterrey),Automotive Brackets,1.56,2296.14,1.99,0,24.295,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80878,2026-08-18,Plant C (Monterrey),Electrical Enclosures,1.61,1836.67,1.18,0,21.64,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80879,2026-08-18,Plant C (Monterrey),Automotive Brackets,1.53,1599.43,2.14,0,45.405,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80880,2026-08-18,Plant B (Texas),Electrical Enclosures,1.6,945.23,0.89,0,11.969999999999995,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80881,2026-08-19,Plant B (Texas),Electrical Enclosures,1.64,2003.61,1.13,0,19.07,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80882,2026-08-19,Plant C (Monterrey),Hydraulic Valves,1.63,807.15,1.41,0,23.812500000000004,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80883,2026-08-19,Plant B (Texas),Hydraulic Valves,1.74,4664.66,2.34,0,55.605,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80884,2026-08-19,Plant B (Texas),Precision Shafts,1.56,588.26,0.93,0,23.845,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80885,2026-08-19,Plant B (Texas),Automotive Brackets,1.39,4975.3,2.16,0,61.46,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80886,2026-08-20,Plant C (Monterrey),Electrical Enclosures,1.69,633.88,1.51,0,25.120000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80887,2026-08-21,Plant C (Monterrey),Automotive Brackets,1.59,1109.75,1.88,0,13.7625,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80888,2026-08-21,Plant C (Monterrey),Electrical Enclosures,1.7,2199.67,1.23,0,11.9,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80889,2026-08-21,Plant B (Texas),Automotive Brackets,1.52,4335.47,1.66,0,41.260000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80890,2026-08-21,Plant B (Texas),Electrical Enclosures,1.35,2634.89,1.79,0,67.6,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80891,2026-08-21,Plant C (Monterrey),Hydraulic Valves,1.51,2646.6,1.24,0,43.33,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80892,2026-08-25,Plant B (Texas),Hydraulic Valves,1.22,3717.71,2.4,1,81.72749999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80893,2026-08-25,Plant C (Monterrey),Automotive Brackets,1.67,2876.2,1.79,0,17.659999999999997,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80894,2026-08-25,Plant B (Texas),Hydraulic Valves,1.35,4890.47,2.87,1,82.33,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80895,2026-08-25,Plant C (Monterrey),Automotive Brackets,1.49,3593.09,1.71,0,26.874999999999996,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80896,2026-08-26,Plant B (Texas),Automotive Brackets,1.46,2248.25,2.03,0,57.41499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80897,2026-08-26,Plant C (Monterrey),Precision Shafts,1.63,1481.03,0.88,0,10.6,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80898,2026-08-26,Plant B (Texas),Automotive Brackets,1.47,2024.54,2.55,1,38.755,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80899,2026-08-27,Plant B (Texas),Injection Molded Housings,1.67,5887.25,2.06,0,24.275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80900,2026-08-27,Plant B (Texas),Injection Molded Housings,1.4,4854.29,2.28,0,53.9425,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80901,2026-08-27,Plant A (Ohio),Electrical Enclosures,1.2,1249.27,1.79,0,67.7325,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80902,2026-08-27,Plant C (Monterrey),Hydraulic Valves,1.46,3210.56,1.36,0,49.91,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80903,2026-08-27,Plant B (Texas),Electrical Enclosures,1.63,1001.57,0.66,0,9.76,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80904,2026-08-27,Plant A (Ohio),Precision Shafts,1.45,7668.08,4.17,1,72.14500000000001,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80905,2026-08-27,Plant C (Monterrey),Hydraulic Valves,1.67,2618.78,1.28,0,45.915,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80906,2026-08-28,Plant B (Texas),Automotive Brackets,1.51,5042.76,2.27,0,45.01,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80907,2026-08-31,Plant C (Monterrey),Automotive Brackets,1.46,4484.2,1.68,0,36.275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80908,2026-08-31,Plant B (Texas),Electrical Enclosures,1.59,1591.67,1.08,0,15.437500000000002,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80909,2026-08-31,Plant C (Monterrey),Hydraulic Valves,1.71,2849.49,1.26,0,45.0425,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80910,2026-09-01,Plant C (Monterrey),Precision Shafts,1.75,1768.68,1.25,0,17.895,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80911,2026-09-02,Plant C (Monterrey),Hydraulic Valves,1.41,1854.97,4.79,1,74.99,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80912,2026-09-02,Plant B (Texas),Precision Shafts,1.58,1333.51,0.94,0,43.96,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80913,2026-09-02,Plant B (Texas),Precision Shafts,1.7,2745.25,1.75,0,42.23250000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80914,2026-09-02,Plant B (Texas),Electrical Enclosures,1.54,1820.52,1.47,0,32.2175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80915,2026-09-03,Plant A (Ohio),Precision Shafts,1.52,3358.22,1.89,0,48.62499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80916,2026-09-03,Plant C (Monterrey),Automotive Brackets,1.48,2888.22,1.87,0,41.27000000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80917,2026-09-03,Plant B (Texas),Precision Shafts,1.73,1596.9,1.34,0,24.53,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80918,2026-09-04,Plant A (Ohio),Precision Shafts,1.4,3352.87,1.8,0,62.5975,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80919,2026-09-04,Plant A (Ohio),Electrical Enclosures,1.28,1270.92,1.91,0,79.1525,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80920,2026-09-04,Plant C (Monterrey),Hydraulic Valves,1.64,2795.54,1.51,0,33.85999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80921,2026-09-04,Plant B (Texas),Automotive Brackets,1.38,3037.98,2.68,1,75.6375,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80922,2026-09-04,Plant B (Texas),Automotive Brackets,1.57,2538.9,2.2,0,41.665,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80923,2026-09-07,Plant A (Ohio),Hydraulic Valves,1.53,2232.6,1.99,0,33.807500000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80924,2026-09-07,Plant C (Monterrey),Injection Molded Housings,1.62,8094.41,3.18,1,51.02,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80925,2026-09-07,Plant A (Ohio),Injection Molded Housings,1.34,3908.55,3.31,1,79.12499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80926,2026-09-07,Plant C (Monterrey),Precision Shafts,1.57,1015.39,1.04,0,24.22,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80927,2026-09-07,Plant B (Texas),Electrical Enclosures,1.6,991.55,0.87,0,15.825,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80928,2026-09-07,Plant C (Monterrey),Precision Shafts,1.65,2988.21,1.84,0,38.115,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80929,2026-09-08,Plant C (Monterrey),Hydraulic Valves,1.57,3022.52,1.39,0,42.2775,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80930,2026-09-08,Plant B (Texas),Electrical Enclosures,1.36,685.54,2.0,0,46.4275,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80931,2026-09-08,Plant B (Texas),Injection Molded Housings,1.64,2814.56,3.16,1,37.53999999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80932,2026-09-09,Plant B (Texas),Automotive Brackets,1.58,2135.32,2.11,0,28.615,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80933,2026-09-09,Plant A (Ohio),Precision Shafts,1.4,1387.25,1.13,0,44.995000000000005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80934,2026-09-10,Plant B (Texas),Hydraulic Valves,1.5,2803.71,1.4,0,48.42999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80935,2026-09-10,Plant C (Monterrey),Electrical Enclosures,1.62,1010.95,1.66,0,23.0175,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80936,2026-09-10,Plant A (Ohio),Automotive Brackets,1.57,3704.96,2.3,0,43.7,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80937,2026-09-10,Plant A (Ohio),Electrical Enclosures,1.55,1171.83,1.42,0,23.0375,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80938,2026-09-10,Plant B (Texas),Hydraulic Valves,1.58,2236.96,1.36,0,44.99999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80939,2026-09-10,Plant C (Monterrey),Electrical Enclosures,1.76,1219.69,0.63,0,4.669999999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80940,2026-09-10,Plant A (Ohio),Electrical Enclosures,1.61,1132.41,1.44,0,25.2675,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80941,2026-09-11,Plant A (Ohio),Precision Shafts,1.62,2979.85,1.95,0,48.78,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80942,2026-09-11,Plant B (Texas),Hydraulic Valves,1.67,1074.11,1.3,0,21.44,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80943,2026-09-11,Plant B (Texas),Precision Shafts,1.46,1009.96,2.16,0,55.6425,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80944,2026-09-11,Plant A (Ohio),Precision Shafts,1.14,1943.18,1.75,0,66.855,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80945,2026-09-11,Plant B (Texas),Injection Molded Housings,1.6,4547.0,2.26,0,33.6775,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80946,2026-09-11,Plant C (Monterrey),Precision Shafts,1.6,981.32,1.64,0,24.62,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80947,2026-09-14,Plant B (Texas),Hydraulic Valves,1.43,3166.61,1.62,0,59.55250000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80948,2026-09-14,Plant C (Monterrey),Injection Molded Housings,1.6,7169.08,3.04,1,53.48,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80949,2026-09-14,Plant C (Monterrey),Automotive Brackets,1.59,4291.72,2.14,0,31.71,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80950,2026-09-15,Plant B (Texas),Injection Molded Housings,1.45,7739.28,3.74,1,70.685,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80951,2026-09-15,Plant B (Texas),Automotive Brackets,1.66,3386.79,1.28,0,12.9075,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80952,2026-09-15,Plant B (Texas),Hydraulic Valves,1.2,1315.46,1.45,0,64.49499999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80953,2026-09-15,Plant B (Texas),Electrical Enclosures,1.6,1143.94,1.84,0,26.78,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80954,2026-09-16,Plant A (Ohio),Injection Molded Housings,1.16,6914.32,3.12,1,69.59500000000001,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80955,2026-09-16,Plant C (Monterrey),Automotive Brackets,1.43,4538.93,2.06,0,47.225,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80956,2026-09-16,Plant B (Texas),Hydraulic Valves,1.41,2271.0,1.37,0,56.89249999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80957,2026-09-16,Plant C (Monterrey),Injection Molded Housings,1.82,5770.85,2.25,0,29.455,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80958,2026-09-16,Plant A (Ohio),Hydraulic Valves,1.12,3574.38,3.6,1,86.7675,CPK_BELOW_TARGET|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Review process capability and tooling this week; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80959,2026-09-17,Plant C (Monterrey),Precision Shafts,1.54,1872.6,1.53,0,41.42,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80960,2026-09-17,Plant A (Ohio),Electrical Enclosures,1.42,2012.54,1.04,0,39.80499999999999,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80961,2026-09-17,Plant C (Monterrey),Electrical Enclosures,1.59,1183.43,1.73,0,27.815,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80962,2026-09-17,Plant A (Ohio),Automotive Brackets,1.59,1203.17,1.44,0,24.39,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80963,2026-09-17,Plant A (Ohio),Injection Molded Housings,1.42,7281.09,4.08,1,76.48,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80964,2026-09-17,Plant B (Texas),Automotive Brackets,1.51,3329.44,1.53,0,28.1,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80965,2026-09-18,Plant B (Texas),Injection Molded Housings,1.46,2386.19,2.03,0,36.11,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80966,2026-09-18,Plant C (Monterrey),Automotive Brackets,1.49,2060.06,1.92,0,34.537499999999994,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80967,2026-09-21,Plant A (Ohio),Hydraulic Valves,1.31,3196.87,1.92,0,83.0225,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80968,2026-09-22,Plant C (Monterrey),Precision Shafts,1.63,1631.4,1.42,0,37.9875,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80969,2026-09-22,Plant B (Texas),Injection Molded Housings,1.4,5691.26,2.53,1,62.64000000000001,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80970,2026-09-22,Plant A (Ohio),Injection Molded Housings,1.45,12098.84,4.87,1,71.97999999999999,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80971,2026-09-22,Plant B (Texas),Precision Shafts,1.45,1592.02,1.83,0,38.16,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80972,2026-09-22,Plant A (Ohio),Electrical Enclosures,1.39,898.59,1.06,0,33.467499999999994,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80973,2026-09-24,Plant A (Ohio),Precision Shafts,1.63,2039.97,2.75,1,31.24,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80974,2026-09-24,Plant A (Ohio),Automotive Brackets,1.57,3278.61,1.71,0,28.505000000000003,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80975,2026-09-24,Plant A (Ohio),Electrical Enclosures,1.49,618.62,0.84,0,21.759999999999994,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80976,2026-09-24,Plant C (Monterrey),Precision Shafts,1.69,1114.06,1.11,0,24.3,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80977,2026-09-24,Plant C (Monterrey),Electrical Enclosures,1.49,1949.87,1.24,0,27.779999999999998,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80978,2026-09-24,Plant C (Monterrey),Injection Molded Housings,1.4,8272.17,3.71,1,73.685,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80979,2026-09-25,Plant B (Texas),Hydraulic Valves,1.48,2429.3,1.41,0,53.69500000000001,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80980,2026-09-25,Plant A (Ohio),Hydraulic Valves,1.43,2185.78,1.26,0,48.0725,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80981,2026-09-25,Plant B (Texas),Electrical Enclosures,1.52,1421.94,1.74,0,40.84,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80982,2026-09-25,Plant B (Texas),Electrical Enclosures,1.33,1657.0,2.6,1,71.11999999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80983,2026-09-25,Plant C (Monterrey),Automotive Brackets,1.79,2825.89,1.53,0,12.895,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80984,2026-09-25,Plant C (Monterrey),Injection Molded Housings,1.47,2417.76,3.8,1,58.36,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80985,2026-09-25,Plant B (Texas),Hydraulic Valves,1.49,1179.72,1.43,0,40.4025,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80986,2026-09-25,Plant C (Monterrey),Automotive Brackets,1.42,2919.34,1.86,0,31.005,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80987,2026-09-28,Plant C (Monterrey),Hydraulic Valves,1.48,915.38,1.21,0,42.962500000000006,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80988,2026-09-28,Plant C (Monterrey),Hydraulic Valves,1.64,3185.09,2.66,1,58.120000000000005,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80989,2026-09-28,Plant A (Ohio),Automotive Brackets,1.45,4181.65,1.67,0,36.295,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80990,2026-09-29,Plant A (Ohio),Precision Shafts,1.59,1379.43,2.4,1,58.7225,SPECIAL_CAUSE|ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Investigate the special cause before release; Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80991,2026-09-29,Plant A (Ohio),Electrical Enclosures,1.19,2281.5,1.84,0,63.805,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80992,2026-09-29,Plant B (Texas),Electrical Enclosures,1.45,605.72,1.69,0,25.745,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80993,2026-09-29,Plant A (Ohio),Hydraulic Valves,1.31,3689.2,1.57,0,64.49249999999999,CPK_BELOW_TARGET|ESCAPED_DEFECTS,P2_HIGH,Review process capability and tooling this week; Add containment inspection at shipping
+B-80994,2026-09-29,Plant C (Monterrey),Hydraulic Valves,1.52,2453.27,2.01,0,61.8325,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80995,2026-09-30,Plant C (Monterrey),Injection Molded Housings,1.6,2319.87,2.21,0,36.465,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80996,2026-09-30,Plant A (Ohio),Injection Molded Housings,1.6,8009.43,3.45,1,55.59499999999999,ESCAPED_DEFECTS|HIGH_COPQ,P2_HIGH,"Add containment inspection at shipping; Review scrap, rework and warranty drivers for the batch"
+B-80997,2026-09-30,Plant B (Texas),Hydraulic Valves,1.55,1658.56,1.82,0,42.605,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80998,2026-09-30,Plant C (Monterrey),Hydraulic Valves,1.64,2079.77,1.42,0,41.16,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-80999,2026-09-30,Plant C (Monterrey),Electrical Enclosures,1.74,1758.33,1.11,0,9.010000000000002,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping
+B-81000,2026-09-30,Plant A (Ohio),Electrical Enclosures,1.54,788.55,1.92,0,33.87,ESCAPED_DEFECTS,P2_HIGH,Add containment inspection at shipping

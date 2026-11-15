@@ -1,0 +1,206 @@
+{
+  "id": "special_cause_cut",
+  "title": "Cut special cause events",
+  "description": "Projected saving if a share of special cause batches ran like normal batches.",
+  "variable": {
+    "key": "reduction",
+    "label": "Special cause batches avoided",
+    "unit": "%",
+    "min": 0,
+    "max": 100,
+    "step": 5,
+    "default": 25,
+    "format": "percent"
+  },
+  "outputs": [
+    {
+      "key": "copq_pct",
+      "label": "COPQ as % of revenue",
+      "format": "percent"
+    },
+    {
+      "key": "saving",
+      "label": "Quality cost saved",
+      "format": "currency"
+    },
+    {
+      "key": "margin_pct",
+      "label": "Margin after quality %",
+      "format": "percent"
+    }
+  ],
+  "table": [
+    {
+      "x": 0.0,
+      "values": {
+        "copq_pct": 2.3957,
+        "saving": 0.0,
+        "margin_pct": 19.509
+      }
+    },
+    {
+      "x": 5.0,
+      "values": {
+        "copq_pct": 2.3907,
+        "saving": 7268.2395,
+        "margin_pct": 19.514
+      }
+    },
+    {
+      "x": 10.0,
+      "values": {
+        "copq_pct": 2.3856,
+        "saving": 14536.479,
+        "margin_pct": 19.519
+      }
+    },
+    {
+      "x": 15.0,
+      "values": {
+        "copq_pct": 2.3806,
+        "saving": 21804.7185,
+        "margin_pct": 19.524
+      }
+    },
+    {
+      "x": 20.0,
+      "values": {
+        "copq_pct": 2.3756,
+        "saving": 29072.958,
+        "margin_pct": 19.529
+      }
+    },
+    {
+      "x": 25.0,
+      "values": {
+        "copq_pct": 2.3706,
+        "saving": 36341.1975,
+        "margin_pct": 19.534
+      }
+    },
+    {
+      "x": 30.0,
+      "values": {
+        "copq_pct": 2.3656,
+        "saving": 43609.437,
+        "margin_pct": 19.539
+      }
+    },
+    {
+      "x": 35.0,
+      "values": {
+        "copq_pct": 2.3606,
+        "saving": 50877.6766,
+        "margin_pct": 19.5441
+      }
+    },
+    {
+      "x": 40.0,
+      "values": {
+        "copq_pct": 2.3556,
+        "saving": 58145.9161,
+        "margin_pct": 19.5491
+      }
+    },
+    {
+      "x": 45.0,
+      "values": {
+        "copq_pct": 2.3505,
+        "saving": 65414.1556,
+        "margin_pct": 19.5541
+      }
+    },
+    {
+      "x": 50.0,
+      "values": {
+        "copq_pct": 2.3455,
+        "saving": 72682.3951,
+        "margin_pct": 19.5591
+      }
+    },
+    {
+      "x": 55.0,
+      "values": {
+        "copq_pct": 2.3405,
+        "saving": 79950.6346,
+        "margin_pct": 19.5641
+      }
+    },
+    {
+      "x": 60.0,
+      "values": {
+        "copq_pct": 2.3355,
+        "saving": 87218.8741,
+        "margin_pct": 19.5691
+      }
+    },
+    {
+      "x": 65.0,
+      "values": {
+        "copq_pct": 2.3305,
+        "saving": 94487.1136,
+        "margin_pct": 19.5741
+      }
+    },
+    {
+      "x": 70.0,
+      "values": {
+        "copq_pct": 2.3255,
+        "saving": 101755.3531,
+        "margin_pct": 19.5792
+      }
+    },
+    {
+      "x": 75.0,
+      "values": {
+        "copq_pct": 2.3205,
+        "saving": 109023.5926,
+        "margin_pct": 19.5842
+      }
+    },
+    {
+      "x": 80.0,
+      "values": {
+        "copq_pct": 2.3154,
+        "saving": 116291.8321,
+        "margin_pct": 19.5892
+      }
+    },
+    {
+      "x": 85.0,
+      "values": {
+        "copq_pct": 2.3104,
+        "saving": 123560.0716,
+        "margin_pct": 19.5942
+      }
+    },
+    {
+      "x": 90.0,
+      "values": {
+        "copq_pct": 2.3054,
+        "saving": 130828.3111,
+        "margin_pct": 19.5992
+      }
+    },
+    {
+      "x": 95.0,
+      "values": {
+        "copq_pct": 2.3004,
+        "saving": 138096.5506,
+        "margin_pct": 19.6042
+      }
+    },
+    {
+      "x": 100.0,
+      "values": {
+        "copq_pct": 2.2954,
+        "saving": 145364.7902,
+        "margin_pct": 19.6092
+      }
+    }
+  ],
+  "assumptions": [
+    "Extra cost per special cause batch is the observed gap to normal batches (3093).",
+    "Assumes the gap is removed in full for avoided events."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "numeric": [
+    "Machine_Age_Years",
+    "Batch_Size",
+    "Process_Cpk",
+    "New_Product_Ramp_Flag",
+    "Special_Cause_Event",
+    "month_num"
+  ],
+  "categorical": [
+    "Plant",
+    "Product_Family",
+    "Shift",
+    "Operator_Experience",
+    "Material_Supplier"
+  ],
+  "all": [
+    "Machine_Age_Years",
+    "Batch_Size",
+    "Process_Cpk",
+    "New_Product_Ramp_Flag",
+    "Special_Cause_Event",
+    "month_num",
+    "Plant",
+    "Product_Family",
+    "Shift",
+    "Operator_Experience",
+    "Material_Supplier"
+  ]
+}

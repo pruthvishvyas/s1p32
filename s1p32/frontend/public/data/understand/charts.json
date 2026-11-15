@@ -1,0 +1,6022 @@
+{
+  "items": [
+    {
+      "id": "anomaly_rate_by_plant",
+      "title": "Anomaly rate by plant",
+      "type": "bar",
+      "question": "Which plants produce the most unusual batches?",
+      "x_label": "Plant",
+      "y_label": "Anomalous batches (%)",
+      "data": [
+        {
+          "label": "Plant A (Ohio)",
+          "value": 5.48
+        },
+        {
+          "label": "Plant B (Texas)",
+          "value": 5.59
+        },
+        {
+          "label": "Plant C (Monterrey)",
+          "value": 4.0
+        }
+      ],
+      "outcome": "understand"
+    },
+    {
+      "id": "correlation",
+      "title": "Correlation of quality and cost measures",
+      "type": "heatmap",
+      "question": "Which quality measures move together with cost?",
+      "x_label": "Measure",
+      "y_label": "Measure",
+      "data": [
+        {
+          "row": "Process_Cpk",
+          "col": "Process_Cpk",
+          "value": 1.0
+        },
+        {
+          "row": "Process_Cpk",
+          "col": "batch_defect_rate_pct",
+          "value": -0.282
+        },
+        {
+          "row": "Process_Cpk",
+          "col": "scrap_rate_pct",
+          "value": -0.19
+        },
+        {
+          "row": "Process_Cpk",
+          "col": "rework_rate_pct",
+          "value": -0.194
+        },
+        {
+          "row": "Process_Cpk",
+          "col": "escape_rate_per_1000",
+          "value": -0.106
+        },
+        {
+          "row": "Process_Cpk",
+          "col": "severity_index",
+          "value": -0.312
+        },
+        {
+          "row": "Process_Cpk",
+          "col": "COPQ_pct_of_Revenue",
+          "value": -0.085
+        },
+        {
+          "row": "Process_Cpk",
+          "col": "Margin_pct",
+          "value": 0.068
+        },
+        {
+          "row": "Process_Cpk",
+          "col": "Machine_Age_Years",
+          "value": -0.427
+        },
+        {
+          "row": "Process_Cpk",
+          "col": "quality_risk_score",
+          "value": -0.703
+        },
+        {
+          "row": "batch_defect_rate_pct",
+          "col": "Process_Cpk",
+          "value": -0.282
+        },
+        {
+          "row": "batch_defect_rate_pct",
+          "col": "batch_defect_rate_pct",
+          "value": 1.0
+        },
+        {
+          "row": "batch_defect_rate_pct",
+          "col": "scrap_rate_pct",
+          "value": 0.857
+        },
+        {
+          "row": "batch_defect_rate_pct",
+          "col": "rework_rate_pct",
+          "value": 0.837
+        },
+        {
+          "row": "batch_defect_rate_pct",
+          "col": "escape_rate_per_1000",
+          "value": 0.018
+        },
+        {
+          "row": "batch_defect_rate_pct",
+          "col": "severity_index",
+          "value": 0.955
+        },
+        {
+          "row": "batch_defect_rate_pct",
+          "col": "COPQ_pct_of_Revenue",
+          "value": 0.131
+        },
+        {
+          "row": "batch_defect_rate_pct",
+          "col": "Margin_pct",
+          "value": -0.121
+        },
+        {
+          "row": "batch_defect_rate_pct",
+          "col": "Machine_Age_Years",
+          "value": 0.155
+        },
+        {
+          "row": "batch_defect_rate_pct",
+          "col": "quality_risk_score",
+          "value": 0.588
+        },
+        {
+          "row": "scrap_rate_pct",
+          "col": "Process_Cpk",
+          "value": -0.19
+        },
+        {
+          "row": "scrap_rate_pct",
+          "col": "batch_defect_rate_pct",
+          "value": 0.857
+        },
+        {
+          "row": "scrap_rate_pct",
+          "col": "scrap_rate_pct",
+          "value": 1.0
+        },
+        {
+          "row": "scrap_rate_pct",
+          "col": "rework_rate_pct",
+          "value": 0.938
+        },
+        {
+          "row": "scrap_rate_pct",
+          "col": "escape_rate_per_1000",
+          "value": -0.487
+        },
+        {
+          "row": "scrap_rate_pct",
+          "col": "severity_index",
+          "value": 0.832
+        },
+        {
+          "row": "scrap_rate_pct",
+          "col": "COPQ_pct_of_Revenue",
+          "value": 0.112
+        },
+        {
+          "row": "scrap_rate_pct",
+          "col": "Margin_pct",
+          "value": -0.106
+        },
+        {
+          "row": "scrap_rate_pct",
+          "col": "Machine_Age_Years",
+          "value": 0.084
+        },
+        {
+          "row": "scrap_rate_pct",
+          "col": "quality_risk_score",
+          "value": 0.273
+        },
+        {
+          "row": "rework_rate_pct",
+          "col": "Process_Cpk",
+          "value": -0.194
+        },
+        {
+          "row": "rework_rate_pct",
+          "col": "batch_defect_rate_pct",
+          "value": 0.837
+        },
+        {
+          "row": "rework_rate_pct",
+          "col": "scrap_rate_pct",
+          "value": 0.938
+        },
+        {
+          "row": "rework_rate_pct",
+          "col": "rework_rate_pct",
+          "value": 1.0
+        },
+        {
+          "row": "rework_rate_pct",
+          "col": "escape_rate_per_1000",
+          "value": -0.479
+        },
+        {
+          "row": "rework_rate_pct",
+          "col": "severity_index",
+          "value": 0.812
+        },
+        {
+          "row": "rework_rate_pct",
+          "col": "COPQ_pct_of_Revenue",
+          "value": 0.108
+        },
+        {
+          "row": "rework_rate_pct",
+          "col": "Margin_pct",
+          "value": -0.1
+        },
+        {
+          "row": "rework_rate_pct",
+          "col": "Machine_Age_Years",
+          "value": 0.088
+        },
+        {
+          "row": "rework_rate_pct",
+          "col": "quality_risk_score",
+          "value": 0.277
+        },
+        {
+          "row": "escape_rate_per_1000",
+          "col": "Process_Cpk",
+          "value": -0.106
+        },
+        {
+          "row": "escape_rate_per_1000",
+          "col": "batch_defect_rate_pct",
+          "value": 0.018
+        },
+        {
+          "row": "escape_rate_per_1000",
+          "col": "scrap_rate_pct",
+          "value": -0.487
+        },
+        {
+          "row": "escape_rate_per_1000",
+          "col": "rework_rate_pct",
+          "value": -0.479
+        },
+        {
+          "row": "escape_rate_per_1000",
+          "col": "escape_rate_per_1000",
+          "value": 1.0
+        },
+        {
+          "row": "escape_rate_per_1000",
+          "col": "severity_index",
+          "value": -0.01
+        },
+        {
+          "row": "escape_rate_per_1000",
+          "col": "COPQ_pct_of_Revenue",
+          "value": 0.006
+        },
+        {
+          "row": "escape_rate_per_1000",
+          "col": "Margin_pct",
+          "value": -0.001
+        },
+        {
+          "row": "escape_rate_per_1000",
+          "col": "Machine_Age_Years",
+          "value": 0.098
+        },
+        {
+          "row": "escape_rate_per_1000",
+          "col": "quality_risk_score",
+          "value": 0.468
+        },
+        {
+          "row": "severity_index",
+          "col": "Process_Cpk",
+          "value": -0.312
+        },
+        {
+          "row": "severity_index",
+          "col": "batch_defect_rate_pct",
+          "value": 0.955
+        },
+        {
+          "row": "severity_index",
+          "col": "scrap_rate_pct",
+          "value": 0.832
+        },
+        {
+          "row": "severity_index",
+          "col": "rework_rate_pct",
+          "value": 0.812
+        },
+        {
+          "row": "severity_index",
+          "col": "escape_rate_per_1000",
+          "value": -0.01
+        },
+        {
+          "row": "severity_index",
+          "col": "severity_index",
+          "value": 1.0
+        },
+        {
+          "row": "severity_index",
+          "col": "COPQ_pct_of_Revenue",
+          "value": 0.173
+        },
+        {
+          "row": "severity_index",
+          "col": "Margin_pct",
+          "value": -0.162
+        },
+        {
+          "row": "severity_index",
+          "col": "Machine_Age_Years",
+          "value": 0.165
+        },
+        {
+          "row": "severity_index",
+          "col": "quality_risk_score",
+          "value": 0.606
+        },
+        {
+          "row": "COPQ_pct_of_Revenue",
+          "col": "Process_Cpk",
+          "value": -0.085
+        },
+        {
+          "row": "COPQ_pct_of_Revenue",
+          "col": "batch_defect_rate_pct",
+          "value": 0.131
+        },
+        {
+          "row": "COPQ_pct_of_Revenue",
+          "col": "scrap_rate_pct",
+          "value": 0.112
+        },
+        {
+          "row": "COPQ_pct_of_Revenue",
+          "col": "rework_rate_pct",
+          "value": 0.108
+        },
+        {
+          "row": "COPQ_pct_of_Revenue",
+          "col": "escape_rate_per_1000",
+          "value": 0.006
+        },
+        {
+          "row": "COPQ_pct_of_Revenue",
+          "col": "severity_index",
+          "value": 0.173
+        },
+        {
+          "row": "COPQ_pct_of_Revenue",
+          "col": "COPQ_pct_of_Revenue",
+          "value": 1.0
+        },
+        {
+          "row": "COPQ_pct_of_Revenue",
+          "col": "Margin_pct",
+          "value": -0.947
+        },
+        {
+          "row": "COPQ_pct_of_Revenue",
+          "col": "Machine_Age_Years",
+          "value": 0.033
+        },
+        {
+          "row": "COPQ_pct_of_Revenue",
+          "col": "quality_risk_score",
+          "value": 0.143
+        },
+        {
+          "row": "Margin_pct",
+          "col": "Process_Cpk",
+          "value": 0.068
+        },
+        {
+          "row": "Margin_pct",
+          "col": "batch_defect_rate_pct",
+          "value": -0.121
+        },
+        {
+          "row": "Margin_pct",
+          "col": "scrap_rate_pct",
+          "value": -0.106
+        },
+        {
+          "row": "Margin_pct",
+          "col": "rework_rate_pct",
+          "value": -0.1
+        },
+        {
+          "row": "Margin_pct",
+          "col": "escape_rate_per_1000",
+          "value": -0.001
+        },
+        {
+          "row": "Margin_pct",
+          "col": "severity_index",
+          "value": -0.162
+        },
+        {
+          "row": "Margin_pct",
+          "col": "COPQ_pct_of_Revenue",
+          "value": -0.947
+        },
+        {
+          "row": "Margin_pct",
+          "col": "Margin_pct",
+          "value": 1.0
+        },
+        {
+          "row": "Margin_pct",
+          "col": "Machine_Age_Years",
+          "value": -0.013
+        },
+        {
+          "row": "Margin_pct",
+          "col": "quality_risk_score",
+          "value": -0.124
+        },
+        {
+          "row": "Machine_Age_Years",
+          "col": "Process_Cpk",
+          "value": -0.427
+        },
+        {
+          "row": "Machine_Age_Years",
+          "col": "batch_defect_rate_pct",
+          "value": 0.155
+        },
+        {
+          "row": "Machine_Age_Years",
+          "col": "scrap_rate_pct",
+          "value": 0.084
+        },
+        {
+          "row": "Machine_Age_Years",
+          "col": "rework_rate_pct",
+          "value": 0.088
+        },
+        {
+          "row": "Machine_Age_Years",
+          "col": "escape_rate_per_1000",
+          "value": 0.098
+        },
+        {
+          "row": "Machine_Age_Years",
+          "col": "severity_index",
+          "value": 0.165
+        },
+        {
+          "row": "Machine_Age_Years",
+          "col": "COPQ_pct_of_Revenue",
+          "value": 0.033
+        },
+        {
+          "row": "Machine_Age_Years",
+          "col": "Margin_pct",
+          "value": -0.013
+        },
+        {
+          "row": "Machine_Age_Years",
+          "col": "Machine_Age_Years",
+          "value": 1.0
+        },
+        {
+          "row": "Machine_Age_Years",
+          "col": "quality_risk_score",
+          "value": 0.365
+        },
+        {
+          "row": "quality_risk_score",
+          "col": "Process_Cpk",
+          "value": -0.703
+        },
+        {
+          "row": "quality_risk_score",
+          "col": "batch_defect_rate_pct",
+          "value": 0.588
+        },
+        {
+          "row": "quality_risk_score",
+          "col": "scrap_rate_pct",
+          "value": 0.273
+        },
+        {
+          "row": "quality_risk_score",
+          "col": "rework_rate_pct",
+          "value": 0.277
+        },
+        {
+          "row": "quality_risk_score",
+          "col": "escape_rate_per_1000",
+          "value": 0.468
+        },
+        {
+          "row": "quality_risk_score",
+          "col": "severity_index",
+          "value": 0.606
+        },
+        {
+          "row": "quality_risk_score",
+          "col": "COPQ_pct_of_Revenue",
+          "value": 0.143
+        },
+        {
+          "row": "quality_risk_score",
+          "col": "Margin_pct",
+          "value": -0.124
+        },
+        {
+          "row": "quality_risk_score",
+          "col": "Machine_Age_Years",
+          "value": 0.365
+        },
+        {
+          "row": "quality_risk_score",
+          "col": "quality_risk_score",
+          "value": 1.0
+        }
+      ],
+      "outcome": "understand"
+    },
+    {
+      "id": "cost_components",
+      "title": "Quality cost by component",
+      "type": "bar",
+      "question": "Which cost buckets make up the quality bill?",
+      "x_label": "Component",
+      "y_label": "Cost",
+      "data": [
+        {
+          "label": "Warranty",
+          "value": 1896047.9
+        },
+        {
+          "label": "Recall",
+          "value": 549368.19
+        },
+        {
+          "label": "Appraisal",
+          "value": 541867.0
+        },
+        {
+          "label": "Scrap",
+          "value": 333632.02
+        },
+        {
+          "label": "Prevention",
+          "value": 103356.39
+        },
+        {
+          "label": "Rework",
+          "value": 48215.88
+        }
+      ],
+      "outcome": "understand"
+    },
+    {
+      "id": "cost_mix",
+      "title": "Batches by cost of poor quality",
+      "type": "bar",
+      "question": "How many batches sit in the worst quarter by cost of poor quality?",
+      "x_label": "Group",
+      "y_label": "Batches",
+      "data": [
+        {
+          "label": "Standard cost",
+          "value": 744
+        },
+        {
+          "label": "High cost",
+          "value": 256
+        }
+      ],
+      "outcome": "understand"
+    },
+    {
+      "id": "cpk_by_flag",
+      "title": "Process Cpk by cost group",
+      "type": "histogram",
+      "question": "Do high cost batches run at lower process capability?",
+      "x_label": "Process_Cpk",
+      "y_label": "Batches",
+      "data": [
+        {
+          "label": "1.06 to 1.12",
+          "value": 6
+        },
+        {
+          "label": "1.12 to 1.17",
+          "value": 15
+        },
+        {
+          "label": "1.17 to 1.23",
+          "value": 18
+        },
+        {
+          "label": "1.23 to 1.28",
+          "value": 34
+        },
+        {
+          "label": "1.28 to 1.34",
+          "value": 56
+        },
+        {
+          "label": "1.34 to 1.40",
+          "value": 105
+        },
+        {
+          "label": "1.40 to 1.45",
+          "value": 136
+        },
+        {
+          "label": "1.45 to 1.51",
+          "value": 119
+        },
+        {
+          "label": "1.51 to 1.56",
+          "value": 154
+        },
+        {
+          "label": "1.56 to 1.62",
+          "value": 131
+        },
+        {
+          "label": "1.62 to 1.68",
+          "value": 121
+        },
+        {
+          "label": "1.68 to 1.73",
+          "value": 54
+        },
+        {
+          "label": "1.73 to 1.79",
+          "value": 32
+        },
+        {
+          "label": "1.79 to 1.84",
+          "value": 15
+        },
+        {
+          "label": "1.84 to 1.90",
+          "value": 4
+        }
+      ],
+      "outcome": "understand"
+    },
+    {
+      "id": "cpk_scatter",
+      "title": "Process Cpk against cost of poor quality",
+      "type": "scatter",
+      "question": "How strongly does capability relate to cost?",
+      "x_label": "Process_Cpk",
+      "y_label": "COPQ_pct_of_Revenue",
+      "data": [
+        {
+          "x": 1.49,
+          "y": 1.87,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.47,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.34,
+          "y": 2.37,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.83,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.33,
+          "y": 1.21,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.17,
+          "y": 3.0,
+          "label": "High cost"
+        },
+        {
+          "x": 1.58,
+          "y": 2.67,
+          "label": "High cost"
+        },
+        {
+          "x": 1.52,
+          "y": 2.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.58,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 1.02,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 2.07,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.37,
+          "y": 2.55,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.71,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.76,
+          "y": 0.63,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 2.28,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.37,
+          "y": 0.96,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 0.93,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 4.18,
+          "label": "High cost"
+        },
+        {
+          "x": 1.75,
+          "y": 1.68,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 2.75,
+          "label": "High cost"
+        },
+        {
+          "x": 1.34,
+          "y": 0.99,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.14,
+          "y": 2.41,
+          "label": "High cost"
+        },
+        {
+          "x": 1.63,
+          "y": 1.49,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.77,
+          "y": 2.4,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.54,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.12,
+          "y": 2.45,
+          "label": "High cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.21,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 0.66,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 3.04,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.37,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.99,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 3.29,
+          "label": "High cost"
+        },
+        {
+          "x": 1.43,
+          "y": 64.84,
+          "label": "High cost"
+        },
+        {
+          "x": 1.46,
+          "y": 2.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.35,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.27,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.36,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.24,
+          "y": 2.67,
+          "label": "High cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.15,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 2.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 0.84,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 1.66,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 1.42,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.34,
+          "y": 3.31,
+          "label": "High cost"
+        },
+        {
+          "x": 1.17,
+          "y": 4.65,
+          "label": "High cost"
+        },
+        {
+          "x": 1.7,
+          "y": 1.24,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 2.95,
+          "label": "High cost"
+        },
+        {
+          "x": 1.75,
+          "y": 1.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 0.89,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.45,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 1.74,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.83,
+          "y": 2.28,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.98,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.43,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 1.24,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.77,
+          "y": 0.8,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.74,
+          "label": "High cost"
+        },
+        {
+          "x": 1.37,
+          "y": 1.38,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 3.34,
+          "label": "High cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.61,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.71,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.75,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 0.75,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.48,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.73,
+          "y": 0.83,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.75,
+          "y": 1.43,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.68,
+          "y": 2.36,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 3.49,
+          "label": "High cost"
+        },
+        {
+          "x": 1.27,
+          "y": 1.68,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.25,
+          "y": 1.94,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 2.92,
+          "label": "High cost"
+        },
+        {
+          "x": 1.46,
+          "y": 2.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.59,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.34,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.4,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.72,
+          "y": 1.02,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 2.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.77,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.24,
+          "y": 1.74,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.28,
+          "y": 2.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.74,
+          "y": 1.11,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.18,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.66,
+          "y": 2.91,
+          "label": "High cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 2.54,
+          "label": "High cost"
+        },
+        {
+          "x": 1.59,
+          "y": 2.4,
+          "label": "High cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.69,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 2.97,
+          "label": "High cost"
+        },
+        {
+          "x": 1.29,
+          "y": 1.76,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.97,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 2.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.34,
+          "y": 2.91,
+          "label": "High cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.44,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.3,
+          "y": 57.5,
+          "label": "High cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.42,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 2.21,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.68,
+          "y": 2.01,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.94,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 4.29,
+          "label": "High cost"
+        },
+        {
+          "x": 1.42,
+          "y": 1.04,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.46,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 1.8,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.71,
+          "y": 1.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 3.38,
+          "label": "High cost"
+        },
+        {
+          "x": 1.42,
+          "y": 1.86,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 2.85,
+          "label": "High cost"
+        },
+        {
+          "x": 1.36,
+          "y": 1.37,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 3.03,
+          "label": "High cost"
+        },
+        {
+          "x": 1.53,
+          "y": 2.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.41,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 2.88,
+          "label": "High cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.79,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.11,
+          "y": 1.6,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 1.8,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 2.05,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.8,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 3.65,
+          "label": "High cost"
+        },
+        {
+          "x": 1.24,
+          "y": 2.39,
+          "label": "High cost"
+        },
+        {
+          "x": 1.68,
+          "y": 1.14,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.38,
+          "y": 2.29,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.78,
+          "y": 1.71,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 0.85,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.66,
+          "y": 1.42,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 3.45,
+          "label": "High cost"
+        },
+        {
+          "x": 1.37,
+          "y": 4.27,
+          "label": "High cost"
+        },
+        {
+          "x": 1.81,
+          "y": 1.48,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.6,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.87,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 1.44,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 2.25,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.68,
+          "y": 1.49,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 3.24,
+          "label": "High cost"
+        },
+        {
+          "x": 1.5,
+          "y": 1.48,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 2.87,
+          "label": "High cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.89,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.29,
+          "y": 2.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.38,
+          "y": 2.37,
+          "label": "High cost"
+        },
+        {
+          "x": 1.5,
+          "y": 0.7,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.89,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.67,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 2.19,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 3.71,
+          "label": "High cost"
+        },
+        {
+          "x": 1.48,
+          "y": 2.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.64,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.24,
+          "y": 1.82,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 1.05,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.82,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 2.16,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.33,
+          "y": 3.27,
+          "label": "High cost"
+        },
+        {
+          "x": 1.4,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 2.24,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.33,
+          "y": 2.49,
+          "label": "High cost"
+        },
+        {
+          "x": 1.48,
+          "y": 3.88,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.49,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 2.67,
+          "label": "High cost"
+        },
+        {
+          "x": 1.37,
+          "y": 1.76,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.16,
+          "y": 1.66,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.37,
+          "y": 3.08,
+          "label": "High cost"
+        },
+        {
+          "x": 1.59,
+          "y": 2.78,
+          "label": "High cost"
+        },
+        {
+          "x": 1.14,
+          "y": 2.1,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.9,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 2.4,
+          "label": "High cost"
+        },
+        {
+          "x": 1.74,
+          "y": 1.86,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.8,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 2.16,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 2.02,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 1.18,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 0.92,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.32,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.06,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.28,
+          "y": 1.48,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.85,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 3.47,
+          "label": "High cost"
+        },
+        {
+          "x": 1.19,
+          "y": 1.6,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.38,
+          "y": 1.64,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 2.16,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 0.99,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 2.14,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.27,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 1.83,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 2.05,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.45,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 2.03,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.38,
+          "y": 0.84,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.86,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 2.54,
+          "label": "High cost"
+        },
+        {
+          "x": 1.44,
+          "y": 0.85,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.98,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.16,
+          "y": 3.73,
+          "label": "High cost"
+        },
+        {
+          "x": 1.1,
+          "y": 2.71,
+          "label": "High cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.18,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 2.21,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 3.41,
+          "label": "High cost"
+        },
+        {
+          "x": 1.3,
+          "y": 2.29,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.28,
+          "y": 1.91,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.74,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.37,
+          "y": 1.66,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 1.98,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.79,
+          "y": 1.77,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.04,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.96,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 2.45,
+          "label": "High cost"
+        },
+        {
+          "x": 1.81,
+          "y": 2.36,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 2.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.49,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.08,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.3,
+          "y": 2.75,
+          "label": "High cost"
+        },
+        {
+          "x": 1.4,
+          "y": 2.15,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 1.0,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.69,
+          "y": 1.11,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 0.89,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 0.88,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.61,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.2,
+          "y": 1.79,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 2.57,
+          "label": "High cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.28,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 2.77,
+          "label": "High cost"
+        },
+        {
+          "x": 1.39,
+          "y": 2.14,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 2.21,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 2.08,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 2.27,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.73,
+          "y": 0.85,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.75,
+          "y": 1.71,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.53,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.25,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 1.76,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.86,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.93,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.7,
+          "y": 1.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.38,
+          "y": 2.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 0.97,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.87,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.1,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.7,
+          "y": 3.07,
+          "label": "High cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.59,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.34,
+          "y": 1.67,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.33,
+          "y": 1.67,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.69,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.25,
+          "y": 2.94,
+          "label": "High cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.71,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.26,
+          "y": 1.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.97,
+          "label": "High cost"
+        },
+        {
+          "x": 1.73,
+          "y": 1.34,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 1.99,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 3.06,
+          "label": "High cost"
+        },
+        {
+          "x": 1.36,
+          "y": 3.97,
+          "label": "High cost"
+        },
+        {
+          "x": 1.77,
+          "y": 0.58,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 2.38,
+          "label": "High cost"
+        },
+        {
+          "x": 1.66,
+          "y": 1.94,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 2.05,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 1.54,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.66,
+          "y": 1.48,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.67,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 2.36,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.76,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 2.55,
+          "label": "High cost"
+        },
+        {
+          "x": 1.2,
+          "y": 1.79,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 0.96,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.54,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.38,
+          "y": 1.5,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.84,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.29,
+          "y": 1.99,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.75,
+          "y": 1.45,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 0.67,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 2.29,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.49,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 1.88,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.16,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 2.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 3.48,
+          "label": "High cost"
+        },
+        {
+          "x": 1.41,
+          "y": 2.32,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.51,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.99,
+          "label": "High cost"
+        },
+        {
+          "x": 1.66,
+          "y": 1.28,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.92,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 2.0,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.68,
+          "y": 0.57,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.7,
+          "y": 1.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 2.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 2.28,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 2.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 2.62,
+          "label": "High cost"
+        },
+        {
+          "x": 1.34,
+          "y": 3.75,
+          "label": "High cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.24,
+          "y": 2.57,
+          "label": "High cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.46,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 3.89,
+          "label": "High cost"
+        },
+        {
+          "x": 1.45,
+          "y": 3.74,
+          "label": "High cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.34,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 1.84,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.66,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.41,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.73,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 3.03,
+          "label": "High cost"
+        },
+        {
+          "x": 1.47,
+          "y": 3.43,
+          "label": "High cost"
+        },
+        {
+          "x": 1.4,
+          "y": 3.4,
+          "label": "High cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.47,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.49,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 2.53,
+          "label": "High cost"
+        },
+        {
+          "x": 1.73,
+          "y": 0.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.59,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.54,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 6.29,
+          "label": "High cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.68,
+          "y": 2.73,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.88,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.75,
+          "y": 2.02,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 2.68,
+          "label": "High cost"
+        },
+        {
+          "x": 1.26,
+          "y": 1.4,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.8,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 1.85,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 1.96,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.68,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 2.11,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.3,
+          "y": 3.65,
+          "label": "High cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.05,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.34,
+          "y": 2.62,
+          "label": "High cost"
+        },
+        {
+          "x": 1.64,
+          "y": 0.88,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.8,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 2.47,
+          "label": "High cost"
+        },
+        {
+          "x": 1.18,
+          "y": 2.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 0.98,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.69,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 2.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 4.31,
+          "label": "High cost"
+        },
+        {
+          "x": 1.45,
+          "y": 2.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 4.17,
+          "label": "High cost"
+        },
+        {
+          "x": 1.5,
+          "y": 2.76,
+          "label": "High cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.44,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 0.92,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 2.03,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 2.79,
+          "label": "High cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.46,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.82,
+          "y": 1.49,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.98,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.2,
+          "y": 2.35,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 0.94,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 3.42,
+          "label": "High cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.36,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.46,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.38,
+          "y": 1.29,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.72,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 2.68,
+          "label": "High cost"
+        },
+        {
+          "x": 1.4,
+          "y": 1.87,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 2.37,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.8,
+          "y": 1.6,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.16,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.52,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.69,
+          "y": 1.77,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 2.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.76,
+          "y": 1.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.72,
+          "y": 1.66,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.39,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 4.79,
+          "label": "High cost"
+        },
+        {
+          "x": 1.63,
+          "y": 1.8,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.73,
+          "y": 2.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 2.42,
+          "label": "High cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.12,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.15,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 1.56,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 3.18,
+          "label": "High cost"
+        },
+        {
+          "x": 1.53,
+          "y": 1.53,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 3.41,
+          "label": "High cost"
+        },
+        {
+          "x": 1.19,
+          "y": 1.84,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 2.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 2.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 2.21,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.24,
+          "y": 3.39,
+          "label": "High cost"
+        },
+        {
+          "x": 1.41,
+          "y": 2.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 2.02,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 5.18,
+          "label": "High cost"
+        },
+        {
+          "x": 1.65,
+          "y": 2.39,
+          "label": "High cost"
+        },
+        {
+          "x": 1.38,
+          "y": 1.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.33,
+          "y": 4.12,
+          "label": "High cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.42,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.1,
+          "y": 5.41,
+          "label": "High cost"
+        },
+        {
+          "x": 1.32,
+          "y": 1.75,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.96,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 2.81,
+          "label": "High cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.32,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 0.87,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.38,
+          "y": 3.9,
+          "label": "High cost"
+        },
+        {
+          "x": 1.71,
+          "y": 2.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.71,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.66,
+          "y": 2.82,
+          "label": "High cost"
+        },
+        {
+          "x": 1.38,
+          "y": 2.68,
+          "label": "High cost"
+        },
+        {
+          "x": 1.31,
+          "y": 1.14,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.59,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.75,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 3.82,
+          "label": "High cost"
+        },
+        {
+          "x": 1.39,
+          "y": 2.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.72,
+          "y": 1.54,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 2.61,
+          "label": "High cost"
+        },
+        {
+          "x": 1.77,
+          "y": 1.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 2.28,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.91,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.58,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 3.51,
+          "label": "High cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.56,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 1.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.53,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 1.2,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.8,
+          "y": 1.18,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 1.29,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 1.01,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 2.07,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.3,
+          "y": 1.98,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 1.52,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.3,
+          "y": 2.74,
+          "label": "High cost"
+        },
+        {
+          "x": 1.41,
+          "y": 3.92,
+          "label": "High cost"
+        },
+        {
+          "x": 1.44,
+          "y": 2.85,
+          "label": "High cost"
+        },
+        {
+          "x": 1.63,
+          "y": 1.41,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.26,
+          "y": 4.05,
+          "label": "High cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.83,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.76,
+          "y": 2.19,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.27,
+          "y": 3.8,
+          "label": "High cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.55,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 0.78,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.76,
+          "y": 1.6,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.54,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.58,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.31,
+          "y": 3.43,
+          "label": "High cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 3.21,
+          "label": "High cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.14,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.24,
+          "y": 1.7,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 2.01,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.69,
+          "y": 1.51,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.79,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.96,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.84,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.34,
+          "y": 1.91,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.29,
+          "y": 0.98,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 1.42,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.44,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.75,
+          "y": 1.11,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.68,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 2.73,
+          "label": "High cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 1.28,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 2.2,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.2,
+          "y": 2.35,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 2.44,
+          "label": "High cost"
+        },
+        {
+          "x": 1.64,
+          "y": 3.16,
+          "label": "High cost"
+        },
+        {
+          "x": 1.48,
+          "y": 63.17,
+          "label": "High cost"
+        },
+        {
+          "x": 1.47,
+          "y": 1.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.67,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 2.2,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 1.4,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 0.82,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.4,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.47,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.23,
+          "y": 5.6,
+          "label": "High cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.49,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.31,
+          "y": 0.78,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.2,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.28,
+          "y": 2.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.73,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 1.19,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 2.87,
+          "label": "High cost"
+        },
+        {
+          "x": 1.63,
+          "y": 1.16,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.99,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.53,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.11,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.21,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.37,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 2.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 2.45,
+          "label": "High cost"
+        },
+        {
+          "x": 1.38,
+          "y": 1.79,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 2.51,
+          "label": "High cost"
+        },
+        {
+          "x": 1.74,
+          "y": 2.34,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 2.57,
+          "label": "High cost"
+        },
+        {
+          "x": 1.55,
+          "y": 2.58,
+          "label": "High cost"
+        },
+        {
+          "x": 1.31,
+          "y": 1.69,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 0.94,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.28,
+          "y": 1.01,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.73,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 0.68,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 2.37,
+          "label": "High cost"
+        },
+        {
+          "x": 1.82,
+          "y": 2.25,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 2.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.63,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.34,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.19,
+          "y": 3.8,
+          "label": "High cost"
+        },
+        {
+          "x": 1.5,
+          "y": 1.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 1.97,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.2,
+          "y": 2.35,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.86,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 3.8,
+          "label": "High cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.36,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.87,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 2.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 4.03,
+          "label": "High cost"
+        },
+        {
+          "x": 1.34,
+          "y": 2.54,
+          "label": "High cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.47,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.23,
+          "y": 2.54,
+          "label": "High cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.38,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 3.62,
+          "label": "High cost"
+        },
+        {
+          "x": 1.56,
+          "y": 2.24,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.47,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.54,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.58,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.12,
+          "y": 2.51,
+          "label": "High cost"
+        },
+        {
+          "x": 1.58,
+          "y": 3.86,
+          "label": "High cost"
+        },
+        {
+          "x": 1.7,
+          "y": 1.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.96,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.12,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.39,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 2.2,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.52,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.66,
+          "y": 0.79,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.71,
+          "y": 1.4,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.38,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 2.37,
+          "label": "High cost"
+        },
+        {
+          "x": 1.14,
+          "y": 1.75,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 1.01,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 1.35,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.22,
+          "y": 3.29,
+          "label": "High cost"
+        },
+        {
+          "x": 1.37,
+          "y": 1.11,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.29,
+          "y": 3.03,
+          "label": "High cost"
+        },
+        {
+          "x": 1.23,
+          "y": 2.02,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.77,
+          "y": 1.74,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 0.66,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 2.7,
+          "label": "High cost"
+        },
+        {
+          "x": 1.7,
+          "y": 1.75,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 2.0,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 2.52,
+          "label": "High cost"
+        },
+        {
+          "x": 1.39,
+          "y": 2.35,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 2.44,
+          "label": "High cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.92,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.73,
+          "y": 0.78,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.02,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 1.27,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.37,
+          "y": 2.48,
+          "label": "High cost"
+        },
+        {
+          "x": 1.34,
+          "y": 6.34,
+          "label": "High cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.55,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.1,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.31,
+          "y": 1.92,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 36.86,
+          "label": "High cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.43,
+          "label": "High cost"
+        },
+        {
+          "x": 1.7,
+          "y": 0.97,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.2,
+          "y": 2.28,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 3.08,
+          "label": "High cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.84,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.68,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.24,
+          "y": 1.53,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 1.16,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 23.92,
+          "label": "High cost"
+        },
+        {
+          "x": 1.56,
+          "y": 3.98,
+          "label": "High cost"
+        },
+        {
+          "x": 1.67,
+          "y": 2.29,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 4.46,
+          "label": "High cost"
+        },
+        {
+          "x": 1.58,
+          "y": 1.42,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 1.59,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.66,
+          "y": 1.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.61,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 2.67,
+          "label": "High cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.34,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 2.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.73,
+          "y": 2.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 2.06,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.88,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 2.19,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.37,
+          "y": 1.99,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 3.84,
+          "label": "High cost"
+        },
+        {
+          "x": 1.46,
+          "y": 2.14,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 2.89,
+          "label": "High cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.98,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.05,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.63,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.37,
+          "y": 2.12,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.78,
+          "y": 2.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 2.03,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.95,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 2.29,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 3.84,
+          "label": "High cost"
+        },
+        {
+          "x": 1.29,
+          "y": 3.23,
+          "label": "High cost"
+        },
+        {
+          "x": 1.54,
+          "y": 2.19,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 2.88,
+          "label": "High cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.19,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 1.91,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 2.7,
+          "label": "High cost"
+        },
+        {
+          "x": 1.43,
+          "y": 1.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 1.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.9,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.43,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.21,
+          "y": 2.8,
+          "label": "High cost"
+        },
+        {
+          "x": 1.75,
+          "y": 1.25,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 1.83,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.73,
+          "y": 1.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.38,
+          "y": 3.26,
+          "label": "High cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.06,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.6,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.83,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.06,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.95,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.72,
+          "y": 1.12,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.84,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.79,
+          "y": 1.19,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.25,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 2.0,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.18,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 1.6,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.6,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 2.06,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.24,
+          "y": 3.07,
+          "label": "High cost"
+        },
+        {
+          "x": 1.2,
+          "y": 1.45,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 0.92,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 1.97,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 2.27,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.92,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.27,
+          "y": 1.96,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 2.07,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 1.42,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.7,
+          "y": 0.95,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.33,
+          "y": 3.93,
+          "label": "High cost"
+        },
+        {
+          "x": 1.45,
+          "y": 2.16,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.42,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.03,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 2.59,
+          "label": "High cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.98,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 4.87,
+          "label": "High cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.84,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.66,
+          "y": 3.37,
+          "label": "High cost"
+        },
+        {
+          "x": 1.4,
+          "y": 2.53,
+          "label": "High cost"
+        },
+        {
+          "x": 1.69,
+          "y": 1.38,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.71,
+          "y": 1.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.76,
+          "y": 1.08,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.84,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 2.01,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.77,
+          "y": 1.47,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 1.73,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 2.2,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.56,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.25,
+          "y": 3.29,
+          "label": "High cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 1.11,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 3.2,
+          "label": "High cost"
+        },
+        {
+          "x": 1.67,
+          "y": 2.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 2.07,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.69,
+          "y": 2.91,
+          "label": "High cost"
+        },
+        {
+          "x": 1.3,
+          "y": 1.83,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 0.77,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.64,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 1.71,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 1.37,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 2.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.92,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 2.97,
+          "label": "High cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.65,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.25,
+          "y": 4.76,
+          "label": "High cost"
+        },
+        {
+          "x": 1.29,
+          "y": 2.39,
+          "label": "High cost"
+        },
+        {
+          "x": 1.64,
+          "y": 2.04,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 2.78,
+          "label": "High cost"
+        },
+        {
+          "x": 1.73,
+          "y": 1.73,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 2.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.27,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.46,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.22,
+          "y": 2.4,
+          "label": "High cost"
+        },
+        {
+          "x": 1.7,
+          "y": 1.15,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 1.59,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 2.04,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.22,
+          "y": 3.01,
+          "label": "High cost"
+        },
+        {
+          "x": 1.56,
+          "y": 0.74,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 2.03,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.66,
+          "y": 1.43,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 1.79,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.3,
+          "y": 2.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.88,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.24,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 4.71,
+          "label": "High cost"
+        },
+        {
+          "x": 1.42,
+          "y": 2.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 5.24,
+          "label": "High cost"
+        },
+        {
+          "x": 1.58,
+          "y": 2.11,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.43,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 4.15,
+          "label": "High cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.84,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.64,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 1.48,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.95,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 2.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.65,
+          "y": 0.92,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 1.43,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.01,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.53,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 3.14,
+          "label": "High cost"
+        },
+        {
+          "x": 1.75,
+          "y": 1.47,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.67,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.81,
+          "y": 2.11,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.27,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 2.21,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 2.66,
+          "label": "High cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.95,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 3.72,
+          "label": "High cost"
+        },
+        {
+          "x": 1.78,
+          "y": 1.01,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 1.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.1,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.68,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 2.02,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.7,
+          "y": 1.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 2.32,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.51,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 0.83,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 26.65,
+          "label": "High cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.41,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.47,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.93,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 3.2,
+          "label": "High cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.87,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.14,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.51,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 0.75,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.38,
+          "y": 1.78,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 3.08,
+          "label": "High cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 2.75,
+          "label": "High cost"
+        },
+        {
+          "x": 1.38,
+          "y": 2.91,
+          "label": "High cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.4,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.66,
+          "y": 1.39,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.76,
+          "y": 1.32,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 2.64,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 2.49,
+          "label": "High cost"
+        },
+        {
+          "x": 1.7,
+          "y": 2.62,
+          "label": "High cost"
+        },
+        {
+          "x": 1.45,
+          "y": 2.98,
+          "label": "High cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.05,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.42,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 2.12,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.77,
+          "y": 0.85,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.33,
+          "y": 2.6,
+          "label": "High cost"
+        },
+        {
+          "x": 1.54,
+          "y": 2.98,
+          "label": "High cost"
+        },
+        {
+          "x": 1.34,
+          "y": 2.65,
+          "label": "High cost"
+        },
+        {
+          "x": 1.39,
+          "y": 2.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 1.87,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 1.15,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 2.64,
+          "label": "High cost"
+        },
+        {
+          "x": 1.4,
+          "y": 22.6,
+          "label": "High cost"
+        },
+        {
+          "x": 1.67,
+          "y": 2.06,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.29,
+          "y": 2.37,
+          "label": "High cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.1,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 2.37,
+          "label": "High cost"
+        },
+        {
+          "x": 1.78,
+          "y": 1.22,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.66,
+          "y": 1.83,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 1.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 0.88,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.33,
+          "y": 2.61,
+          "label": "High cost"
+        },
+        {
+          "x": 1.41,
+          "y": 64.31,
+          "label": "High cost"
+        },
+        {
+          "x": 1.77,
+          "y": 2.04,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.16,
+          "y": 3.12,
+          "label": "High cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.47,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.33,
+          "y": 1.48,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.06,
+          "y": 1.57,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.74,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 0.87,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 2.66,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.39,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 2.27,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.14,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 27.49,
+          "label": "High cost"
+        },
+        {
+          "x": 1.58,
+          "y": 1.76,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.85,
+          "y": 1.21,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 2.68,
+          "label": "High cost"
+        },
+        {
+          "x": 1.69,
+          "y": 2.5,
+          "label": "High cost"
+        },
+        {
+          "x": 1.12,
+          "y": 3.6,
+          "label": "High cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.98,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 3.98,
+          "label": "High cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.27,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 2.59,
+          "label": "High cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.55,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.1,
+          "y": 1.6,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 2.49,
+          "label": "High cost"
+        },
+        {
+          "x": 1.25,
+          "y": 2.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.65,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.63,
+          "y": 2.14,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.24,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.55,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 1.4,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 2.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 2.12,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.69,
+          "y": 2.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.73,
+          "y": 0.78,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 3.22,
+          "label": "High cost"
+        },
+        {
+          "x": 1.3,
+          "y": 3.14,
+          "label": "High cost"
+        },
+        {
+          "x": 1.46,
+          "y": 2.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.56,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.66,
+          "y": 2.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.66,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.16,
+          "y": 7.06,
+          "label": "High cost"
+        },
+        {
+          "x": 1.48,
+          "y": 2.24,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 1.99,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.67,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 2.6,
+          "label": "High cost"
+        },
+        {
+          "x": 1.31,
+          "y": 1.41,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.37,
+          "y": 2.38,
+          "label": "High cost"
+        },
+        {
+          "x": 1.61,
+          "y": 2.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.63,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 2.0,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.71,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 3.08,
+          "label": "High cost"
+        },
+        {
+          "x": 1.9,
+          "y": 1.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.31,
+          "y": 4.32,
+          "label": "High cost"
+        },
+        {
+          "x": 1.45,
+          "y": 2.71,
+          "label": "High cost"
+        },
+        {
+          "x": 1.32,
+          "y": 1.77,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.33,
+          "y": 2.2,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.94,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.21,
+          "y": 2.94,
+          "label": "High cost"
+        },
+        {
+          "x": 1.15,
+          "y": 8.07,
+          "label": "High cost"
+        },
+        {
+          "x": 1.35,
+          "y": 1.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 2.54,
+          "label": "High cost"
+        },
+        {
+          "x": 1.66,
+          "y": 1.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 1.6,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.24,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.69,
+          "y": 2.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.13,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.87,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 1.59,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.7,
+          "y": 1.42,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 2.07,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 2.04,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.43,
+          "y": 1.74,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 1.41,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 1.77,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 2.01,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.4,
+          "y": 2.07,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 1.39,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.29,
+          "y": 3.03,
+          "label": "High cost"
+        },
+        {
+          "x": 1.26,
+          "y": 4.48,
+          "label": "High cost"
+        },
+        {
+          "x": 1.41,
+          "y": 2.4,
+          "label": "High cost"
+        },
+        {
+          "x": 1.34,
+          "y": 1.72,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.24,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.29,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 1.75,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 4.08,
+          "label": "High cost"
+        },
+        {
+          "x": 1.34,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 4.06,
+          "label": "High cost"
+        },
+        {
+          "x": 1.67,
+          "y": 2.41,
+          "label": "High cost"
+        },
+        {
+          "x": 1.34,
+          "y": 3.1,
+          "label": "High cost"
+        },
+        {
+          "x": 1.22,
+          "y": 2.4,
+          "label": "High cost"
+        },
+        {
+          "x": 1.51,
+          "y": 1.02,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 2.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 2.32,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.84,
+          "y": 1.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 1.29,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 1.86,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 2.14,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.25,
+          "y": 2.48,
+          "label": "High cost"
+        },
+        {
+          "x": 1.35,
+          "y": 2.59,
+          "label": "High cost"
+        },
+        {
+          "x": 1.7,
+          "y": 1.87,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.46,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.63,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 1.3,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.85,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 2.05,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.8,
+          "y": 1.32,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.18,
+          "y": 2.53,
+          "label": "High cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.82,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.76,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.6,
+          "y": 2.88,
+          "label": "High cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 5.94,
+          "label": "High cost"
+        },
+        {
+          "x": 1.52,
+          "y": 2.43,
+          "label": "High cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.74,
+          "y": 1.48,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.93,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.19,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 2.11,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 2.09,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.29,
+          "y": 2.16,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 1.2,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.88,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 1.88,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.7,
+          "y": 0.66,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 1.36,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.79,
+          "y": 1.53,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.53,
+          "y": 47.41,
+          "label": "High cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.36,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 1.67,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.31,
+          "y": 1.5,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.37,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.45,
+          "y": 2.67,
+          "label": "High cost"
+        },
+        {
+          "x": 1.7,
+          "y": 2.07,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.85,
+          "y": 2.91,
+          "label": "High cost"
+        },
+        {
+          "x": 1.37,
+          "y": 1.78,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.37,
+          "y": 2.33,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.47,
+          "y": 2.55,
+          "label": "High cost"
+        },
+        {
+          "x": 1.42,
+          "y": 2.47,
+          "label": "High cost"
+        },
+        {
+          "x": 1.64,
+          "y": 2.59,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 1.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.31,
+          "y": 2.0,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.54,
+          "y": 2.93,
+          "label": "High cost"
+        },
+        {
+          "x": 1.48,
+          "y": 1.76,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 2.4,
+          "label": "High cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.4,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.61,
+          "y": 2.37,
+          "label": "High cost"
+        },
+        {
+          "x": 1.61,
+          "y": 1.38,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 1.08,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.31,
+          "y": 1.57,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.62,
+          "y": 1.01,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.85,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.5,
+          "y": 1.23,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.74,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 3.67,
+          "label": "High cost"
+        },
+        {
+          "x": 1.57,
+          "y": 2.69,
+          "label": "High cost"
+        },
+        {
+          "x": 1.68,
+          "y": 3.84,
+          "label": "High cost"
+        },
+        {
+          "x": 1.29,
+          "y": 2.35,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 3.41,
+          "label": "High cost"
+        },
+        {
+          "x": 1.24,
+          "y": 5.27,
+          "label": "High cost"
+        },
+        {
+          "x": 1.47,
+          "y": 1.63,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.3,
+          "y": 2.54,
+          "label": "High cost"
+        },
+        {
+          "x": 1.5,
+          "y": 1.03,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.14,
+          "y": 1.88,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.58,
+          "y": 1.78,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.86,
+          "y": 2.1,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.39,
+          "y": 2.57,
+          "label": "High cost"
+        },
+        {
+          "x": 1.52,
+          "y": 1.91,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 2.32,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 2.07,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.27,
+          "y": 1.44,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 3.59,
+          "label": "High cost"
+        },
+        {
+          "x": 1.31,
+          "y": 1.44,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.44,
+          "y": 3.52,
+          "label": "High cost"
+        },
+        {
+          "x": 1.59,
+          "y": 1.52,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.41,
+          "y": 1.37,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.46,
+          "y": 1.41,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.74,
+          "y": 2.36,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 1.46,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.42,
+          "y": 2.91,
+          "label": "High cost"
+        },
+        {
+          "x": 1.4,
+          "y": 2.42,
+          "label": "High cost"
+        },
+        {
+          "x": 1.66,
+          "y": 0.8,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.8,
+          "y": 1.31,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.49,
+          "y": 2.67,
+          "label": "High cost"
+        },
+        {
+          "x": 1.6,
+          "y": 1.53,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.64,
+          "y": 1.49,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.56,
+          "y": 1.35,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.35,
+          "y": 1.17,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.55,
+          "y": 2.43,
+          "label": "High cost"
+        },
+        {
+          "x": 1.7,
+          "y": 1.7,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.36,
+          "y": 3.09,
+          "label": "High cost"
+        },
+        {
+          "x": 1.67,
+          "y": 1.5,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.71,
+          "y": 1.83,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.52,
+          "y": 0.81,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.15,
+          "y": 1.62,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.32,
+          "y": 3.13,
+          "label": "High cost"
+        },
+        {
+          "x": 1.65,
+          "y": 6.32,
+          "label": "High cost"
+        },
+        {
+          "x": 1.53,
+          "y": 2.97,
+          "label": "High cost"
+        },
+        {
+          "x": 1.54,
+          "y": 2.72,
+          "label": "High cost"
+        },
+        {
+          "x": 1.23,
+          "y": 2.97,
+          "label": "High cost"
+        },
+        {
+          "x": 1.71,
+          "y": 2.26,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.25,
+          "y": 2.61,
+          "label": "High cost"
+        },
+        {
+          "x": 1.43,
+          "y": 2.6,
+          "label": "High cost"
+        },
+        {
+          "x": 1.54,
+          "y": 1.66,
+          "label": "Standard cost"
+        },
+        {
+          "x": 1.48,
+          "y": 2.82,
+          "label": "High cost"
+        }
+      ],
+      "outcome": "decide"
+    },
+    {
+      "id": "family_rate",
+      "title": "High cost share by product family",
+      "type": "bar",
+      "question": "Which product families concentrate high cost batches?",
+      "x_label": "Product family",
+      "y_label": "High cost batches (%)",
+      "data": [
+        {
+          "label": "Injection Molded Housings",
+          "value": 69.47
+        },
+        {
+          "label": "Automotive Brackets",
+          "value": 20.98
+        },
+        {
+          "label": "Hydraulic Valves",
+          "value": 18.1
+        },
+        {
+          "label": "Precision Shafts",
+          "value": 12.25
+        },
+        {
+          "label": "Electrical Enclosures",
+          "value": 9.42
+        }
+      ],
+      "outcome": "decide"
+    },
+    {
+      "id": "feature_importance",
+      "title": "Top predictors of a high cost batch",
+      "type": "bar",
+      "question": "Which process inputs matter most for batch cost?",
+      "x_label": "Process input",
+      "y_label": "Importance",
+      "data": [
+        {
+          "label": "Product_Family",
+          "value": 0.3232
+        },
+        {
+          "label": "Special_Cause_Event",
+          "value": 0.0976
+        },
+        {
+          "label": "Operator_Experience",
+          "value": 0.0174
+        },
+        {
+          "label": "Batch_Size",
+          "value": 0.0128
+        },
+        {
+          "label": "Material_Supplier",
+          "value": 0.0098
+        },
+        {
+          "label": "New_Product_Ramp_Flag",
+          "value": 0.0038
+        },
+        {
+          "label": "Process_Cpk",
+          "value": 0.0024
+        },
+        {
+          "label": "month_num",
+          "value": 0.0006
+        },
+        {
+          "label": "Plant",
+          "value": -0.0015
+        },
+        {
+          "label": "Shift",
+          "value": -0.0017
+        }
+      ],
+      "outcome": "decide"
+    },
+    {
+      "id": "monthly_trend",
+      "title": "Monthly cost of poor quality",
+      "type": "line",
+      "question": "Is cost of poor quality rising or falling?",
+      "x_label": "Month",
+      "y_label": "COPQ as % of revenue",
+      "data": [
+        {
+          "label": "2025-10",
+          "value": 2.089
+        },
+        {
+          "label": "2025-11",
+          "value": 3.839
+        },
+        {
+          "label": "2025-12",
+          "value": 2.101
+        },
+        {
+          "label": "2026-01",
+          "value": 1.85
+        },
+        {
+          "label": "2026-02",
+          "value": 4.423
+        },
+        {
+          "label": "2026-03",
+          "value": 1.975
+        },
+        {
+          "label": "2026-04",
+          "value": 2.178
+        },
+        {
+          "label": "2026-05",
+          "value": 2.161
+        },
+        {
+          "label": "2026-06",
+          "value": 2.091
+        },
+        {
+          "label": "2026-07",
+          "value": 2.12
+        },
+        {
+          "label": "2026-08",
+          "value": 2.275
+        },
+        {
+          "label": "2026-09",
+          "value": 2.011
+        }
+      ],
+      "outcome": "monitor"
+    },
+    {
+      "id": "plant_family_heat",
+      "title": "High cost batches by plant and family",
+      "type": "heatmap",
+      "question": "Which plant and family pairs need attention?",
+      "x_label": "Product family",
+      "y_label": "Plant",
+      "data": [
+        {
+          "row": "Plant A (Ohio)",
+          "col": "Automotive Brackets",
+          "value": 25.0
+        },
+        {
+          "row": "Plant A (Ohio)",
+          "col": "Electrical Enclosures",
+          "value": 3.33
+        },
+        {
+          "row": "Plant A (Ohio)",
+          "col": "Hydraulic Valves",
+          "value": 28.57
+        },
+        {
+          "row": "Plant A (Ohio)",
+          "col": "Injection Molded Housings",
+          "value": 81.13
+        },
+        {
+          "row": "Plant A (Ohio)",
+          "col": "Precision Shafts",
+          "value": 16.98
+        },
+        {
+          "row": "Plant B (Texas)",
+          "col": "Automotive Brackets",
+          "value": 28.12
+        },
+        {
+          "row": "Plant B (Texas)",
+          "col": "Electrical Enclosures",
+          "value": 13.04
+        },
+        {
+          "row": "Plant B (Texas)",
+          "col": "Hydraulic Valves",
+          "value": 15.79
+        },
+        {
+          "row": "Plant B (Texas)",
+          "col": "Injection Molded Housings",
+          "value": 68.57
+        },
+        {
+          "row": "Plant B (Texas)",
+          "col": "Precision Shafts",
+          "value": 11.39
+        },
+        {
+          "row": "Plant C (Monterrey)",
+          "col": "Automotive Brackets",
+          "value": 12.94
+        },
+        {
+          "row": "Plant C (Monterrey)",
+          "col": "Electrical Enclosures",
+          "value": 11.29
+        },
+        {
+          "row": "Plant C (Monterrey)",
+          "col": "Hydraulic Valves",
+          "value": 9.38
+        },
+        {
+          "row": "Plant C (Monterrey)",
+          "col": "Injection Molded Housings",
+          "value": 61.19
+        },
+        {
+          "row": "Plant C (Monterrey)",
+          "col": "Precision Shafts",
+          "value": 9.72
+        }
+      ],
+      "outcome": "monitor"
+    },
+    {
+      "id": "priority_breakdown",
+      "title": "Batches by priority",
+      "type": "bar",
+      "question": "How many batches need action now?",
+      "x_label": "Priority",
+      "y_label": "Batches",
+      "data": [
+        {
+          "label": "P1_URGENT",
+          "value": 10
+        },
+        {
+          "label": "P2_HIGH",
+          "value": 990
+        },
+        {
+          "label": "P3_MEDIUM",
+          "value": 0
+        },
+        {
+          "label": "P4_ROUTINE",
+          "value": 0
+        }
+      ],
+      "outcome": "decide"
+    },
+    {
+      "id": "risk_score",
+      "title": "Quality risk score by cost group",
+      "type": "histogram",
+      "question": "Does the risk score separate expensive batches?",
+      "x_label": "quality_risk_score",
+      "y_label": "Batches",
+      "data": [
+        {
+          "label": "4.67 to 10.14",
+          "value": 25
+        },
+        {
+          "label": "10.14 to 15.62",
+          "value": 55
+        },
+        {
+          "label": "15.62 to 21.09",
+          "value": 51
+        },
+        {
+          "label": "21.09 to 26.56",
+          "value": 67
+        },
+        {
+          "label": "26.56 to 32.04",
+          "value": 74
+        },
+        {
+          "label": "32.04 to 37.51",
+          "value": 97
+        },
+        {
+          "label": "37.51 to 42.98",
+          "value": 96
+        },
+        {
+          "label": "42.98 to 48.46",
+          "value": 83
+        },
+        {
+          "label": "48.46 to 53.93",
+          "value": 87
+        },
+        {
+          "label": "53.93 to 59.40",
+          "value": 97
+        },
+        {
+          "label": "59.40 to 64.87",
+          "value": 77
+        },
+        {
+          "label": "64.87 to 70.35",
+          "value": 76
+        },
+        {
+          "label": "70.35 to 75.82",
+          "value": 49
+        },
+        {
+          "label": "75.82 to 81.29",
+          "value": 35
+        },
+        {
+          "label": "81.29 to 86.77",
+          "value": 31
+        }
+      ],
+      "outcome": "decide"
+    },
+    {
+      "id": "segment_sizes",
+      "title": "Batches by risk segment",
+      "type": "bar",
+      "question": "How many batches sit in each risk segment?",
+      "x_label": "Segment",
+      "y_label": "Batches",
+      "data": [
+        {
+          "label": "Low risk",
+          "value": 822
+        },
+        {
+          "label": "Medium risk",
+          "value": 149
+        },
+        {
+          "label": "High risk",
+          "value": 29
+        }
+      ],
+      "outcome": "understand"
+    }
+  ]
+}

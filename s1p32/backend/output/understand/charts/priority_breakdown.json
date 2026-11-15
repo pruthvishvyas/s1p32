@@ -1,0 +1,27 @@
+{
+  "id": "priority_breakdown",
+  "title": "Batches by priority",
+  "type": "bar",
+  "question": "How many batches need action now?",
+  "x_label": "Priority",
+  "y_label": "Batches",
+  "data": [
+    {
+      "label": "P1_URGENT",
+      "value": 10
+    },
+    {
+      "label": "P2_HIGH",
+      "value": 990
+    },
+    {
+      "label": "P3_MEDIUM",
+      "value": 0
+    },
+    {
+      "label": "P4_ROUTINE",
+      "value": 0
+    }
+  ],
+  "outcome": "decide"
+}

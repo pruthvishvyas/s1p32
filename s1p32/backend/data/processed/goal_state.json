@@ -1,0 +1,32 @@
+{
+  "progress": [
+    {
+      "key": "revenue_target",
+      "label": "Monthly revenue",
+      "target": null,
+      "actual": 12567472.57,
+      "unit": "currency",
+      "pct": null,
+      "status": "no_target"
+    },
+    {
+      "key": "copq_ceiling_pct",
+      "label": "COPQ as % of revenue",
+      "target": null,
+      "actual": 2.0115,
+      "unit": "percent",
+      "pct": null,
+      "status": "no_target"
+    },
+    {
+      "key": "alert_drop_pct",
+      "label": "Revenue drop versus prior month",
+      "target": 20,
+      "actual": 0.0,
+      "unit": "percent",
+      "pct": 0.0,
+      "status": "on_track"
+    }
+  ],
+  "alerts": []
+}

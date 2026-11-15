@@ -1,0 +1,82 @@
+{
+  "runs": [
+    {
+      "started": "2026-11-14T20:21:40",
+      "finished": "2026-11-14T20:23:24",
+      "stages": [
+        {
+          "name": "Data validation",
+          "status": "ok",
+          "seconds": 0.24,
+          "reason": ""
+        },
+        {
+          "name": "Data cleaning",
+          "status": "ok",
+          "seconds": 0.66,
+          "reason": ""
+        },
+        {
+          "name": "Feature table",
+          "status": "ok",
+          "seconds": 0.81,
+          "reason": ""
+        },
+        {
+          "name": "Exploratory charts",
+          "status": "ok",
+          "seconds": 10.2,
+          "reason": ""
+        },
+        {
+          "name": "Batch cost classifier",
+          "status": "ok",
+          "seconds": 25.89,
+          "reason": ""
+        },
+        {
+          "name": "Batch segments and anomalies",
+          "status": "ok",
+          "seconds": 4.65,
+          "reason": ""
+        },
+        {
+          "name": "Weekly COPQ forecast",
+          "status": "ok",
+          "seconds": 0.07,
+          "reason": ""
+        },
+        {
+          "name": "Alerts and actions",
+          "status": "ok",
+          "seconds": 0.61,
+          "reason": ""
+        },
+        {
+          "name": "What-if scenarios",
+          "status": "ok",
+          "seconds": 0.1,
+          "reason": ""
+        },
+        {
+          "name": "Goals and alerts",
+          "status": "ok",
+          "seconds": 0.08,
+          "reason": ""
+        },
+        {
+          "name": "Insights",
+          "status": "ok",
+          "seconds": 0.23,
+          "reason": ""
+        },
+        {
+          "name": "Workbook and overview page",
+          "status": "ok",
+          "seconds": 10.41,
+          "reason": ""
+        }
+      ]
+    }
+  ]
+}

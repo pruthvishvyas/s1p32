@@ -1,0 +1,287 @@
+{
+  "id": "cpk_uplift",
+  "title": "Raise process capability",
+  "description": "Projected effect of lifting Cpk on every batch by the chosen amount.",
+  "variable": {
+    "key": "cpk_uplift",
+    "label": "Cpk increase",
+    "unit": "Cpk points",
+    "min": 0,
+    "max": 0.6,
+    "step": 0.02,
+    "default": 0.2,
+    "format": "decimal"
+  },
+  "outputs": [
+    {
+      "key": "copq_pct",
+      "label": "COPQ as % of revenue",
+      "format": "percent"
+    },
+    {
+      "key": "saving",
+      "label": "Quality cost saved",
+      "format": "currency"
+    },
+    {
+      "key": "margin_pct",
+      "label": "Margin after quality %",
+      "format": "percent"
+    }
+  ],
+  "table": [
+    {
+      "x": 0.0,
+      "values": {
+        "copq_pct": 2.3957,
+        "saving": 0.0,
+        "margin_pct": 19.509
+      }
+    },
+    {
+      "x": 0.02,
+      "values": {
+        "copq_pct": 2.3428,
+        "saving": 76659.3011,
+        "margin_pct": 19.5618
+      }
+    },
+    {
+      "x": 0.04,
+      "values": {
+        "copq_pct": 2.2899,
+        "saving": 153318.6022,
+        "margin_pct": 19.6147
+      }
+    },
+    {
+      "x": 0.06,
+      "values": {
+        "copq_pct": 2.237,
+        "saving": 229977.9032,
+        "margin_pct": 19.6676
+      }
+    },
+    {
+      "x": 0.08,
+      "values": {
+        "copq_pct": 2.1841,
+        "saving": 306637.2043,
+        "margin_pct": 19.7205
+      }
+    },
+    {
+      "x": 0.1,
+      "values": {
+        "copq_pct": 2.1312,
+        "saving": 383296.5054,
+        "margin_pct": 19.7734
+      }
+    },
+    {
+      "x": 0.12,
+      "values": {
+        "copq_pct": 2.0783,
+        "saving": 459955.8065,
+        "margin_pct": 19.8263
+      }
+    },
+    {
+      "x": 0.14,
+      "values": {
+        "copq_pct": 2.0255,
+        "saving": 536615.1075,
+        "margin_pct": 19.8792
+      }
+    },
+    {
+      "x": 0.16,
+      "values": {
+        "copq_pct": 1.9726,
+        "saving": 613274.4086,
+        "margin_pct": 19.9321
+      }
+    },
+    {
+      "x": 0.18,
+      "values": {
+        "copq_pct": 1.9197,
+        "saving": 689933.7097,
+        "margin_pct": 19.9849
+      }
+    },
+    {
+      "x": 0.2,
+      "values": {
+        "copq_pct": 1.8668,
+        "saving": 766593.0108,
+        "margin_pct": 20.0378
+      }
+    },
+    {
+      "x": 0.22,
+      "values": {
+        "copq_pct": 1.8139,
+        "saving": 843252.3118,
+        "margin_pct": 20.0907
+      }
+    },
+    {
+      "x": 0.24,
+      "values": {
+        "copq_pct": 1.761,
+        "saving": 919911.6129,
+        "margin_pct": 20.1436
+      }
+    },
+    {
+      "x": 0.26,
+      "values": {
+        "copq_pct": 1.7081,
+        "saving": 996570.914,
+        "margin_pct": 20.1965
+      }
+    },
+    {
+      "x": 0.28,
+      "values": {
+        "copq_pct": 1.6552,
+        "saving": 1073230.2151,
+        "margin_pct": 20.2494
+      }
+    },
+    {
+      "x": 0.3,
+      "values": {
+        "copq_pct": 1.6024,
+        "saving": 1149889.5161,
+        "margin_pct": 20.3023
+      }
+    },
+    {
+      "x": 0.32,
+      "values": {
+        "copq_pct": 1.5495,
+        "saving": 1226548.8172,
+        "margin_pct": 20.3552
+      }
+    },
+    {
+      "x": 0.34,
+      "values": {
+        "copq_pct": 1.4966,
+        "saving": 1303208.1183,
+        "margin_pct": 20.408
+      }
+    },
+    {
+      "x": 0.36,
+      "values": {
+        "copq_pct": 1.4437,
+        "saving": 1379867.4194,
+        "margin_pct": 20.4609
+      }
+    },
+    {
+      "x": 0.38,
+      "values": {
+        "copq_pct": 1.3908,
+        "saving": 1456526.7204,
+        "margin_pct": 20.5138
+      }
+    },
+    {
+      "x": 0.4,
+      "values": {
+        "copq_pct": 1.3379,
+        "saving": 1533186.0215,
+        "margin_pct": 20.5667
+      }
+    },
+    {
+      "x": 0.42,
+      "values": {
+        "copq_pct": 1.285,
+        "saving": 1609845.3226,
+        "margin_pct": 20.6196
+      }
+    },
+    {
+      "x": 0.44,
+      "values": {
+        "copq_pct": 1.2322,
+        "saving": 1686504.6237,
+        "margin_pct": 20.6725
+      }
+    },
+    {
+      "x": 0.46,
+      "values": {
+        "copq_pct": 1.1793,
+        "saving": 1763163.9247,
+        "margin_pct": 20.7254
+      }
+    },
+    {
+      "x": 0.48,
+      "values": {
+        "copq_pct": 1.1264,
+        "saving": 1839823.2258,
+        "margin_pct": 20.7782
+      }
+    },
+    {
+      "x": 0.5,
+      "values": {
+        "copq_pct": 1.0735,
+        "saving": 1916482.5269,
+        "margin_pct": 20.8311
+      }
+    },
+    {
+      "x": 0.52,
+      "values": {
+        "copq_pct": 1.0206,
+        "saving": 1993141.828,
+        "margin_pct": 20.884
+      }
+    },
+    {
+      "x": 0.54,
+      "values": {
+        "copq_pct": 0.9677,
+        "saving": 2069801.1291,
+        "margin_pct": 20.9369
+      }
+    },
+    {
+      "x": 0.56,
+      "values": {
+        "copq_pct": 0.9148,
+        "saving": 2146460.4301,
+        "margin_pct": 20.9898
+      }
+    },
+    {
+      "x": 0.58,
+      "values": {
+        "copq_pct": 0.8619,
+        "saving": 2223119.7312,
+        "margin_pct": 21.0427
+      }
+    },
+    {
+      "x": 0.6,
+      "values": {
+        "copq_pct": 0.8091,
+        "saving": 2299779.0323,
+        "margin_pct": 21.0956
+      }
+    }
+  ],
+  "assumptions": [
+    "Uses the observed slope of COPQ share against Cpk across batches (-2.64 points per Cpk point).",
+    "An association in past batches, not a tested effect.",
+    "Revenue and volumes held constant."
+  ]
+}

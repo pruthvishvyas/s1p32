@@ -1,0 +1,86 @@
+{
+  "id": "plant_family_heat",
+  "title": "High cost batches by plant and family",
+  "type": "heatmap",
+  "question": "Which plant and family pairs need attention?",
+  "x_label": "Product family",
+  "y_label": "Plant",
+  "data": [
+    {
+      "row": "Plant A (Ohio)",
+      "col": "Automotive Brackets",
+      "value": 25.0
+    },
+    {
+      "row": "Plant A (Ohio)",
+      "col": "Electrical Enclosures",
+      "value": 3.33
+    },
+    {
+      "row": "Plant A (Ohio)",
+      "col": "Hydraulic Valves",
+      "value": 28.57
+    },
+    {
+      "row": "Plant A (Ohio)",
+      "col": "Injection Molded Housings",
+      "value": 81.13
+    },
+    {
+      "row": "Plant A (Ohio)",
+      "col": "Precision Shafts",
+      "value": 16.98
+    },
+    {
+      "row": "Plant B (Texas)",
+      "col": "Automotive Brackets",
+      "value": 28.12
+    },
+    {
+      "row": "Plant B (Texas)",
+      "col": "Electrical Enclosures",
+      "value": 13.04
+    },
+    {
+      "row": "Plant B (Texas)",
+      "col": "Hydraulic Valves",
+      "value": 15.79
+    },
+    {
+      "row": "Plant B (Texas)",
+      "col": "Injection Molded Housings",
+      "value": 68.57
+    },
+    {
+      "row": "Plant B (Texas)",
+      "col": "Precision Shafts",
+      "value": 11.39
+    },
+    {
+      "row": "Plant C (Monterrey)",
+      "col": "Automotive Brackets",
+      "value": 12.94
+    },
+    {
+      "row": "Plant C (Monterrey)",
+      "col": "Electrical Enclosures",
+      "value": 11.29
+    },
+    {
+      "row": "Plant C (Monterrey)",
+      "col": "Hydraulic Valves",
+      "value": 9.38
+    },
+    {
+      "row": "Plant C (Monterrey)",
+      "col": "Injection Molded Housings",
+      "value": 61.19
+    },
+    {
+      "row": "Plant C (Monterrey)",
+      "col": "Precision Shafts",
+      "value": 9.72
+    }
+  ],
+  "outcome": "monitor"
+}

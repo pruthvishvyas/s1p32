@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "cpk_uplift",
+      "title": "Raise process capability",
+      "file": "decide/simulations/cpk_uplift.json"
+    },
+    {
+      "id": "special_cause_cut",
+      "title": "Cut special cause events",
+      "file": "decide/simulations/special_cause_cut.json"
+    },
+    {
+      "id": "scrap_rework_cut",
+      "title": "Reduce scrap and rework cost",
+      "file": "decide/simulations/scrap_rework_cut.json"
+    }
+  ]
+}

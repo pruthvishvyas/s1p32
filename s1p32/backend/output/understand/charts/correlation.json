@@ -1,0 +1,511 @@
+{
+  "id": "correlation",
+  "title": "Correlation of quality and cost measures",
+  "type": "heatmap",
+  "question": "Which quality measures move together with cost?",
+  "x_label": "Measure",
+  "y_label": "Measure",
+  "data": [
+    {
+      "row": "Process_Cpk",
+      "col": "Process_Cpk",
+      "value": 1.0
+    },
+    {
+      "row": "Process_Cpk",
+      "col": "batch_defect_rate_pct",
+      "value": -0.282
+    },
+    {
+      "row": "Process_Cpk",
+      "col": "scrap_rate_pct",
+      "value": -0.19
+    },
+    {
+      "row": "Process_Cpk",
+      "col": "rework_rate_pct",
+      "value": -0.194
+    },
+    {
+      "row": "Process_Cpk",
+      "col": "escape_rate_per_1000",
+      "value": -0.106
+    },
+    {
+      "row": "Process_Cpk",
+      "col": "severity_index",
+      "value": -0.312
+    },
+    {
+      "row": "Process_Cpk",
+      "col": "COPQ_pct_of_Revenue",
+      "value": -0.085
+    },
+    {
+      "row": "Process_Cpk",
+      "col": "Margin_pct",
+      "value": 0.068
+    },
+    {
+      "row": "Process_Cpk",
+      "col": "Machine_Age_Years",
+      "value": -0.427
+    },
+    {
+      "row": "Process_Cpk",
+      "col": "quality_risk_score",
+      "value": -0.703
+    },
+    {
+      "row": "batch_defect_rate_pct",
+      "col": "Process_Cpk",
+      "value": -0.282
+    },
+    {
+      "row": "batch_defect_rate_pct",
+      "col": "batch_defect_rate_pct",
+      "value": 1.0
+    },
+    {
+      "row": "batch_defect_rate_pct",
+      "col": "scrap_rate_pct",
+      "value": 0.857
+    },
+    {
+      "row": "batch_defect_rate_pct",
+      "col": "rework_rate_pct",
+      "value": 0.837
+    },
+    {
+      "row": "batch_defect_rate_pct",
+      "col": "escape_rate_per_1000",
+      "value": 0.018
+    },
+    {
+      "row": "batch_defect_rate_pct",
+      "col": "severity_index",
+      "value": 0.955
+    },
+    {
+      "row": "batch_defect_rate_pct",
+      "col": "COPQ_pct_of_Revenue",
+      "value": 0.131
+    },
+    {
+      "row": "batch_defect_rate_pct",
+      "col": "Margin_pct",
+      "value": -0.121
+    },
+    {
+      "row": "batch_defect_rate_pct",
+      "col": "Machine_Age_Years",
+      "value": 0.155
+    },
+    {
+      "row": "batch_defect_rate_pct",
+      "col": "quality_risk_score",
+      "value": 0.588
+    },
+    {
+      "row": "scrap_rate_pct",
+      "col": "Process_Cpk",
+      "value": -0.19
+    },
+    {
+      "row": "scrap_rate_pct",
+      "col": "batch_defect_rate_pct",
+      "value": 0.857
+    },
+    {
+      "row": "scrap_rate_pct",
+      "col": "scrap_rate_pct",
+      "value": 1.0
+    },
+    {
+      "row": "scrap_rate_pct",
+      "col": "rework_rate_pct",
+      "value": 0.938
+    },
+    {
+      "row": "scrap_rate_pct",
+      "col": "escape_rate_per_1000",
+      "value": -0.487
+    },
+    {
+      "row": "scrap_rate_pct",
+      "col": "severity_index",
+      "value": 0.832
+    },
+    {
+      "row": "scrap_rate_pct",
+      "col": "COPQ_pct_of_Revenue",
+      "value": 0.112
+    },
+    {
+      "row": "scrap_rate_pct",
+      "col": "Margin_pct",
+      "value": -0.106
+    },
+    {
+      "row": "scrap_rate_pct",
+      "col": "Machine_Age_Years",
+      "value": 0.084
+    },
+    {
+      "row": "scrap_rate_pct",
+      "col": "quality_risk_score",
+      "value": 0.273
+    },
+    {
+      "row": "rework_rate_pct",
+      "col": "Process_Cpk",
+      "value": -0.194
+    },
+    {
+      "row": "rework_rate_pct",
+      "col": "batch_defect_rate_pct",
+      "value": 0.837
+    },
+    {
+      "row": "rework_rate_pct",
+      "col": "scrap_rate_pct",
+      "value": 0.938
+    },
+    {
+      "row": "rework_rate_pct",
+      "col": "rework_rate_pct",
+      "value": 1.0
+    },
+    {
+      "row": "rework_rate_pct",
+      "col": "escape_rate_per_1000",
+      "value": -0.479
+    },
+    {
+      "row": "rework_rate_pct",
+      "col": "severity_index",
+      "value": 0.812
+    },
+    {
+      "row": "rework_rate_pct",
+      "col": "COPQ_pct_of_Revenue",
+      "value": 0.108
+    },
+    {
+      "row": "rework_rate_pct",
+      "col": "Margin_pct",
+      "value": -0.1
+    },
+    {
+      "row": "rework_rate_pct",
+      "col": "Machine_Age_Years",
+      "value": 0.088
+    },
+    {
+      "row": "rework_rate_pct",
+      "col": "quality_risk_score",
+      "value": 0.277
+    },
+    {
+      "row": "escape_rate_per_1000",
+      "col": "Process_Cpk",
+      "value": -0.106
+    },
+    {
+      "row": "escape_rate_per_1000",
+      "col": "batch_defect_rate_pct",
+      "value": 0.018
+    },
+    {
+      "row": "escape_rate_per_1000",
+      "col": "scrap_rate_pct",
+      "value": -0.487
+    },
+    {
+      "row": "escape_rate_per_1000",
+      "col": "rework_rate_pct",
+      "value": -0.479
+    },
+    {
+      "row": "escape_rate_per_1000",
+      "col": "escape_rate_per_1000",
+      "value": 1.0
+    },
+    {
+      "row": "escape_rate_per_1000",
+      "col": "severity_index",
+      "value": -0.01
+    },
+    {
+      "row": "escape_rate_per_1000",
+      "col": "COPQ_pct_of_Revenue",
+      "value": 0.006
+    },
+    {
+      "row": "escape_rate_per_1000",
+      "col": "Margin_pct",
+      "value": -0.001
+    },
+    {
+      "row": "escape_rate_per_1000",
+      "col": "Machine_Age_Years",
+      "value": 0.098
+    },
+    {
+      "row": "escape_rate_per_1000",
+      "col": "quality_risk_score",
+      "value": 0.468
+    },
+    {
+      "row": "severity_index",
+      "col": "Process_Cpk",
+      "value": -0.312
+    },
+    {
+      "row": "severity_index",
+      "col": "batch_defect_rate_pct",
+      "value": 0.955
+    },
+    {
+      "row": "severity_index",
+      "col": "scrap_rate_pct",
+      "value": 0.832
+    },
+    {
+      "row": "severity_index",
+      "col": "rework_rate_pct",
+      "value": 0.812
+    },
+    {
+      "row": "severity_index",
+      "col": "escape_rate_per_1000",
+      "value": -0.01
+    },
+    {
+      "row": "severity_index",
+      "col": "severity_index",
+      "value": 1.0
+    },
+    {
+      "row": "severity_index",
+      "col": "COPQ_pct_of_Revenue",
+      "value": 0.173
+    },
+    {
+      "row": "severity_index",
+      "col": "Margin_pct",
+      "value": -0.162
+    },
+    {
+      "row": "severity_index",
+      "col": "Machine_Age_Years",
+      "value": 0.165
+    },
+    {
+      "row": "severity_index",
+      "col": "quality_risk_score",
+      "value": 0.606
+    },
+    {
+      "row": "COPQ_pct_of_Revenue",
+      "col": "Process_Cpk",
+      "value": -0.085
+    },
+    {
+      "row": "COPQ_pct_of_Revenue",
+      "col": "batch_defect_rate_pct",
+      "value": 0.131
+    },
+    {
+      "row": "COPQ_pct_of_Revenue",
+      "col": "scrap_rate_pct",
+      "value": 0.112
+    },
+    {
+      "row": "COPQ_pct_of_Revenue",
+      "col": "rework_rate_pct",
+      "value": 0.108
+    },
+    {
+      "row": "COPQ_pct_of_Revenue",
+      "col": "escape_rate_per_1000",
+      "value": 0.006
+    },
+    {
+      "row": "COPQ_pct_of_Revenue",
+      "col": "severity_index",
+      "value": 0.173
+    },
+    {
+      "row": "COPQ_pct_of_Revenue",
+      "col": "COPQ_pct_of_Revenue",
+      "value": 1.0
+    },
+    {
+      "row": "COPQ_pct_of_Revenue",
+      "col": "Margin_pct",
+      "value": -0.947
+    },
+    {
+      "row": "COPQ_pct_of_Revenue",
+      "col": "Machine_Age_Years",
+      "value": 0.033
+    },
+    {
+      "row": "COPQ_pct_of_Revenue",
+      "col": "quality_risk_score",
+      "value": 0.143
+    },
+    {
+      "row": "Margin_pct",
+      "col": "Process_Cpk",
+      "value": 0.068
+    },
+    {
+      "row": "Margin_pct",
+      "col": "batch_defect_rate_pct",
+      "value": -0.121
+    },
+    {
+      "row": "Margin_pct",
+      "col": "scrap_rate_pct",
+      "value": -0.106
+    },
+    {
+      "row": "Margin_pct",
+      "col": "rework_rate_pct",
+      "value": -0.1
+    },
+    {
+      "row": "Margin_pct",
+      "col": "escape_rate_per_1000",
+      "value": -0.001
+    },
+    {
+      "row": "Margin_pct",
+      "col": "severity_index",
+      "value": -0.162
+    },
+    {
+      "row": "Margin_pct",
+      "col": "COPQ_pct_of_Revenue",
+      "value": -0.947
+    },
+    {
+      "row": "Margin_pct",
+      "col": "Margin_pct",
+      "value": 1.0
+    },
+    {
+      "row": "Margin_pct",
+      "col": "Machine_Age_Years",
+      "value": -0.013
+    },
+    {
+      "row": "Margin_pct",
+      "col": "quality_risk_score",
+      "value": -0.124
+    },
+    {
+      "row": "Machine_Age_Years",
+      "col": "Process_Cpk",
+      "value": -0.427
+    },
+    {
+      "row": "Machine_Age_Years",
+      "col": "batch_defect_rate_pct",
+      "value": 0.155
+    },
+    {
+      "row": "Machine_Age_Years",
+      "col": "scrap_rate_pct",
+      "value": 0.084
+    },
+    {
+      "row": "Machine_Age_Years",
+      "col": "rework_rate_pct",
+      "value": 0.088
+    },
+    {
+      "row": "Machine_Age_Years",
+      "col": "escape_rate_per_1000",
+      "value": 0.098
+    },
+    {
+      "row": "Machine_Age_Years",
+      "col": "severity_index",
+      "value": 0.165
+    },
+    {
+      "row": "Machine_Age_Years",
+      "col": "COPQ_pct_of_Revenue",
+      "value": 0.033
+    },
+    {
+      "row": "Machine_Age_Years",
+      "col": "Margin_pct",
+      "value": -0.013
+    },
+    {
+      "row": "Machine_Age_Years",
+      "col": "Machine_Age_Years",
+      "value": 1.0
+    },
+    {
+      "row": "Machine_Age_Years",
+      "col": "quality_risk_score",
+      "value": 0.365
+    },
+    {
+      "row": "quality_risk_score",
+      "col": "Process_Cpk",
+      "value": -0.703
+    },
+    {
+      "row": "quality_risk_score",
+      "col": "batch_defect_rate_pct",
+      "value": 0.588
+    },
+    {
+      "row": "quality_risk_score",
+      "col": "scrap_rate_pct",
+      "value": 0.273
+    },
+    {
+      "row": "quality_risk_score",
+      "col": "rework_rate_pct",
+      "value": 0.277
+    },
+    {
+      "row": "quality_risk_score",
+      "col": "escape_rate_per_1000",
+      "value": 0.468
+    },
+    {
+      "row": "quality_risk_score",
+      "col": "severity_index",
+      "value": 0.606
+    },
+    {
+      "row": "quality_risk_score",
+      "col": "COPQ_pct_of_Revenue",
+      "value": 0.143
+    },
+    {
+      "row": "quality_risk_score",
+      "col": "Margin_pct",
+      "value": -0.124
+    },
+    {
+      "row": "quality_risk_score",
+      "col": "Machine_Age_Years",
+      "value": 0.365
+    },
+    {
+      "row": "quality_risk_score",
+      "col": "quality_risk_score",
+      "value": 1.0
+    }
+  ],
+  "outcome": "understand"
+}

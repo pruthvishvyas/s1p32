@@ -1,0 +1,19 @@
+{
+  "id": "cost_mix",
+  "title": "Batches by cost of poor quality",
+  "type": "bar",
+  "question": "How many batches sit in the worst quarter by cost of poor quality?",
+  "x_label": "Group",
+  "y_label": "Batches",
+  "data": [
+    {
+      "label": "Standard cost",
+      "value": 744
+    },
+    {
+      "label": "High cost",
+      "value": 256
+    }
+  ],
+  "outcome": "understand"
+}

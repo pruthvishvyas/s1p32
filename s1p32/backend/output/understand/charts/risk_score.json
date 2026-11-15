@@ -1,0 +1,71 @@
+{
+  "id": "risk_score",
+  "title": "Quality risk score by cost group",
+  "type": "histogram",
+  "question": "Does the risk score separate expensive batches?",
+  "x_label": "quality_risk_score",
+  "y_label": "Batches",
+  "data": [
+    {
+      "label": "4.67 to 10.14",
+      "value": 25
+    },
+    {
+      "label": "10.14 to 15.62",
+      "value": 55
+    },
+    {
+      "label": "15.62 to 21.09",
+      "value": 51
+    },
+    {
+      "label": "21.09 to 26.56",
+      "value": 67
+    },
+    {
+      "label": "26.56 to 32.04",
+      "value": 74
+    },
+    {
+      "label": "32.04 to 37.51",
+      "value": 97
+    },
+    {
+      "label": "37.51 to 42.98",
+      "value": 96
+    },
+    {
+      "label": "42.98 to 48.46",
+      "value": 83
+    },
+    {
+      "label": "48.46 to 53.93",
+      "value": 87
+    },
+    {
+      "label": "53.93 to 59.40",
+      "value": 97
+    },
+    {
+      "label": "59.40 to 64.87",
+      "value": 77
+    },
+    {
+      "label": "64.87 to 70.35",
+      "value": 76
+    },
+    {
+      "label": "70.35 to 75.82",
+      "value": 49
+    },
+    {
+      "label": "75.82 to 81.29",
+      "value": 35
+    },
+    {
+      "label": "81.29 to 86.77",
+      "value": 31
+    }
+  ],
+  "outcome": "decide"
+}

@@ -1,0 +1,38 @@
+{
+  "method": "KMeans with three clusters on standardised quality measures",
+  "items": [
+    {
+      "name": "Low risk",
+      "size": 822,
+      "share": 82.2,
+      "summary": {
+        "Average process Cpk": 1.5158,
+        "COPQ as % of revenue": 2.2059,
+        "High cost batches %": 22.0195
+      },
+      "description": "Batches grouped by similar defect, scrap, rework and capability measures, ranked by quality risk score."
+    },
+    {
+      "name": "Medium risk",
+      "size": 149,
+      "share": 14.9,
+      "summary": {
+        "Average process Cpk": 1.4358,
+        "COPQ as % of revenue": 2.9039,
+        "High cost batches %": 30.8725
+      },
+      "description": "Batches grouped by similar defect, scrap, rework and capability measures, ranked by quality risk score."
+    },
+    {
+      "name": "High risk",
+      "size": 29,
+      "share": 2.9,
+      "summary": {
+        "Average process Cpk": 1.4276,
+        "COPQ as % of revenue": 4.8152,
+        "High cost batches %": 100.0
+      },
+      "description": "Batches grouped by similar defect, scrap, rework and capability measures, ranked by quality risk score."
+    }
+  ]
+}

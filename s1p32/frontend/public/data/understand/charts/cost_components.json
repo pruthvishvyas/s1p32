@@ -1,0 +1,35 @@
+{
+  "id": "cost_components",
+  "title": "Quality cost by component",
+  "type": "bar",
+  "question": "Which cost buckets make up the quality bill?",
+  "x_label": "Component",
+  "y_label": "Cost",
+  "data": [
+    {
+      "label": "Warranty",
+      "value": 1896047.9
+    },
+    {
+      "label": "Recall",
+      "value": 549368.19
+    },
+    {
+      "label": "Appraisal",
+      "value": 541867.0
+    },
+    {
+      "label": "Scrap",
+      "value": 333632.02
+    },
+    {
+      "label": "Prevention",
+      "value": 103356.39
+    },
+    {
+      "label": "Rework",
+      "value": 48215.88
+    }
+  ],
+  "outcome": "understand"
+}
